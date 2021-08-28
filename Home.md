@@ -3,3 +3,9 @@ Welcome to the VTubeStudio wiki!
  ![Test](https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/test.png)
 
 <img src="https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/test.png" align="left" height="348" width="348" >
+
+
+
+ ![Test](https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/voice_lipsync.png)
+
+ ![Test](https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/vts_basic_setup_small.png)
