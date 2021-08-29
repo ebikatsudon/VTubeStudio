@@ -6,7 +6,7 @@ VTube Studio is an app available for **[iPhone/iPad](https://apps.apple.com/us/a
 
 Wanna see some examples? Just search ["VTube Studio" on Twitter](https://twitter.com/search?q=VTube%20Studio&f=video).
 
-This online manual contains information about all features of VTube Studio, as well as a few tutorials. Please choose a topic from the main menu.
+This online manual contains information about all features of VTube Studio, as well as a few tutorials. Please scroll down and choose a topic from the main menu.
 
 [[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/screenshots/screenshots_all.png|alt="Screenshots"]]](https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/screenshots/screenshots_all.png)
 
