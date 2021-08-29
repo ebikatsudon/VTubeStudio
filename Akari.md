@@ -1,1 +1,1 @@
-a
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/akari_gif.gif|alt="VTube Studio Logo"|height=830px|width=830px]]
