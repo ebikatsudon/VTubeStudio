@@ -15,7 +15,7 @@ If you have trouble connecting your smartphone to the PC app (smartphone app is 
   * If your router has multiple WiFi networks available, make sure it is the same for your PC and smartphone. Also, try both networks.
 * On Windows, make sure the used network is set to "Private" (see image below).
 * Try turning off your Anti-Virus software temporarily.
-* If "Updated" are shown as 0, you may have to restart the app once.
+* If "Updates" are shown as 0, you may have to restart the app once.
 * If you have a VPN, see if there's an option related to "Invisible to Devices" switched on.
 * Make sure iOS/Android and the app are up to date.
 * Network extending devices and access points like Google Nest may cause problems.
@@ -26,6 +26,21 @@ If you have trouble connecting your smartphone to the PC app (smartphone app is 
 * Sometimes, VTube Studio reports the wrong server IP in the Steam version. Try opening a terminal on windows and type "ipconfig". If this shows IPs not listed in VTube Studio, try out all of them in the smartphone app.
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/firewall_config.png]]
+
+## Network Lag Troubleshooting (general)
+
+If you experience lag or short breaks/freezes when streaming to PC, work through the following list:
+* First, try restarting your router. That sometimes helps.
+* Are you on WiFi?
+  * In some extreme cases, your WiFi reception may cause lag or even very long (multiple seconds) delays in packets being sent over your network. Make sure you use 5GHz WiFi and not 2.4 as depending on your environment, 2.4 Ghz WiFi can have wildly unstable latency.
+  * With WiFi, the latency still shouldn’t be higher than 10 milliseconds.
+* If possible, use wired LAN connection instead of WiFi. This will give you a lag-free, 1-ms latency connection. You can use wired LAN on your smartphone using an adapter such as [this one for Android (USB-C)](https://www.amazon.com/dp/B0823CB5MT/) or [this one for iPhone/iPad](https://www.amazon.com/Lighting-Ethernet-Adapter-Network-100Mbps/dp/B07VK8Q36S/).
+* Try changing the WiFi-channel that your router uses. When there are routers nearby sending on the same channel, this will cause lag/packet drop issues.
+* If nothing helps, try out "ping" / "network analyzer" apps from your smartphone app store to analyze the network connection between your smartphone and PC. This often helps you understand when/why the freezes occur.
+
+
+## Network Lag Troubleshooting (macOS and iPhone)
+
 
 
 
