@@ -78,19 +78,30 @@ Add a background in OBS, then add a capture for VTube Studio. To do that, select
 On macOS, this option is called **"Syphon Client"**, but does not work after macOS 10.14 Mojave (see https://github.com/zakk4223/SyphonInject), so you need to use a regular window capture and a chroma key filter.
 
 <p float="left">
-  <img src="https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/obs_4.png" width="390" /> 
-  <img src="https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/obs_5.png" width="390" /> 
+  <img src="https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/obs_4.png" width="394" /> 
+  <img src="https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/obs_5.png" width="394" /> 
 </p>
 
-Your capture is now active. On macOS, you need to add a filter to remove the green (or whatever color you selected) background using Right Click your capture -> Filters -> Add Filter -> Chroma Key.
+Your capture is now active. On macOS, you need to add a filter to remove the green (or whatever color you selected) background using **Right Click your capture → Filters → Add Filter → Chroma Key**.
 
 You can now place your character anywhere on screen by moving/scaling/rotating it in directly in VTube Studio or in OBS.
 
-Alternatively, you can use the Virtual Webcam feature or NDI in VTube Studio to create a webcam stream and then directly use that in apps like Zoom, Discord, etc. (see FAQ). 
+Alternatively, you can use the **Virtual Webcam feature** or **NDI** in VTube Studio to create a webcam stream and then directly use that in apps like Zoom, Discord, etc. (see FAQ). 
 
+## Using NDI for streaming to OBS with invisible UI (transparent background)
 
+It is recommended to use OBS "Game Capture" to record the VTS window. Alternatively, you can use the Virtual Webcam or Newtek NDI (Network Device Interface) to create a video stream that can be used as input for software such as OBS.
 
+The quality and latency of NDI streams is very good. It also supports a transparent background (no chroma/color key needed) and does not record the VTube Studio UI at all. CPU utilization of VTS may increase when using NDI. OBS plugins exist for macOS and Windows
 
+**OBS Plugin Page:** https://obsproject.com/forum/resources/obs-ndi-newtek-ndi%E2%84%A2-integration-into-obs-studio.528/
 
+**OBS Plugin Download (Win/Mac):** https://github.com/Palakis/obs-ndi/releases/tag/4.9.1 
+
+To use NDI, download the plugin from the GitHub-page linked above (.exe for Windows, .pkg for macOS) and install it. In VTube Studio, **activate the NDI toggle** in the **"Camera Settings" tab**. It is possible but not recommended to have NDI and the Virtual Webcam active at the same time.
+
+In OBS, the following settings are recommended. Sometimes the NDI streams seems distorted in OBS. If that happens, resize (per drag) the VTube Studio window until the stream "snaps back" to looking normal.
+
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/obs_ndi.png]]
 
 
