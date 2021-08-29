@@ -26,7 +26,7 @@ VTS Manual (1.10.31.a)
 * [[Taking/Sharing Screenshots]]
 * [[Item System]]
 * [[Plugins (YouTube, Twitch, etc.)]]
-* [[VTube Studio File Format]]
+* [[VTube Studio Model File]]
 * [[FAQ]]
 * [[Privacy Policy, Licensing and Further Terms]]
 
