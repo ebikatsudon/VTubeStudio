@@ -48,5 +48,19 @@ By the way, the animation was made by Walfie (@walfieee)
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/hint_bottom.png]]
 
 
+As a private person/streamer, you are allowed to use VTube Studio commercially even without purchasing any PRO versions or DLCs. This includes any kind of commercial use, including (but not limited to) monetized YouTube, Twitch, …, streams, superchats, Live2D model commissions, etc. If you can afford it and like VTube Studio, please support future development by purchasing it! <3
+
+This only applies to individual creators, smaller VTuber agencies and smaller companies in general. As a bigger company, you will need additional licensing. Please refer to the VTube Studio EULA for more information and/or contact us directly.
+
+* **EULA:** https://denchisoft.com/license/
+* **Contact:** mailto:denchi@denchisoft.com
+
+
+
+
+
+
+
+
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/virt_webcam.png]]
