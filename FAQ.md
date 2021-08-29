@@ -48,19 +48,42 @@ By the way, the animation was made by Walfie (@walfieee)
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/hint_bottom.png]]
 
 
-As a private person/streamer, you are allowed to use VTube Studio commercially even without purchasing any PRO versions or DLCs. This includes any kind of commercial use, including (but not limited to) monetized YouTube, Twitch, …, streams, superchats, Live2D model commissions, etc. If you can afford it and like VTube Studio, please support future development by purchasing it! <3
+**As a private person/streamer, you are allowed to use VTube Studio commercially even without purchasing any PRO versions or DLCs.** This includes any kind of commercial use, including (but not limited to) monetized YouTube, Twitch, ..., streams, superchats, Live2D model commissions, etc. **If you can afford it and like VTube Studio, please support future development by purchasing it! <3**
 
 This only applies to individual creators, smaller VTuber agencies and smaller companies in general. As a bigger company, you will need additional licensing. Please refer to the VTube Studio EULA for more information and/or contact us directly.
 
 * **EULA:** https://denchisoft.com/license/
-* **Contact:** mailto:denchi@denchisoft.com
+* **Contact:** denchi@denchisoft.com
+
+## Can I try VTube Studio before buying it?
+
+**You can and should!**
+
+The app on Android and iOS itself is free and has a PRO version. The free version contains all features (including loading your own models), so please try VTube Studio first before purchasing.
+
+On Steam, the app is free as well including all features. You only need to purchase the Steam DLC if you want to get rid of the watermark otherwise shown while using webcam tracking.
+
+## Can I use my webcam for face tracking instead of my smartphone?
+
+Yes, the Steam version supports webcam tracking.
+
+## How can I use VTube Studio together with my friends?
+
+asdf
+
+VTube Studio does not support loading multiple models. However, if you want to do a collaboration stream with your friends, that is possible by using Zoom/Discord/Skype/etc. group video chat.
+
+When using Discord for example, just have everyone use the Virtual Webcam feature of VTube Studio and then select that webcam as your main video chat camera in Discord. Alternatively, record using OBS and then use the OBS Virtual Webcam plugin to create a webcam stream for Discord. The person “hosting” the stream/collab can then record their Discord window using OBS, cut out everyone’s streams and use chroma key filters to remove the backgrounds. This works quite well, but you might need the high-quality 1080p video chat upgrade in Discord to get good picture quality.
+
+It is also possible to use OBS over the internet using LAN-Over-Internet tools like Zero Tier One or Hamachi (free up to 5 participants). You could start multiple instances of VTube Studio on the “host” PC and then have people connect to them. Just remember to use different ports for each instance! Disclaimer: I have not personally tested this method, but users have reported that it works. Of course, there may be network delay.
 
 
+## Can I use USB instead of WiFi to connect my smartphone?
 
-
-
-
-
-
+## What is the "Virtual Webcam" feature?
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/virt_webcam.png]]
+
+## My device gets really hot! What is “Streaming Mode” in the smartphone app?
+
+
