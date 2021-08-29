@@ -1,5 +1,5 @@
 <p float="left">
-  <img src="/img1.png" width="100" />
-  <img src="/img2.png" width="100" /> 
-  <img src="/img3.png" width="100" />
+  <img src="https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/main_1.jpg" width="320" />
+  <img src="https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/main_2.jpg" width="320" />
+  <img src="https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/main_3.jpg" width="320" />
 </p>
