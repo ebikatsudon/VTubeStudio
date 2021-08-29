@@ -56,7 +56,7 @@ If you move, scale or rotate the Live2D model itself, any locked items attached 
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/hint_top.png]]
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/bunny_point.png|alt="Important Point!!"|height=59px|width=189px]]<br/>
-Most of the free included items/props have been provided by **@catboymech** and **@7MDigital** on Twitter. They have many other great VTuber assets as well, so please make sure to follow and thank them!!
+Most of the free included items/props have been provided by **@catboymech** and **@7MDigital** on Twitter. They have many other great VTuber assets as well, so please make sure to follow and thank them!! \<3
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/hint_bottom.png]]
 
