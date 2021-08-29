@@ -36,7 +36,19 @@ The server is now active and is listening for connections from the smartphone ap
 
 Next, start the app on your smartphone. In the settings, you can manually type in the IP and port from the desktop application or use the **"Find Server"** button to automatically scan for the server and use its IP and port. This scan should not take longer than 5 seconds.
 
+<p float="left">
+  <img src="https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/server_scan.png" width="290" /> 
+  <img src="https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/settings_main_2.jpg" width="290" /> 
+  <img src="https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/smartphone_connected_real.png" width="290" /> 
+</p>
 
+Now, click "Connect to PC". The app will now connect to the server. If the connection is lost for some reason, the app will try to re-establish the connection automatically.
 
+**Congratulations.** You are now streaming your face tracking data to your PC. You can now open a VTS model in the desktop application and it will use the face tracking data from the smartphone. You can also have the same or a different model open in the smartphone app at the same time if you’d like.
+
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/hint_top.png]]
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/bunny_point.png|alt="Important Point!!"|height=59px|width=189px]]<br/>
+You do not need to have a model open on your smartphone when streaming to PC. In fact, it is recommended to not have one open for performance reasons. When using "Streaming Mode", any opened models on your smartphone will be automatically unloaded when connecting.
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/hint_bottom.png]]
 
 
