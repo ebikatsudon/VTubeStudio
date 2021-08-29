@@ -114,3 +114,27 @@ When checking "Autostart cam with VTS", the camera will be started a few seconds
 
 After starting the webcam for the first time, press "Calibrate" while looking at the camera with a neutral face. Your calibration data is saved so you don’t need to calibrate again, even after restarting VTube Studio, but if you feel like the angles of your model look wrong compared to your face, you can always recalibrate. Webcam calibration data is saved in the following file:
 
+`<VTS-App-Path>/VTube Studio_Data/StreamingAssets/Config/webcam_calibration.json`
+
+For details on the different tracking quality levels, please refer to the information shown when selecting them in VTube Studio. **Important: Only Level 5 allows winking.**
+
+Right after turning the camera on, the camera calibrates. You can also manually calibrate afterwards by using the button or a hotkey. This resets the face position to looking forward. **Calibration is important, so make sure to look straight at the camera with a neutral face when running it.**
+
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/face_track_win_2.png]]
+
+The webcam tracking settings can be used to customize the behavior of how face tracking values are calculated. Again, most are self-explanatory. Play around with different values until you find something that works for you. **"Link Eye Blinking"** and **"Webcam Parameter Calc. Mode"** will be explained in a bit more detail.
+
+
+### Link Eye Blinking:
+ 
+Using this, you can link your eyes in case you have problems with weird blink behavior. It's recommended to set this to "When face is rotated". What this does is, when the face is rotated left/right to a point where one eye becomes invisible to the tracker, the other visible eye will be used to control blinking.
+
+### Webcam Parameter Calc. Mode:
+ 
+**"Automatic"** is the old way. If this works for you, feel free to keep using it. This requires an initial ~10 second warmup phase (see instructions in VTube Studio). The new **"Manual"** (now default) mode does not require this and may be more accurate for most people in most situations.
+
+For the **"Manual"** mode, it’s important to set the sensitivity sliders to something that works for you and **always calibrate the webcam once while looking straight at it with a neutral face**. These sliders only have an effect on the webcam tracking. If you want to set sensitivities for smartphone tracking, use the same sliders in the Android/iOS version.
+
+
+
+
