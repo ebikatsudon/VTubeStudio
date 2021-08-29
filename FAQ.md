@@ -34,12 +34,18 @@ If you want to use both webcam- and iOS/Android-tracking, you’ll have to buy V
 
 <br/>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/watermark.jpg" width="572px"/>
+  <img src="https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/watermark.jpg" width="552px"/>
 </p>
 <br/>
 
 
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/hint_top.png]]
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/bunny_point.png|alt="Important Point!!"|height=59px|width=189px]]<br/>
+I know the watermark is super cute, but please buy VTube Studio regardless! Due to popular demand, you can now turn her back on by unchecking "Hide VTS Logo" in the settings. You can also add her to your scene as an item/asset using the item system.
 
+By the way, the animation was made by Walfie (@walfieee) 
+
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/hint_bottom.png]]
 
 
 
