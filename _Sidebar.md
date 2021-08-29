@@ -18,6 +18,7 @@ VTS Manual (1.10.31.a)
 * [[Loading your own Models]]
 * [[Loading your own Backgrounds]]
 * [[VTube Studio Settings]]
+* [[VTS Model Settings]]
 * [[Expressions ("Stickers"/"Emotes")]]
 * [[Animations]]
 * [[Interaction between Animations, Tracking, Physics, etc.]]
