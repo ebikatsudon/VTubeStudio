@@ -9,7 +9,7 @@
 
 **No, that can't happen.** VTube Studio uses your smartphone camera just for face tracking and does not store or transmit your face or any raw face tracking data to your PC. Only the calculated parameters are transmitted, so at no point will any video be available on your PC. **The PC/Mac version also has no functionality whatsoever to reveal the webcam video.**
 
-If you also want to make sure your face is never shown on your smartphone screen, make sure to set _"Camera Preview"_ to _"Never Show"_ (see chapter **"Camera Settings"**).
+If you also want to make sure your face is never shown on your smartphone screen, make sure to set _"Camera Preview"_ to _"Never Show"_ (see [**"Camera Settings"**](https://github.com/DenchiSoft/VTubeStudio/wiki/VTube-Studio-Settings)).
 
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/hint_top.png]]
