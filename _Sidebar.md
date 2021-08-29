@@ -28,8 +28,7 @@ VTS Manual (1.10.31.a)
 * [[Plugins (YouTube, Twitch, etc.)]]
 * [[VTube Studio File Format]]
 * [[FAQ]]
-* [[Privacy Policy and Licensing]]
-* [[Further Terms]]
+* [[Privacy Policy, Licensing and Further Terms]]
 
 <br/>
 
