@@ -58,3 +58,15 @@ Most of the free included items/props have been provided by **@catboymech** and 
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/hint_bottom.png]]
 
+## Item Drag & Drop
+
+On Windows and macOS you can also directly drag items into the VTube Studio window. You can drag them from anywhere on your PC or Mac (any folder, desktop, etc.) onto the VTS window and they will spawn at the center of the scene. They will be set to 0 smoothing and to track the model, so you can attach them afterwards. This allows you to add items to the scene without opening the UI mid-stream.
+
+You can drag in PNGs, JPGs, GIFs and folders containing PNG animation frames, which will be imported as animations. On Windows, you can also drag in multiple files at the same time. Items added later will be placed in front of items added earlier. The limit for the maximum number of items still applies.
+
+
+
+
+
+
+
