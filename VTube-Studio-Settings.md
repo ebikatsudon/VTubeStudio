@@ -75,29 +75,29 @@ There are no recommendations on how you should set the phonemes up. Just try aro
 This config tab will let you change settings related to rendering and the camera:
 
 
-* AR Camera Config
+* **AR Camera Config**
   * Change face tracking camera FPS. This does not affect the app framerate.
   * Change whether the camera preview is shown. If you want to make sure your face is never shown on your smartphone screen, you can configure that here (see third picture).
   * Change whether face mask is shown over your face. 
 
-* Tracking Config
+* **Tracking Config**
   * Change behavior of model when face tracking is lost. You can either have the model freeze in place when your face is lost or have it return to its default pose.
   * Change eye-blink linking behavior
-    * If “Always” is rotated, the EyeOpen values of your left and right eye will be always set to the average of both.
-    * If “When face is rotated” is selected, the EyeOpen value of your eyes will be linked when your head is rotated too much to the side. This will use the value of the eye that is still visible when your head is rotated to one side.
+    * If "Always" is rotated, the EyeOpen values of your left and right eye will be always set to the average of both.
+    * If "When face is rotated" is selected, the EyeOpen value of your eyes will be linked when your head is rotated too much to the side. This will use the value of the eye that is still visible when your head is rotated to one side.
   * Various sensitivities for the iOS/Android face tracker. If (for example) your mouth doesn’t open enough, a quick fix might be to increase the sensitivity here.
 
-* iOS Blink Fix
+* **iOS Blink Fix**
   * Due to a recent bug in iOS face tracking, your HeadY parameter will twitch upward very slightly when blinking. This can be counterbalanced using those sliders until it is fixed officially by Apple (hopefully soon). A value for Y of around 30-45 is recommended, but check what works well for you. X can be left at 0 usually. Depending on your Live2D model, you may not need this setting at all because the effect is very subtle.
 
-* Quality and Effects
+* **Quality and Effects**
   * Turn on Anti-Aliasing (smoother model edges but costs performance, not recommended on mobile)
   * Change app FPS. VSync means the FPS will be synced to your display update rate. This is recommended on PC to prevent screen-tearing.
-  * Tracking V2: Adds various experimental iOS tracking improvements. Use with caution!
-    * Better winking: When one eye is fully closed and the other one isn’t, this will force the partially open eye a bit more open. This makes winking easier/better.
-    * Better frowning: Automatically frown more by lowering your brows. This is done by detecting when the brows are down and subtracting a certain value of MouthSmile in that case.
+  * **Tracking V2:** Adds various experimental iOS tracking improvements. Use with caution!
+    * **Better winking:** When one eye is fully closed and the other one isn’t, this will force the partially open eye a bit more open. This makes winking easier/better.
+    * **Better frowning:** Automatically frown more by lowering your brows. This is done by detecting when the brows are down and subtracting a certain value of MouthSmile in that case.
 
-* Record Screen
+* **Record Screen**
   * Smartphone-only. Lets you directly record your screen including microphone sound. A small red dot will be shown at the bottom-right while recording. Tap it to stop the recording at any time
 
 
