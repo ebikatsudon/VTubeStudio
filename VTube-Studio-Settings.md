@@ -38,3 +38,11 @@ If microphone audio lags behind the values shown on the UI, use the "Reload" but
 When enabled ("Use microphone" switch), you will be able to use three additional parameters in your VTube Studio model:
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/new_params_voice.png]]
+
+* **VoiceVolume:** Parameter between 0 and 1 depending on microphone sound volume.
+  * **Volume Gain Slider** controls how strongly the volume affects this parameter.
+  * **Volume Cutoff Slider** controls the minimum volume to still be picked up by the microphone. You can filter out background noise with this.
+* **VoiceVolumePlusMouthOpen:** Combines **VoiceVolume** parameter with **value from tracking**. With this, you could for example make your mouth open when there's sound and when the face tracking sees the mouth as open. This parameter is also between 0 and 1.
+* **VoiceFrequency:** This parameter is between 0 and 1 and sits at 0.5 per default. It goes up and down depending on the frequencies found in your voice. You can use this to control your mouth form.
+  * **Frequency Gain Slider** controls how strongly the detected frequencies affect this parameter.
+
