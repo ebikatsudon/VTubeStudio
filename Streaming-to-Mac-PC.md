@@ -2,18 +2,12 @@ The main use-case of VTube Studio is to use your smartphone for face tracking, r
 
 If you use an iPhone/iPad for tracking, you can use WiFi or USB to stream the face tracking data to the PC app. On Android, you can only use WiFi.
 
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/hint_top.png]]
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/bunny_point.png|alt="Important Point!!"|height=59px|width=189px]]<br/>
+VTube Studio uses your local network (TCP/UDP) or USB to send face tracking data from your smartphone to your PC or Mac. Depending on your home network setup, there may be connection issues, most frequently caused by your firewall configuration. For more info, check out the chapter: 
 
-      VTube Studio uses your local network (TCP/UDP) or USB to send face tracking data from
-       your smartphone to your PC or Mac. Depending on your home network setup, there may
-       Be connection issues, most frequently caused by your firewall configuration. For more info,
-       check out the chapter: 
- 
-                                        Connection Issues & Troubleshooting
-
-
-
-
-
+[Connection Issues & Troubleshooting](https://github.com/DenchiSoft/VTubeStudio/wiki/Connection-Issues-%26amp%3B-Troubleshooting)
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/hint_bottom.png]]
 
 
 ## Streaming per WiFi - Preparation on PC/Mac
