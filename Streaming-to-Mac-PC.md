@@ -51,4 +51,23 @@ Now, click "Connect to PC". The app will now connect to the server. If the conne
 You do not need to have a model open on your smartphone when streaming to PC. In fact, it is recommended to not have one open for performance reasons. When using "Streaming Mode", any opened models on your smartphone will be automatically unloaded when connecting.
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/hint_bottom.png]]
 
+## Alternative to WiFi: Streaming per USB from iOS to PC/Mac
+
+If you use an iPhone/iPad for tracking, you can also use a wired USB connection to send over the face tracking data in real time. This is very reliable and more stable than WiFi but also a newer feature so it’s now as well tested. Right now, this is the recommended way to stream face tracking data.
+
+To start a connection, activate the "Connect USB" switch on your phone first. If a face tracking WiFi connection to your PC is active, this will also deactivate it as they cannot be running at the same time. Afterwards, activate the “Connect USB” switch in the app on your PC/Mac.  
+
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/usb_con_pc_1.png]]
+
+If your device doesn’t show up or fails to connect, make sure all of the following are true.
+* iOS device is connected to the PC per USB cable.
+* iOS device is unlocked and running the VTube Studio app.
+* The app on iOS says "USB started. Waiting for PC app to connect."
+* The iPhone is "paired" with the PC (the phone must "trust" the PC). This can be checked by making sure iTunes can see the contents of the iPhone.
+* **Important: Make sure you have installed iTunes!!** iTunes starts some background services on Windows/MacOS that are required for communication with iPhones. iTunes doesn’t have to be running, but make sure it is installed on your PC/Mac and has been started at least once. If the USB connection fails, try starting iTunes once before VTube Studio.
+
+## Recording with OBS (transparent background)
+
+
+
 
