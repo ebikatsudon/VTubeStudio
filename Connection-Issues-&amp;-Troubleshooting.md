@@ -5,9 +5,9 @@ However, depending on your local network setup, there might be some issues. This
 
 ## Possible Causes for Connection Issues
 
-If you have trouble connecting your smartphone to the PC app (smartphone app is constantly stuck on "Connecting…" or server scan doesn’t find anything), please work through the following list before asking questions on the Discord. 
+If you have trouble connecting your smartphone to the PC app (smartphone app is constantly stuck on "Connecting…" or server scan doesn’t find anything), please work through the following list before asking questions on the [Discord](https://discord.gg/VTubeStudio). 
 
-* Make sure there is no firewall blocking the connection. In 90% of cases, this is what causes the connection problems.
+* Make sure there is no firewall blocking the connection. **In 90% of cases, this is what causes the connection problems**.
   * To test this, try temporarily turning off your built-in firewall (Windows Defender) and any additional network security software you have. If this fixes the issue, turn them back on and find out how you can add exceptions for VTube Studio (`"VTube Studio.exe"`). For Windows Defender, see the image below.
   * After downloading updates for the PC app, you may have to re-add it to the firewall exceptions.
 * Make sure both devices (PC/Mac and smartphone) are on the same network.
