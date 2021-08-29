@@ -28,7 +28,7 @@ asd
 | **VoiceVolume<br/>PlusMouthOpen*** | MouthOpen + VoiceVolume | ❌ | ❌ | ✔️ |
 | **VoiceFrequency<br/>PlusMouthSmile*** | MouthSmile + VoiceFrequency | ❌ | ❌ | ✔️ |
 | **MouthX** | Mouth X position (shift mouth left/right) | ✔️ | ❌ | ❌ |
-| **FaceAngry** | detects angry face (EXPERIMENTAL, not recommended) | ✔️ | ❌ | ❌  |
+| **FaceAngry** | detects angry face<br/>(EXPERIMENTAL, not recommended) | ✔️ | ❌ | ❌  |
 
 
 
