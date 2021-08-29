@@ -17,6 +17,7 @@ If you also want to make sure your face is never shown on your smartphone screen
 Don’t worry so much that people could see your face. You are beautiful! ♥
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/hint_bottom.png]]
 
+## How do I buy VTube Studio? Why should I? Can I use it commercially?
 
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/virt_webcam.png]]
