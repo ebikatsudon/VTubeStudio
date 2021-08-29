@@ -26,6 +26,16 @@ This will start the VTube Studio server on your PC on every available network de
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/bunny_point.png|alt="Important Point!!"|height=59px|width=189px]]<br/>
 While your IPv4 shown here is typically a local, internal address and cannot be publicly accessed over the internet, your IPv6 addresses are likely to be public addresses! Please be careful to block them out if you post screenshots on the internet. Stay safe!
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/hint_bottom.png]]
+<br/>
+
+When starting the server for the first time, you may see a popup from the Windows Defender Firewall. Make sure you click "Allow access" and "Private networks" is checked. Otherwise, your smartphone will not be able to connect to the PC app as connections will be blocked by the firewall.
+
+The server is now active and is listening for connections from the smartphone app. Leave it this way.
+
+## Streaming per WiFi - Connecting the Smartphone App
+
+Next, start the app on your smartphone. In the settings, you can manually type in the IP and port from the desktop application or use the **"Find Server"** button to automatically scan for the server and use its IP and port. This scan should not take longer than 5 seconds.
+
 
 
 
