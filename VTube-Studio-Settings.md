@@ -58,11 +58,11 @@ You can click each phoneme to turn it **red (-)**, **green (+)** or **neutral**.
 </p>
 <br/>
 
----
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/hint_top.png]]
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/bunny_point.png|alt="Important Point!!"|height=59px|width=189px]]<br/>
 There are no recommendations on how you should set the phonemes up. Just try around a bit and see what works for you. It may take some trial and error, but if set up correctly, this can look really good especially when singing.  ♪ ♫ ♬
 
----
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/hint_bottom.png]]
 
 ## Camera Settings (iPhone/Android)
 
