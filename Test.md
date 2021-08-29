@@ -1,8 +1,8 @@
 asd
 
-| Parameter Name | Explanation | iOS | Android | Webcam |
----------------------------------------------------------
-| FacePositionX | horizontal position of face | ✔️ | ✔️ | ✔️ |
+| Parameter Name | Explanation                 | iOS  | Android | Webcam |
+| --------------- | -------------------------- | ---- | ------- | ------- |
+| FacePositionX  | horizontal position of face | ✔️  | ✔️      |    ✔️ |
 | FacePositionY | vertical position of face | ✔️ | ✔️ | ✔️ |
 | FacePositionZ | distance from camera | ✔️ | ✔️ | ✔️ |
 | FaceAngleX | face right/left rotation | ✔️ | ✔️ | ✔️ |
