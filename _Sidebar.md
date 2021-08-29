@@ -32,4 +32,4 @@ VTS Manual (1.10.31.a)
 
 <br/>
 
-[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/akari_fly_all_sequence_small.png|alt="Akari"]]
+[[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/akari_fly_all_sequence_small.png|alt="Do not click!!"]]](https://github.com/DenchiSoft/VTubeStudio/wiki/_Secret-Page)
