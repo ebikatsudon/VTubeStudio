@@ -70,7 +70,7 @@ If your device doesn’t show up or fails to connect, make sure all of the follo
 
 On your PC in VTube Studio, choose the **Color Picker background**. On Windows, you can use the "Transparent in capture" option here, which will make the window background transparent when the window is recorded in OBS **so you don’t need to use greenscreen/chroma keying**.
 
-[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/obs_2.png.png]]
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/obs_2.png]]
 
 **On macOS, this feature is not supported by OBS**, so choose any color you want here. You can remove that color from the video capture in OBS using a **"Chroma Key"** filter. Keep in mind that you can't use that color in your Live2D model, otherwise some parts of your model may be transparent as well.
 
