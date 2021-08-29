@@ -14,3 +14,13 @@ VTube Studio is an app available for **[iPhone/iPad](https://apps.apple.com/us/a
 <br/>
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/vts_basic_setup_detail_small.png|alt="Basic VTS Setup"]]
+
+---
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/bunny_point.png|alt="Important Point!!"|height=59px|width=189px]]<br/>
+Going purely by tracking quality, it's **iOS \> Webcam \> Android**
+
+---
+
+## Where to download?
+
+To run VTube Studio, you need to download the smartphone app (Android or iOS) and/or the desktop app on Steam (Windows or macOS). If you only want to use your webcam, you don't need the smartphone app.
