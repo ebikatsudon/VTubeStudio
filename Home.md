@@ -8,6 +8,6 @@ Wanna see some examples? Just search ["VTube Studio" on Twitter](https://twitter
 
 This online manual contains information about all features of VTube Studio, as well as a few tutorials. Please choose a topic from the main menu.
 
-[[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/screenshots/screenshots_all.png|alt="VTube Studio Logo"|width=630px]]](https://github.com/DenchiSoft/VTubeStudio/wiki)
+[[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/screenshots/screenshots_all.png|alt="Screenshots"]]](https://github.com/DenchiSoft/VTubeStudio/wiki)
 
 
