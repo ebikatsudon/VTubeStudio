@@ -1,0 +1,3 @@
+VTube Studio comes with a few default backgrounds. Some of them are animated backgrounds that can't be added or removed (for example the doggo one).
+
+The Steam app also comes with a color-picker-background, pictured below. Using this background, you can also activate **"Transparent Mode"**, which will enable OBS and other capture software to record your model with a transparent background, so you don’t need to use a color key.
