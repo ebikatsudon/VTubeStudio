@@ -35,7 +35,7 @@ Now let's see what happens when you click the "Show model selection bar" icon.
 
 The first item will open a guide on how to load your own models into the app (this document). In the Steam-version, it'll open the folder that you have to put the models into in order to import them. The second button will unload the model if a model is currently loaded.
 
-The items after that are the models currently available in the app. VTube Studio comes with a couple example models for you to play around with. After clicking a model, it'll be loaded into the scene. If the model is not yet configured, you'll be asked to run the "Auto-Setup" for iOS/Webcam or Android which will set the model up based on default Live2D parameter names and value ranges. This will be covered later.
+The items after that are the models currently available in the app. VTube Studio comes with a couple example models for you to play around with. After clicking a model, it'll be loaded into the scene. If the model is not yet configured, you'll be asked to run the **"Auto-Setup"** for iOS/Webcam or Android which will set the model up based on default Live2D parameter names and value ranges. This will be covered later.
 
 Once the model is properly configured, the model will imitate your movement and facial expressions. You can move, rotate and scale the model with the usual touch gestures. When opening a model in the PC app, the controls for moving/rotating/scaling will be shown on the screen.
 
