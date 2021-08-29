@@ -1,1 +1,1 @@
-If you have any questions that this manual couldn't answer, please ask in the [VTube Studio Discord](https://discord.gg/VTubeStudio)!!
+If you have any questions that this manual doesn't answer, please ask in the [VTube Studio Discord](https://discord.gg/VTubeStudio)!!
