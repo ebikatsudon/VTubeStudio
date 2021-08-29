@@ -22,3 +22,9 @@ Next, there’s the "Stream to PC" setup. This is for connecting your phone to y
 
 Finally, there's the "Mouse Input Config". This allows you to use the mouse/finger position as input parameter to animate your model in addition to face tracking. You can select an **X-Range** and **Y-Range** in pixels. This range will be mapped to [-1, 1] for X and Y. With this setting, you could for example make your model follow your finger or mouse pointer with its eyes. This will also show mouse-clicks (right, left, middle) that can be used to trigger hotkeys. In the smartphone app, these mouse-clicks can be triggered by touching the screen with one finger (left-click), two fingers (right-click) and three fingers (middle-click). 
 
+## General Settings (Voice-based Lipsync)
+
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/voice_lipsync.jpg]]
+
+
+
