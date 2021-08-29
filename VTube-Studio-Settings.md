@@ -100,10 +100,17 @@ This config tab will let you change settings related to rendering and the camera
 * **Record Screen**
   * Smartphone-only. Lets you directly record your screen including microphone sound. A small red dot will be shown at the bottom-right while recording. Tap it to stop the recording at any time
 
+## Camera Settings (Webcam on MacOS/Windows)
 
+Starting with the Steam release of VTube Studio, you can use your webcam for face tracking. Please note that just like with iPhone/Android version, your webcam picture will never be shown within VTube Studio.
 
+**There is no way to reveal the webcam video in VTube Studio and VTube Studio has no code that would even enable it to do so.**
 
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/face_track_win.png]]
 
+Most settings here should be self-explanatory. Generally, a resolution of 1280x720 and FPS of at least 10 are recommended for decent tracking. This is especially true for eye- and blink-tracking.
 
+When checking "Autostart cam with VTS", the camera will be started a few seconds after the scene has finished loading when starting VTube Studio.
 
+After starting the webcam for the first time, press "Calibrate" while looking at the camera with a neutral face. Your calibration data is saved so you don’t need to calibrate again, even after restarting VTube Studio, but if you feel like the angles of your model look wrong compared to your face, you can always recalibrate. Webcam calibration data is saved in the following file:
 
