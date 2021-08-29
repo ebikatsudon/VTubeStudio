@@ -4,6 +4,8 @@ It works with almost all markdown flavours (the below blank line matters).
 
 ---
 
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/info/device_difference_table.png|alt="Tracking device differences"]]
+
 <table class="pure-table">
     <thead>
         <tr>
