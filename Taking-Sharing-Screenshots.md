@@ -5,7 +5,7 @@ Furthermore, you can set up a hotkey to take screenshots using the previous scre
 
 <p float="left">
   <img src="https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/screenshot_1.jpg" width="394" /> 
-  <img src="https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/screenshot_1.jpg" width="394" /> 
+  <img src="https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/screenshot_2.jpg" width="394" /> 
 </p>
 
 On Windows and MacOS, screenshots are saved to your user's "Pictures" folder. On smartphones, screenshots are saved directly to the phone gallery. The app will ask for permission to use this folder. 
