@@ -30,4 +30,4 @@ VTS Manual (1.9.14.a)
 * [[Privacy Policy and Licensing]]
 * [[Further Terms]]
 
-
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/akari_fly_all_sequence_small.png|alt="Akari"]]
