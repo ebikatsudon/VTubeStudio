@@ -25,8 +25,8 @@ asd
 | **BrowRightY** | up/down for right brow | ✔️ | ❌ | ✔️ |
 | **VoiceFrequency*** | depends on detected phonemes | ❌ | ❌ | ✔️ |
 | **VoiceVolume*** | how loud microphone volume is | ❌ | ❌ | ✔️ |
-| **VoiceVolumePlusMouthOpen*** | MouthOpen + VoiceVolume | ❌ | ❌ | ✔️ |
-| **VoiceFrequencyPlusMouthSmile*** | MouthSmile + VoiceFrequency | ❌ | ❌ | ✔️ |
+| **VoiceVolume<br/>PlusMouthOpen*** | MouthOpen + VoiceVolume | ❌ | ❌ | ✔️ |
+| **VoiceFrequency<br/>PlusMouthSmile*** | MouthSmile + VoiceFrequency | ❌ | ❌ | ✔️ |
 | **MouthX** | Mouth X position (shift mouth left/right) | ✔️ | ❌ | ❌ |
 | **FaceAngry** | detects angry face (EXPERIMENTAL, not recommended) | ✔️ | ❌ | ❌  |
 
