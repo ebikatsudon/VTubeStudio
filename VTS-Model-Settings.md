@@ -53,7 +53,7 @@ The general idea is:
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/hint_top.png]]
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/bunny_point.png|alt="Important Point!!"|height=59px|width=189px]]<br/>
-If your model doesn’t move despite the Live2D parameter clearly moving in the VTS model config, the cause is most likely an expression, an animation or the physics system overwriting the value from the face tracking. This is explained in detail in the chapter:
+If your model doesn't move despite the Live2D parameter clearly moving in the VTS model config, the cause is most likely an expression, an animation or the physics system overwriting the value from the face tracking. This is explained in detail in the chapter:
 
 [Interaction between Animations, Expressions, Face Tracking, Physics, etc.](https://github.com/DenchiSoft/VTubeStudio/wiki/Interaction-between-Animations%2C-Tracking%2C-Physics%2C-etc.)
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/hint_bottom.png]]
@@ -71,7 +71,7 @@ VTube Studio currently supports the following input parameters that can be mappe
 | **FaceAngleX** | face right/left rotation | ✔️ | ✔️ | ✔️ |
 | **FaceAngleY** | face up/down rotation | ✔️ | ✔️ | ✔️ |
 | **FaceAngleZ** | face lean rotation | ✔️ | ✔️ | ✔️ |
-| **MouthSmile** | how much you’re smiling | ✔️ | ✔️ | ✔️ |
+| **MouthSmile** | how much you're smiling | ✔️ | ✔️ | ✔️ |
 | **MouthOpen** | how open your mouth is | ✔️ | ✔️ | ✔️ |
 | **Brows** | up/down for both brows combined | ✔️ | ✔️ | ✔️ |
 | **MousePositionX** | x-pos. of mouse or finger within set range | ✔️ | ✔️ | ✔️ |
@@ -110,16 +110,57 @@ In VTube Studio, you can use hotkeys to trigger various actions. When creating a
 There are two ways to trigger hotkeys:
 
 
-* Keyboard-Hotkeys (PC/Mac only)
+* **Keyboard-Hotkeys (PC/Mac only)**
   * As the name implies, you can trigger hotkeys by pressing keys on your keyboard.
   * You can set combinations of up to 2 keys.
-  * Keypresses are also read when the VTube Studio window is not in focus, for example when you’re playing a game. However, this does not work on macOS.
+  * Keypresses are also read when the VTube Studio window is not in focus, for example when you're playing a game. However, this does not work on macOS.
   * Also included: Mouse-Hotkeys (right/left/middle click).
  
-* On-Screen Button Hotkeys (PC/Mac and smartphones)
+* **On-Screen Button Hotkeys (PC/Mac and smartphones)**
   * Up to 8 hotkeys can be set as on-screen buttons. They will be shown as semi-transparent white circles on the right of the main screen (see picture 3).
   * Opacity can be changed. They can also be made invisible.
   * You can customize the color for each on-screen button.
 
-  * If you activate “Send hotkeys to PC”, pressing an on-screen hotkey on your smartphone will send a signal to your PC (if connected) that the key with that ID has been pressed. When the model you have loaded on your PC also has on-screen button hotkeys set up, the corresponding key will be triggered.
+  * If you activate **"Send hotkeys to PC"**, pressing an on-screen hotkey on your smartphone will send a signal to your PC (if connected) that the key with that ID has been pressed. When the model you have loaded on your PC also has on-screen button hotkeys set up, the corresponding key will be triggered.
   * You do not need to have a model loaded on your smartphone to send hotkey presses to your PC. If no model is loaded, all 8 on-screen buttons will be shown.
+
+## Hotkey Actions
+
+Various actions can be triggered by hotkeys:
+
+* **Play Animation (.motion3.json)**
+  * Will play the given animation once (overwrites face tracking)
+* **Change Idle Animation (.motion3.json)**
+  * Will change the currently looping idle animation. Will not be saved into the VTS model configuration.
+* **Set/Unset Expression (.exp3.json)**
+  * Toggles the given expression in the model (overwrites face tracking and animations)
+  * If multiple expressions set the same Live2D parameter to different values, the last expression will decide the value.
+  * More on this in the chapter “Expressions”
+* **Remove all Expressions**
+  * Removes all currently set expressions.
+* **Reload Model Texture**
+  * Reloads the model texture. This means you can modify your model .PNG-texture outside the app and reload it on the fly. Can be used for various cool effects during streams.
+* **Move Model**
+  * Moves the model to the given position/rotation/size.
+  * You can configure a time that the movement should take.
+  * The position for the hotkey can be set using the "Record Position" button, which will save the current model position, rotation and size. The numbers shown are:
+    * x-pos/y-pos/size   rotation
+* **Change Background**
+  * Changes the background to the one you select for this hotkey.
+* **Reload Microphone**
+  * Reloads the currently active microphone used for voice lipsync.
+* **Calibrate Camera**
+  * Triggers camera calibration.
+* **Change VTS Model**
+  * Changes the VTube Studio model to the one you select for this hotkey.
+* **Take Screenshot**
+  * Triggers screenshot with the previously set screenshot settings.
+
+For animations and expressions, there are a few extra settings you can use to customize fade times and animation playback behavior. For example, you can stop animations/expressions after a certain number of seconds or once the button is let go.
+
+For animations specifically, you can set them to **stop on the last frame**. This will stop the animation on the last frame once playback has finished and hold all parameters there until you press the hotkey again. **All Live2D parameters used in face-tracking for your model will not be affected by this** and fade back automatically after the animation has finished playing regardless.
+
+
+
+
+
