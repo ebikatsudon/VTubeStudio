@@ -25,6 +25,7 @@ With the "Model Movement" settings, you can move the model left/right and closer
 
 Here, you can boost or reduce the effect of your Live2D physics setup. You can also activate “wind”, which will randomly apply a wind-like force to the physics system. This is experimental and may not look good depending on how your model is set up.
 
+The "Legacy Physics" toggle 
 
 
 
