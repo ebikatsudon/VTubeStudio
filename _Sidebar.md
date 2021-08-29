@@ -6,13 +6,13 @@ VTS Manual (1.9.14.a)
 - [[Home]]
 - [[Plugins]]
 
-### Help
+### [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/usagi_icon_small.png|height=30px|width=30px]] Help 
 - [Discord](https://discord.gg/VTubeStudio)
 - [Twitter](https://twitter.com/VTubeStudio)
 - [Website](https://denchisoft.com)
 - [Mail](mailto:denchi@denchisoft.com)
 
-### [[Documentation]]
+### Documentation
 * [[Android vs. iPhone vs. Webcam]]
 * [[Getting Started]]
 * [[Loading your own Models]]
