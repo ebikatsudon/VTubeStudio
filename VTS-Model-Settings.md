@@ -59,3 +59,8 @@ If your model doesn’t move despite the Live2D parameter clearly moving in the 
 
 ---
 
+## Supported INPUT parameters (face tracking, etc.)
+
+VTube Studio currently supports the following input parameters that can be mapped to output Live2D parameters. The iOS-only parameters are also marked accordingly in the app.
+
+
