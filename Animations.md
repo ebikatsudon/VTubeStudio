@@ -1,4 +1,4 @@
-Animations can be created with the Animator in the Live2D Cubism Editor. Once your animation is done, select File  Export for Runtime  Export motion file.
+Animations can be created with the Animator in the Live2D Cubism Editor. Once your animation is done, select **File → Export for Runtime → Export motion file**.
 
 
 This will give you _.motion3.json_ files (Live2D animation files) that can be read by VTube Studio. Put them in the same folder as your VTS model or a subfolder.
