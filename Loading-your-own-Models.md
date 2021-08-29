@@ -18,3 +18,20 @@ file) so it’s usable by VTube Studio. If no physics file is registered, VTube 
 * Export Types: SDK
 
 This will create a folder with the following files (ignore the files marked red). If your model fails to load later in VTube Studio, make sure all files are there.
+
+
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/files_akari.png]]
+
+
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/open_data_folder.png]]
+
+
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/auto_setup.png]]
+
+
+
+
+
+
+
+
