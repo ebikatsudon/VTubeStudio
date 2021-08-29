@@ -10,4 +10,18 @@ To create expressions, first load your model into the Live2D Cubism Viewer by dr
 
 To create a new expression, you can now do the following:
 
+1. Add a new expression using File ⇨ Add ⇨ Expression
+2. Make sure Animation  Apply Expression is activated.
+3. There should now be a folder called “Expressions” in the navigation window. Open it and click your newly created .exp3.json file.
+4. Create your expression by adjusting the sliders and checkboxes for the parameters you want to be part of the expression.
+5. Fade-times are ignored by VTube Studio in the current version. Instead, a default fade-time is used. Alternatively, you can set a fade-time inside of VTube Studio.
+6. You can also right-click a parameter and set it to “Multiply”. This is not yet supported by VTube Studio and may result in your expressions not working. Please leave it at “Additive”.
+7. To save the expression, right-click your .exp3.json file and select “Save”. Save it somewhere next to your VTS/Live2D model or in any subfolder of that folder so VTS can find it when your model is loaded.
+
+To set up the expressions in VTube Studio:
+
+1. Create a new hotkey inside of VTube Studio as explained in the chapters about hotkeys.
+2. Use the hotkey type “Set/Unset Expression”
+3. Select your newly created expression from the list. If you can’t find it there, make sure the .exp3.json file is in the same folder as your VTS model file or in a subfolder of it.
+4. Your hotkey is now fully set up. You can use either your keyboard or the on-screen buttons to activate and deactivate it. 
 
