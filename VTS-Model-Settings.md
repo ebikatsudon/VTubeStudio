@@ -98,4 +98,8 @@ _\* these parameters cannot be used directly on iOS/Android but will work on PC/
 
 ## Hotkey Settings and Types
 
-
+<p float="left">
+  <img src="https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/hotkey_settings_1.jpg" width="290" /> 
+  <img src="https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/hotkey_settings_2.jpg" width="290" /> 
+  <img src="https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/hiyori_1.jpg" width="290" /> 
+</p>
