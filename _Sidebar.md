@@ -10,6 +10,7 @@ VTS Documentation
 - [Discord](https://discord.gg/VTubeStudio)
 - [Twitter](https://twitter.com/VTubeStudio)
 - [Website](https://denchisoft.com)
+- [Mail](mailto:denchi@denchisoft.com)
 
 ### [[Documentation]]
 * [[A]]
