@@ -38,5 +38,10 @@ Alternatively, you can also use GIFs as animated items, but it is recommended to
 Once the item is in the scene, you can move/scale/rotate it with the same controls as for the model on PC/Mac and iOS/Android. To attach an item to the model, just drop it on there.
 
 
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/hint_top.png]]
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/bunny_point.png|alt="Important Point!!"|height=59px|width=189px]]<br/>
+The item will be attached to the uppermost ArtMesh in your model at the position where you drop the item. The point of attachment will be the **CENTER OF THE ITEM IMAGE**. This can make it a bit tricky sometimes to attach the item to the correct ArtMesh, so you may need to play around a little bit to make it work properly.
+
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/hint_bottom.png]]
 
 
