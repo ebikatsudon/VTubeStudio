@@ -58,4 +58,18 @@ You can click each phoneme to turn it **red (-)**, **green (+)** or **neutral**.
 </p>
 <br/>
 
+---
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/bunny_point.png|alt="Important Point!!"|height=59px|width=189px]]<br/>
+There are no recommendations on how you should set the phonemes up. Just try around a bit and see what works for you. It may take some trial and error, but if set up correctly, this can look really good especially when singing.  ♪ ♫ ♬
 
+---
+
+## Camera Settings (iPhone/Android)
+
+<p float="left">
+  <img src="https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/ar_cam_config.jpg" width="290" /> 
+  <img src="https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/sensitivity_settings.jpg" width="290" /> 
+  <img src="https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/blink_fix.jpg" width="290" /> 
+</p>
+
+This config tab will let you change settings related to rendering and the camera:
