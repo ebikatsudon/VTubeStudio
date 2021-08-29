@@ -29,7 +29,13 @@ If the item is **animated** (must be multiple PNGs in a folder in the "Items" fo
 Alternatively, you can also use GIFs as animated items, but it is recommended to use PNG sequences as described above to get the best quality (GIFs can be a bit grainy).
 
 
+<p float="left">
+  <img src="https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/item_main.jpg" width="290" /> 
+  <img src="https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/item_lock.jpg" width="290" /> 
+  <img src="https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/item_delete.jpg" width="290" /> 
+</p>
 
+Once the item is in the scene, you can move/scale/rotate it with the same controls as for the model on PC/Mac and iOS/Android. To attach an item to the model, just drop it on there.
 
 
 
