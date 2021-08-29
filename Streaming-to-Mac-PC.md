@@ -14,9 +14,19 @@ VTube Studio uses your local network (TCP/UDP) or USB to send face tracking data
 
 Streaming the face tracking data from your smartphone to PC/Mac is easy. First, make sure both your smartphone and PC/Mac are on the same local network, otherwise they will not be able to see each other.
 
-Then, start the desktop app. In the settings, you can activate the server after choosing a port (try leaving the default port first, 25565).
+Then, start the desktop app. In the settings, you can activate the server after choosing a port (please try leaving the default port first, 25565).
 
-[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/vts_logo_transparent.png]]
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/connection_server.png]]
+
+This will start the VTube Studio server on your PC on every available network device. Since your PC may have multiple network devices, you may see multiple IPs when clicking the **"Show IP list"** button.
+
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/ip_vx.png]]
+
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/hint_top.png]]
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/bunny_point.png|alt="Important Point!!"|height=59px|width=189px]]<br/>
+While your IPv4 shown here is typically a local, internal address and cannot be publicly accessed over the internet, your IPv6 addresses are likely to be public addresses! Please be careful to block them out if you post screenshots on the internet. Stay safe!
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/hint_bottom.png]]
+
 
 
 
