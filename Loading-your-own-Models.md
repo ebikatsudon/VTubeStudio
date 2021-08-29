@@ -1,4 +1,4 @@
-VTube Studio comes with a few default models. Most of them belong to Live2D Inc., so please be sure to read the chapter **"Privacy Policy and Licensing"** if you want to use them in your streams.
+VTube Studio comes with a few default models. Most of them belong to Live2D Inc., so please be sure to read the chapter **["Privacy Policy and Licensing"](https://github.com/DenchiSoft/VTubeStudio/wiki/Privacy-Policy-and-Licensing)** if you want to use them in your streams.
 
 This chapter covers how to load your own Live2D models into VTube Studio. It will be assumed that you already have your Live2D model finished and have a basic understanding what Live2D is and how it works (Live2D parameters, etc.)
 
