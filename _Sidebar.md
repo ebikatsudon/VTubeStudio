@@ -13,5 +13,5 @@ VTS Manual (1.9.14.a)
 - [Mail](mailto:denchi@denchisoft.com)
 
 ### [[Documentation]]
-* [[A]]
+* [[Android vs. iPhone vs. Webcam]]
 * [[B]]
