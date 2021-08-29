@@ -1,1 +1,1 @@
-[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/akari_gif.gif|alt="VTube Studio Logo"|height=1130px|width=1130px]]
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/akari_gif.gif|alt="VTube Studio Logo"|width=1200px]]
