@@ -64,7 +64,7 @@ On Windows and macOS you can also directly drag items into the VTube Studio wind
 
 You can drag in PNGs, JPGs, GIFs and folders containing PNG animation frames, which will be imported as animations. On Windows, you can also drag in multiple files at the same time. Items added later will be placed in front of items added earlier. The limit for the maximum number of items still applies.
 
-
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/drag_and_drop.png]]
 
 
 
