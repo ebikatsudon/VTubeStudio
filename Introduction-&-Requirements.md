@@ -17,11 +17,11 @@ VTube Studio is an app available for **[iPhone/iPad](https://apps.apple.com/us/a
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/vts_basic_setup_detail_small.png|alt="Basic VTS Setup"]]
 
----
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/hint_top.png]]
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/bunny_point.png|alt="Important Point!!"|height=59px|width=189px]]<br/>
 Going purely by tracking quality, it's **iOS \> Webcam \> Android**
 
----
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/hint_bottom.png]]
 
 ## Where to download?
 
