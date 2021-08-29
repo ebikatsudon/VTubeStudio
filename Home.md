@@ -1,1 +1,2 @@
-Welcome to the VTubeStudio wiki!
+Welcome to the **VTube Studio Manual**!!
+
