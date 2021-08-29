@@ -1,3 +1,50 @@
+asd
+
+| Parameter Name | Explanation | iOS | Android | Webcam |
+---------------------------------------------------------
+| FacePositionX | horizontal position of face | ✔️ | ✔️ | ✔️ |
+| FacePositionY | vertical position of face | ✔️ | ✔️ | ✔️ |
+| FacePositionZ | distance from camera | ✔️ | ✔️ | ✔️ |
+| FaceAngleX | face right/left rotation | ✔️ | ✔️ | ✔️ |
+| FaceAngleY | face up/down rotation | ✔️ | ✔️ | ✔️ |
+| FaceAngleZ | face lean rotation | ✔️ | ✔️ | ✔️ |
+| MouthSmile | how much you’re smiling | ✔️ | ✔️ | ✔️ |
+| MouthOpen | how open your mouth is | ✔️ | ✔️ | ✔️ |
+| Brows | up/down for both brows combined | ✔️ | ✔️ | ✔️ |
+| MousePositionX | x-pos. of mouse or finger within set range | ✔️ | ✔️ | ✔️ |
+| MousePositionY | y-pos. of mouse or finger within set range | ✔️ | ✔️ | ✔️ |
+| TongueOut | stick out your tongue | ✔️ | ❌ | ❌ |
+| EyeOpenLeft | how open your left eye is | ✔️ | ❌ | ✔️ |
+| EyeOpenRight | how open your right eye is | ✔️ | ❌ | ✔️ |
+| EyeLeftX | eye-tracking | ✔️ | ❌ | ✔️ |
+| EyeLeftY | eye-tracking | ✔️ | ❌ | ✔️ |
+| EyeRightX | eye-tracking | ✔️ | ❌ | ✔️ |
+| EyeRightY | eye-tracking | ✔️ | ❌ | ✔️ |
+| CheekPuff | detects when you puff out your cheeks | ✔️ | ❌ | ❌ |
+| BrowLeftY | up/down for left brow | ✔️ | ❌ | ✔️ |
+| BrowRightY | up/down for right brow | ✔️ | ❌ | ✔️ |
+| VoiceFrequency* | depends on detected phonemes | ❌ | ❌ | ✔️ |
+| VoiceVolume* | how loud microphone volume is | ❌ | ❌ | ✔️ |
+| VoiceVolumePlusMouthOpen* | MouthOpen + VoiceVolume | ❌ | ❌ | ✔️ |
+| VoiceFrequencyPlusMouthSmile* | MouthSmile + VoiceFrequency | ❌ | ❌ | ✔️ |
+| MouthX | Mouth X position (shift mouth left/right) | ✔️ | ❌ | ❌ |
+| FaceAngry | detects angry face (EXPERIMENTAL, not recommended) | ✔️ | ❌ | ❌  |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Page to test stuff
 
 Page to test stuff.
