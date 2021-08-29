@@ -3,7 +3,7 @@ Animations can be created with the Animator in the Live2D Cubism Editor. Once yo
 
 This will give you _.motion3.json_ files (Live2D animation files) that can be read by VTube Studio. Put them in the same folder as your VTS model or a subfolder.
 
-[[]]
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/export_motion.png]]
 
 These animations can be used as looping background idle animation or one-shot animation.
 
