@@ -11,3 +11,10 @@ However, it is recommended to adhere to the default IDs and parameter ranges (mi
 When you’re done with your model, export it via **File → Export For Runtime → Export as .moc3 file**.
 
 Make sure to choose the following settings:
+
+* "Export Version" set to "SDK 3.0" or "SDK 3.3" or "SDK 4.0" (recommended).
+* "Export Physics settings file (physics3.json)". If you don’t to this, your model will not have physics. Always export your physics file like this and never independently from the model, as this is the only way to make sure the physics file is "registered" with the model (in the .model3.json
+file) so it’s usable by VTube Studio. If no physics file is registered, VTube Studio will use the first one it finds in the model folder.
+* Export Types: SDK
+
+This will create a folder with the following files (ignore the files marked red). If your model fails to load later in VTube Studio, make sure all files are there.
