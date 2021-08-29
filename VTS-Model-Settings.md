@@ -103,3 +103,23 @@ _\* these parameters cannot be used directly on iOS/Android but will work on PC/
   <img src="https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/hotkey_settings_2.jpg" width="290" /> 
   <img src="https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/hiyori_1.jpg" width="290" /> 
 </p>
+
+
+In VTube Studio, you can use hotkeys to trigger various actions. When creating a new hotkey, it is saved in the VTube Studio model configuration file. You can give hotkeys names that are also shown in the logs when the hotkey is activated.
+
+There are two ways to trigger hotkeys:
+
+
+* Keyboard-Hotkeys (PC/Mac only)
+  * As the name implies, you can trigger hotkeys by pressing keys on your keyboard.
+  * You can set combinations of up to 2 keys.
+  * Keypresses are also read when the VTube Studio window is not in focus, for example when you’re playing a game. However, this does not work on macOS.
+  * Also included: Mouse-Hotkeys (right/left/middle click).
+ 
+* On-Screen Button Hotkeys (PC/Mac and smartphones)
+  * Up to 8 hotkeys can be set as on-screen buttons. They will be shown as semi-transparent white circles on the right of the main screen (see picture 3).
+  * Opacity can be changed. They can also be made invisible.
+  * You can customize the color for each on-screen button.
+
+  * If you activate “Send hotkeys to PC”, pressing an on-screen hotkey on your smartphone will send a signal to your PC (if connected) that the key with that ID has been pressed. When the model you have loaded on your PC also has on-screen button hotkeys set up, the corresponding key will be triggered.
+  * You do not need to have a model loaded on your smartphone to send hotkey presses to your PC. If no model is loaded, all 8 on-screen buttons will be shown.
