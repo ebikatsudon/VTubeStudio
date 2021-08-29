@@ -55,7 +55,7 @@ The general idea is:
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/bunny_point.png|alt="Important Point!!"|height=59px|width=189px]]<br/>
 If your model doesn’t move despite the Live2D parameter clearly moving in the VTS model config, the cause is most likely an expression, an animation or the physics system overwriting the value from the face tracking. This is explained in detail in the chapter:
 
-[Interaction between Animations, Expressions, Face Tracking, Physics, etc.]()
+[Interaction between Animations, Expressions, Face Tracking, Physics, etc.](https://github.com/DenchiSoft/VTubeStudio/wiki/Interaction-between-Animations%2C-Tracking%2C-Physics%2C-etc.)
 
 ---
 
