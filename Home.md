@@ -1,5 +1,5 @@
 ---
-[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/bunny_point.png|alt="Important Point!!"|height=348|width=348]]<br/>
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/bunny_point.png|alt="Important Point!!"|height=59px|width=189px]]<br/>
 It works with almost all markdown flavours (the below blank line matters).
 
 ---
