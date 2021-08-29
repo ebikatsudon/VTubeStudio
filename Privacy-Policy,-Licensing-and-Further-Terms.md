@@ -15,9 +15,20 @@ Some of the graphics in this document have been taken from https://www.irasutoya
 **Disclaimer:** This app is an indie production and is not developed or published by _Live2D Inc._, but is
 **officially licensed** to use the _Live2D Cubism SDK_. Do not contact _Live2D Inc._ about any questions regarding VTube Studio.
 
-<div style="text-align:center"><img src="..." /></div>
+<br/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/live2d_expandable_app_small.png" />
+</p>
+<br/>
 
 For business and support inquiries, you may contact DenchiSoft at the following address:<br/>
 denchi@denchisoft.com
+
+<br/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/akari_fly_all_sequence.png" />
+The Akari chibi animation was drawn by Walfie ([@walfieee](https://twitter.com/walfieee))
+</p>
+<br/>
 
 
