@@ -41,6 +41,19 @@ If you experience lag or short breaks/freezes when streaming to PC, work through
 
 ## Network Lag Troubleshooting (macOS and iPhone)
 
+If you are on macOS and iOS, there might be some other causes: 
+* Turn off location services, they will cause lag spikes periodically when your Mac scans your environment for WiFi networks. To turn that off, follow [this guide](https://osxdaily.com/2018/08/20/disable-location-services-mac/). 
+  * https://osxdaily.com/2018/08/20/disable-location-services-mac/ 
+* If you’re using WiFi, remove all unused WiFi-Networks from your list of known networks on both iPhone and Mac to stop them from scanning for them constantly. You can follow [this guide](https://9to5mac.com/2018/07/20/mac-how-to-forget-wireless-networks/).
+  * https://9to5mac.com/2018/07/20/mac-how-to-forget-wireless-networks/
+* When using iPhone and MacBook on WiFi: **Very important to turn off AirDrop on the Macbook**, because it **WILL** cause massive lag spikes when the iPhone is close to the Mac. Open a console and type: 
+  * `sudo ifconfig awdl0 down`
+* Later, when you’re done streaming, you can turn it back on by rebooting your Mac or typing this in a console: 
+  * `sudo ifconfig awdl0 up`
+* Turning off Bluetooth on your Mac and iPhone can also help. You can follow [this guide](https://support.apple.com/en-ca/guide/mac-help/blth1008/mac) to turn of Bluetooth on your Mac.
+  * https://support.apple.com/guide/mac-help/turn-bluetooth-on-or-off-blth1008/mac 
+
+
 
 
 
