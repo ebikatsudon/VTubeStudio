@@ -27,7 +27,7 @@ denchi@denchisoft.com
 <br/>
 <p align="center">
   <img src="https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/akari_fly_all_sequence.png" />
-The Akari chibi animation was drawn by Walfie ([@walfieee](https://twitter.com/walfieee))
+The Akari chibi animation was drawn by Walfie (<a href="https://twitter.com/walfieee">@walfieee</a>)
 </p>
 <br/>
 
