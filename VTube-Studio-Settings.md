@@ -26,5 +26,15 @@ Finally, there's the "Mouse Input Config". This allows you to use the mouse/fing
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/voice_lipsync.jpg]]
 
+The voice-based lipsync options are only available on Windows and MacOS (except M1/Silicon Macs), you cannot use them on smartphones.
 
+Voice-based lipsync enables you to do two things:
 
+* **Open/Close mouth** (or any Live2D parameter) based on current microphone volume.
+* **Change mouth shape** (or any Live2D parameter) based on detected frequencies in voice.
+
+If microphone audio lags behind the values shown on the UI, use the "Reload" button to reload the selected microphone. Alternatively, you can use a hotkey to reload the microphone.
+
+When enabled ("Use microphone" switch), you will be able to use three additional parameters in your VTube Studio model:
+
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/new_params_voice.png]]
