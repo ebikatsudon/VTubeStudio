@@ -28,3 +28,13 @@ To run VTube Studio, you need to download the smartphone app (Android or iOS) an
 [[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/download_steam.png|width=220px]]](https://store.steampowered.com/app/1325860/VTube_Studio/)
 [[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/download_iphone.png|width=220px]]](https://apps.apple.com/us/app/vtube-studio/id1511435444)
 [[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/download_android.png|width=220px]]](https://play.google.com/store/apps/details?id=com.denchi.vtubestudio)
+
+* **Desktop (Steam)**
+  * Windows/macOS: https://store.steampowered.com/app/1325860/VTube_Studio/
+* **Smartphone**
+  * iOS: https://apps.apple.com/us/app/vtube-studio/id1511435444
+  * Android: https://play.google.com/store/apps/details?id=com.denchi.vtubestudio
+
+## Is there a paid version? Why should I buy it?
+
+Please check the ["How do I buy VTube Studio?"]() in the FAQ section.
