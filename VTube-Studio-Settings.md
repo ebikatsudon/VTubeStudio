@@ -87,8 +87,6 @@ This config tab will let you change settings related to rendering and the camera
     * If “When face is rotated” is selected, the EyeOpen value of your eyes will be linked when your head is rotated too much to the side. This will use the value of the eye that is still visible when your head is rotated to one side.
   * Various sensitivities for the iOS/Android face tracker. If (for example) your mouth doesn’t open enough, a quick fix might be to increase the sensitivity here.
 
-
-
 * iOS Blink Fix
   * Due to a recent bug in iOS face tracking, your HeadY parameter will twitch upward very slightly when blinking. This can be counterbalanced using those sliders until it is fixed officially by Apple (hopefully soon). A value for Y of around 30-45 is recommended, but check what works well for you. X can be left at 0 usually. Depending on your Live2D model, you may not need this setting at all because the effect is very subtle.
 
