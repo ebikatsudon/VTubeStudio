@@ -10,10 +10,9 @@ VTS Documentation
 - [[Plugins]]
 
 ### Help
-- [Stack Overflow](https://stackoverflow.com/questions/tagged/d3.js)
-- [Slack](https://d3js.slack.com) ([Invite](https://d3-slackin.herokuapp.com/))
-- [Google Group](https://groups.google.com/group/d3-js)
-- [Gitter](https://gitter.im/d3/d3)
+- [Discord](https://discord.gg/VTubeStudio)
+- [Twitter](https://twitter.com/VTubeStudio)
+- [Website](https://denchisoft.com)
 
 ### [API Reference](https://github.com/d3/d3/blob/master/API.md)
 * [Arrays](https://github.com/d3/d3/blob/master/API.md#arrays-d3-array)
