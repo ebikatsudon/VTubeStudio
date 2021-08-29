@@ -1,4 +1,4 @@
-[[[https://d3js.org/logo.svg|alt="D3js Logo"|height=210px|width=210px]]](https://d3js.org)
+[[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/logo/vts_logo_background.png|alt="VTube Studio Logo"|height=210px|width=210px]]](https://github.com/DenchiSoft/VTubeStudio/wiki)
 
 Data-Driven Documents
 =====================
