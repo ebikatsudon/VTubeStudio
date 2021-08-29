@@ -1,3 +1,5 @@
+## Loading Items into the Scene
+
 You can import your own props ("items" or "assets") directly into the scene and even attach them to your Live2D model.
 
 Items are read from the **"Items" folder next to your "Live2DModels" folder**. VTube Studio comes with a few items included, but you can add your own by putting PNGs into that folder.
