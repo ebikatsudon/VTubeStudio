@@ -34,7 +34,7 @@ If you want to use both webcam- and iOS/Android-tracking, you’ll have to buy V
 
 <br/>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/watermark.jpg" width="200px"/>
+  <img src="https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/watermark.jpg" width="512px"/>
 </p>
 <br/>
 
