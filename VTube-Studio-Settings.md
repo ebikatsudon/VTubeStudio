@@ -52,5 +52,10 @@ When you speak, VTube Studio analyzes your speech and extracts the phonemes (**A
 
 You can click each phoneme to turn it **red (-)**, **green (+)** or **neutral**. Depending on that, when this specific phoneme is detected, it will push the **VoiceFrequency **parameter up or down (and with that also your mouth shape, if you use this parameter).
 
+<br/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/karaoke_saiten.png" width="412"/>
+</p>
+<br/>
 
 
