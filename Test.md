@@ -32,6 +32,14 @@ asd
 
 
 
+| Priority | Value-Provider | Notes |
+| -------- | -------------- | ----- |
+| **P0** | Default Live2D parameter value | Available for every Live2D parameter |
+| **P1** | Value from Idle Animation | |
+| **P2** | Value from Face Tracking | |
+| **P3** | Value from One-Time Animation | As long as animation is active |
+| **P4** | Value from Live2D Expression | As long as expression is active |
+| **P5** | Value from Physics System | |
 
 
 
