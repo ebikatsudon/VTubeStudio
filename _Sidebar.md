@@ -18,6 +18,7 @@ VTS Manual (1.10.31.a)
 * [[Loading your own Models]]
 * [[Loading your own Backgrounds]]
 * [[VTube Studio Settings]]
+* [[VTS Model Settings]]
 * [[Expressions ("Stickers"/"Emotes")]]
 * [[Animations]]
 * [[Interaction between Animations, Tracking, Physics, etc.]]
@@ -26,7 +27,7 @@ VTS Manual (1.10.31.a)
 * [[Taking/Sharing Screenshots]]
 * [[Item System]]
 * [[Plugins (YouTube, Twitch, etc.)]]
-* [[VTube Studio File Format]]
+* [[VTube Studio Model File]]
 * [[FAQ]]
 * [[Privacy Policy, Licensing and Further Terms]]
 
