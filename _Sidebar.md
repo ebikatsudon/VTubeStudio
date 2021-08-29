@@ -1,7 +1,7 @@
 [[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/logo/vts_logo_transparent.png|alt="VTube Studio Logo"|height=230px|width=230px]]](https://github.com/DenchiSoft/VTubeStudio/wiki)
 
-VTS Documentation (1.9.14.a)
-=================
+VTS Manual (1.9.14.a)
+=====================
 
 - [[Home]]
 - [[Plugins]]
