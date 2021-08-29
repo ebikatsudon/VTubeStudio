@@ -46,3 +46,11 @@ When enabled ("Use microphone" switch), you will be able to use three additional
 * **VoiceFrequency:** This parameter is between 0 and 1 and sits at 0.5 per default. It goes up and down depending on the frequencies found in your voice. You can use this to control your mouth form.
   * **Frequency Gain Slider** controls how strongly the detected frequencies affect this parameter.
 
+### How the VoiceFrequency Parameter is calculated:
+
+When you speak, VTube Studio analyzes your speech and extracts the phonemes (**A, I, U, E, O, Other**) from your speech. You will see the squares at the bottom (see image above) turn dark when a specific phoneme is detected.
+
+You can click each phoneme to turn it **red (-)**, **green (+)** or **neutral**. Depending on that, when this specific phoneme is detected, it will push the **VoiceFrequency **parameter up or down (and with that also your mouth shape, if you use this parameter).
+
+
+
