@@ -25,6 +25,6 @@ Going purely by tracking quality, it's **iOS \> Webcam \> Android**
 
 To run VTube Studio, you need to download the smartphone app (Android or iOS) and/or the desktop app on Steam (Windows or macOS). If you only want to use your webcam, you don't need the smartphone app.
 
-[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/download_steam.png|width=220px]]
-[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/download_iphone.png|width=220px]]
-[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/download_android.png|width=220px]]
+[[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/download_steam.png|width=220px]]](https://store.steampowered.com/app/1325860/VTube_Studio/)
+[[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/download_iphone.png|width=220px]]](https://apps.apple.com/us/app/vtube-studio/id1511435444)
+[[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/download_android.png|width=220px]]](https://play.google.com/store/apps/details?id=com.denchi.vtubestudio)
