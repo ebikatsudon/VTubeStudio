@@ -78,19 +78,36 @@ You can start VTube Studio multiple times using the `start_without_steam.bat` fi
 <br/>
 
 
-VTube Studio does not support loading multiple models. However, if you want to do a collaboration stream with your friends, that is possible by using Zoom/Discord/Skype/etc. group video chat.
+If you want to do a collaboration stream with your friends over the internet, that is possible by using Zoom/Discord/Skype/etc. group video chat.
 
-When using Discord for example, just have everyone use the Virtual Webcam feature of VTube Studio and then select that webcam as your main video chat camera in Discord. Alternatively, record using OBS and then use the OBS Virtual Webcam plugin to create a webcam stream for Discord. The person “hosting” the stream/collab can then record their Discord window using OBS, cut out everyone’s streams and use chroma key filters to remove the backgrounds. This works quite well, but you might need the high-quality 1080p video chat upgrade in Discord to get good picture quality.
+When using Discord for example, just have everyone use the Virtual Webcam feature of VTube Studio and then select that webcam as your main video chat camera in Discord. Alternatively, record using OBS and then use the OBS Virtual Webcam plugin to create a webcam stream for Discord. The person "hosting" the stream/collab can then record their Discord window using OBS, cut out everyone’s streams and use chroma key filters to remove the backgrounds. This works quite well, but you might need the high-quality 1080p video chat upgrade in Discord to get good picture quality.
 
-It is also possible to use OBS over the internet using LAN-Over-Internet tools like Zero Tier One or Hamachi (free up to 5 participants). You could start multiple instances of VTube Studio on the “host” PC and then have people connect to them. Just remember to use different ports for each instance! Disclaimer: I have not personally tested this method, but users have reported that it works. Of course, there may be network delay.
-
+**Note (experimental):** It is also possible to use VTS over the internet using LAN-Over-Internet tools like _Zero Tier One_ or _Hamachi_ (free up to 5 participants). You could start multiple instances of VTube Studio on the “host” PC and then have people connect to them. Just remember to use different ports for each instance! Disclaimer: I have not personally tested this method, but users have reported that it works. Of course, there may be network delay.
 
 ## Can I use USB instead of WiFi to connect my smartphone?
 
+You can if you use an iPhone/iPad for face tracking. Direct face tracking data USB connection is not supported on Android. USB is very stable so this is the recommended way to send face tracking data.
+
+On Android, as an alternative you could connect your smartphone via USB and the use USB tethering to put them in the same network even without WiFi.
+
+**IMPORTANT:** This is unrelated to VTube Studio, but when you connect an iPhone to a PC/Mac via USB and you have a **Personal Hotspot** active, your PC will automatically try to use the iPhone mobile data connection to access the internet. See this for example: https://apple.stackexchange.com/questions/224069/iphone-prevent-automatic-hotspot-tethering-when-connecting-to-computer
+
 ## What is the "Virtual Webcam" feature?
+
+**"Virtual Webcam"** (available on Windows only) allows you to record the VTube Studio window (without the UI) and directly make it available as a webcam stream, making it easy to use it in Discord, Zoom, etc.
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/virt_webcam.png]]
 
+First, you need to install the virtual camera by pressing the **"Install"** button. This should show a windows console popup and may ask you for administrator privileges, which you’ll have to grant. After successful installation, you can check the “Activate virtual webcam” option to start the webcam stream.
+
+You can now select the stream as normal webcam in Discord, OBS, Zoom, etc. The name of the webcam is **"VTubeStudioCam"**. The virtual webcam also supports streaming with transparent background. Please note that the video quality with the virtual webcam might be slightly lower than what you would get when directly recording the window with OBS.
+
+If the installation did not work, make sure to start VTube Studio as admin. If the webcam still does not show up (for example in OBS), **make sure OBS is also started as admin**.
+
 ## My device gets really hot! What is “Streaming Mode” in the smartphone app?
+
+
+
+
 
 
