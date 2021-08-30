@@ -23,6 +23,7 @@ VTS Manual (1.10.31.a)
 * [[Animations]]
 * [[Interaction between Animations, Tracking, Physics, etc.]]
 * [[Streaming to Mac/PC]]
+* [[Starting without Steam]]
 * [[Connection Issues & Troubleshooting]]
 * [[Taking/Sharing Screenshots]]
 * [[Item System]]
