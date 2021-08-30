@@ -32,6 +32,8 @@ If you want to use plugins, first make sure the API (interface for the plugins) 
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/plugin_list.png]]
 
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/plugin_list.png]]
+
 
 
 ## How to develop plugins?
