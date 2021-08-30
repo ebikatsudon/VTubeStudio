@@ -69,7 +69,14 @@ Yes, the Steam version supports webcam tracking.
 
 ## How can I use VTube Studio together with my friends?
 
-asdf
+You can start VTube Studio multiple times using the `start_without_steam.bat` file. Then you can use multiple webcams or multiple smartphones to control the models. You can also use one webcam to control multiple instances of VTube Studio.
+
+<br/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/start_without_steam.png"/>
+</p>
+<br/>
+
 
 VTube Studio does not support loading multiple models. However, if you want to do a collaboration stream with your friends, that is possible by using Zoom/Discord/Skype/etc. group video chat.
 
