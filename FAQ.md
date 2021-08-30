@@ -157,6 +157,29 @@ Transferring a purchase to/from Steam is also not allowed by Valve DLC guideline
 
 Please refer to the chapter [Introduction & Requirements](https://github.com/DenchiSoft/VTubeStudio/wiki/Introduction-&-Requirements).
 
+## The face tracking is going crazy on my iPhone/iPad! What’s going on?
+
+<br/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/start_without_steam.png"/>
+</p>
+<br/>
+
+First, try rebooting your phone.
+
+If that doesn't help and the tracking mask in the camera preview is flying around or glitching out randomly, this is usually caused by magnetic interference. The iPhone/iPad uses a magnetometer (digital compass) to calculate the device facing direction. Please make sure your device does not have a case with magnets inside and is not leaning against a computer monitor. Having the device on a wireless charger may also cause similar issues.
+
+In some instances, it can also be caused by bad lighting. Make sure you have good, non-colored lighting in your tracking setup. Some colors seem to confuse iOS/Android face tracking. Try going in a different room and see if that helps.
+
+It has also been reported that mirrors somewhere in the camera view can confuse the tracking.
+
+## Why does my iPhone/iPad show the forward-pointing camera?
+
+This means your device is not supported. You should also have seen a popup telling you this when the app starts. For supported devices, see the chapter  [Introduction & Requirements](https://github.com/DenchiSoft/VTubeStudio/wiki/Introduction-&-Requirements).
+
+
+
+
 
 
 
