@@ -42,13 +42,14 @@ Now plugins (websites or apps running on your PC) can connect. Once connected, t
 </p>
 <br/>
 
-You can view the list of all allowed plugins and confirm the plugin is on there now. Connected plugins will also be marked as "Active" on that list.
+You can view the list of all allowed plugins and confirm the plugin is on there now. Connected plugins will also be marked as "Active" on that list. The plugin now has full control over VTube Studio, so please only allow this for plugins from sources you trust.
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/plugin_list.png]]
 
 
-## How to develop plugins?
 
 ## What are custom parameters?
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/custom_param_1.png]]
+
+## How to develop plugins?
