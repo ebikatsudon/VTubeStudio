@@ -13,7 +13,9 @@ A plugin could be an app running on your PC/Mac or even just a website that take
 
 _Plugins cannot access your webcam or read any personal data through VTS._
 
-## Some examples of VTS plugins
+## List of available VTube Studio Plugins
+
+_Please reach out on [Discord](https://discord.gg/denchisoft) if you want your plugin added to this list._
 
 For info on how to use those plugins, please check out the linked plugin websites. **Important: These plugins are UNOFFICIAL and are not developed by DenchiSoft. Please only use plugins you trust!!**
 * **[Cheers Bot](https://cheers.hawk.bar/)**
@@ -30,8 +32,6 @@ For info on how to use those plugins, please check out the linked plugin website
 * **VTube Studio Stream Deck Plugin (not released yet)**
   * By Cazzar
   * Access all VTube Studio functionality directly using your Stream Deck, including triggering hotkeys and changing models.
-
-Please reach out on [Discord](https://discord.gg/denchisoft) if you want your plugin added to this list.
 
 ## How to use plugins?
 
