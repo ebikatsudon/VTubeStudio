@@ -26,7 +26,8 @@ Please reach out on [Discord](https://discord.gg/denchisoft) if you want your pl
 
 For info on how to use a **specific plugin**, please refer to the manual/website of that plugin or ask the plugin authors.
 
-If you want to use plugins, first make sure the 
+If you want to use plugins, first make sure the API (interface for the plugins) is turned on. It starts a local (websocket) server that plugins can then connect to. The server is started on port 8001 per default. If that port is taken (for example by another instance of VTube Studio), the server will be started on port 8002 and so on. You can also change the port manually. The number in parenthesis is the actual port the API was started on.
+
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/plugins_on.png|width=600px]]
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/plugin_list.png]]
