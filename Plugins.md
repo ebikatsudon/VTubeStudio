@@ -2,4 +2,11 @@
 
 **Note: To use plugins, you currently have to use the VTube Studio Beta. See [Discord](https://discord.gg/VTubeStudio) for more info.**
 
-VTube Studio supports 
+VTube Studio supports third-party **plugins** using the **VTube Studio API**. Some stuff plugins can do:
+* asd
+* asda 
+* addasd 
+* fsfwerf
+* fdfs
+* affasf
+
