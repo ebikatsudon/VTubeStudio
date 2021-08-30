@@ -10,3 +10,8 @@ VTube Studio supports third-party **plugins** using the **VTube Studio API**. So
 * fdfs
 * affasf
 
+## Some examples for plugins
+
+## How to use plugins?
+
+## How to develop plugins?
