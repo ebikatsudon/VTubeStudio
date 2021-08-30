@@ -46,7 +46,7 @@ You can view the list of all allowed plugins and confirm the plugin is on there 
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/plugin_list.png]]
 
-
+A given plugin has to only request permission once for a PC/Mac, so the permission-popup will not be shown the next time the plugin connects to VTube Studio, unless you have revoked the permission in the meantime. All plugin-related information is saved in the "Plugins" folder, which can be found in the "Config" folder next to the "Live2DModels" folder. Deleting the "Plugins" folder will also remove all permissions from all plugins.
 
 ## What are custom parameters?
 
