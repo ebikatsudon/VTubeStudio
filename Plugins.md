@@ -22,3 +22,7 @@ Please reach out on [Discord](https://discord.gg/denchisoft) if you want your pl
 ## How to use plugins?
 
 ## How to develop plugins?
+
+## What are custom parameters?
+
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/custom_param_1.png]]
