@@ -30,15 +30,19 @@ If you want to use plugins, first make sure the API (interface for the plugins) 
 
 <br/>
 <p align="center">
+  <img src="https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/plugins_on.png" width="600px"/>
+</p>
+<br/>
+
+Now plugins (websites or apps running on your PC) can connect. Once connected, they will have to **request your permission first**. A popup will appear on screen once a plugin does that. If you deny it, the plugin can try requesting permission again at any time.
+
+<br/>
+<p align="center">
   <img src="https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/plugin_permission.png" width="781px"/>
 </p>
 <br/>
 
-<br/>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/plugins_on.png" width="600px"/>
-</p>
-<br/>
+
 
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/plugin_list.png]]
