@@ -27,7 +27,7 @@ VTS Manual (1.10.31.a)
 * [[Connection Issues & Troubleshooting]]
 * [[Taking/Sharing Screenshots]]
 * [[Item System]]
-* [[Plugins (YouTube, Twitch, etc.)]]
+* [Plugins (YouTube, Twitch, etc.)](https://github.com/DenchiSoft/VTubeStudio/wiki/Plugins)
 * [[VTube Studio Model File]]
 * [[FAQ]]
 * [[Privacy Policy, Licensing and Further Terms]]
