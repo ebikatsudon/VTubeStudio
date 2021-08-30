@@ -30,7 +30,7 @@ If you want to use plugins, first make sure the API (interface for the plugins) 
 
 <br/>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/plugin_permission.png" width="600px"/>
+  <img src="https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/plugin_permission.png" width="781px"/>
 </p>
 <br/>
 
