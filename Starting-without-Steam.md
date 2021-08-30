@@ -12,7 +12,7 @@ When you start VTube Studio multiple times, the windows will have different titl
 
 <br/>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/vts_multi_window_title.png" width="530px"/>
+  <img src="https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/vts_multi_window_title.png" width="730px"/>
 </p>
 <br/>
 
