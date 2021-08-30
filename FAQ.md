@@ -104,10 +104,29 @@ You can now select the stream as normal webcam in Discord, OBS, Zoom, etc. The n
 
 If the installation did not work, make sure to start VTube Studio as admin. If the webcam still does not show up (for example in OBS), **make sure OBS is also started as admin**.
 
-## My device gets really hot! What is “Streaming Mode” in the smartphone app?
+## My device gets really hot! What is "Streaming Mode" in the smartphone app?
 
+This is unfortunately normal. Your device may get really hot, but with the correct settings, it should not lead to any serious issues such as overheating or crashes. This mostly affects older supported devices, like the iPhone X.
 
+To reduce heating, there are three things you should do when streaming to PC:
+* **Unload your Live2D model on the smartphone.** You do not need to have a model loaded when streaming to PC and having a model open on your smartphone requires a lot of performance, which can be too much for some smartphones. 
+* **Remove the camera preview.** Rendering the camera preview in the app can also cause some performance issues when done for a long time. Try turning it off.
+* **Turn the screen brightness all the way down.** This will significantly reduce the heat produced by your phone.
 
+When using these settings, **streaming for 15+ hours should be no problem** (keep the phone charged). Tested on iPhone X and iPad.
 
+**"Streaming Mode"** automatically removes the model, removes the camera preview and lowers the screen brightness when connecting to your PC. It is recommended to always use streaming mode when streaming to your PC.
 
+## Are there differences between the macOS and Windows version?
 
+Windows supports all features. MacOS does not support transparent backgrounds with OBS and background hotkeys. This means hotkeys will only work on macOS if the VTube Studio window is focused. When for example playing a game at the same time, the hotkeys will not activate.
+
+Also, webcam tracking for macOS is highly experimental and will most likely stay that way. Please keep that in mind when using VTube Studio for macOS.
+
+## Why does my stream to PC/Mac lag?
+
+This is almost always caused by network issues. As a first thing to try, restart your router/switches, PC and smartphone. If the issues persist, check the chapter [["Connection Issues & Troubleshooting"]].
+
+Sometimes, “gaming performance improvement” tools like Razer Game Boost can also cause performance issues, so try deactivating them and see if that improves things.
+
+that in mind when using VTube Studio for macOS.
