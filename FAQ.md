@@ -155,7 +155,7 @@ Transferring a purchase to/from Steam is also not allowed by Valve DLC guideline
 
 ## VTube Studio doesn't work on my smartphone. What can I do?
 
-Please refer to the chapter []().
+Please refer to the chapter [Introduction & Requirements](https://github.com/DenchiSoft/VTubeStudio/wiki/Introduction-&-Requirements).
 
 
 
