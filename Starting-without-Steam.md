@@ -16,5 +16,6 @@ When you start VTube Studio multiple times, the windows will have different titl
 </p>
 <br/>
 
+You can now use multiple webcams or smartphones (on different ports) to control the different VTube Studio instances. You can also support one webcam in multiple VTube Studio instances so they use the same tracking data. In that case, the face tracking is only executed once for that camera so there is no additional CPU overhead.
 
 
