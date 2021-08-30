@@ -5,7 +5,7 @@
 VTube Studio supports third-party **plugins** using the **VTube Studio API**. Some stuff plugins can do:
 * Activate hotkeys (for example via Twitch donations, YouTube superchats, ...)
 * Control face tracking parameters and control the model.
-* Add entirely new tracking parameters, allowing for literally anything to control your model (software, game controllers, ...)
+* Add entirely new tracking parameters and inject data for them, allowing for literally anything to control your model (software, game controllers, ...)
 * Move the model, scale and rotate it.
 * ...and more!!
 
