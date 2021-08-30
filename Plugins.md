@@ -16,18 +16,18 @@ _Plugins cannot access your webcam or read any personal data through VTS._
 ## Some examples of VTS plugins
 
 For info on how to use those plugins, please check out the linked plugin websites. **Important: These plugins are UNOFFICIAL and are not developed by DenchiSoft. Please only use plugins you trust!!**
-* [Cheers Bot](https://cheers.hawk.bar/)
+* **[Cheers Bot](https://cheers.hawk.bar/)**
   * By HawkBar
   * Trigger hotkeys, model changes and more based on Twitch stream events (donations, etc.)
-* VTS React (not released yet)
+* **VTS React (not released yet)**
   * By Fugi and Iron Vertex
   * Easy to use web-based Twitch/YouTube integration for VTube Studio.
-* [Mix It Up Streaming Bot](https://mixitupapp.com/)
+* **[Mix It Up Streaming Bot](https://mixitupapp.com/)**
   * A versatile streaming bot that also supports VTS integration, including activating hotkeys on stream events such as donations, etc.
-* [VTChaos](https://github.com/Raelice/VTchaos)
+* **[VTChaos](https://github.com/Raelice/VTchaos)**
   * By Raelice
   * A YouTube chat bot that sends commands to VTube Studio when someone uses certain commands in chat.
-* VTube Studio Stream Deck Plugin (not released yet)
+* **VTube Studio Stream Deck Plugin (not released yet)**
   * By Cazzar
   * Access all VTube Studio functionality directly using your Stream Deck, including triggering hotkeys and changing models.
 
