@@ -177,6 +177,14 @@ It has also been reported that mirrors somewhere in the camera view can confuse 
 
 This means your device is not supported. You should also have seen a popup telling you this when the app starts. For supported devices, see the chapter  [Introduction & Requirements](https://github.com/DenchiSoft/VTubeStudio/wiki/Introduction-&-Requirements).
 
+## Are MacOS and Linux supported? What about M1 Macs?
+
+* **Linux:** Not officially supported, but it's possible to run VTube Studio on Linux by using the `Network Tracker` mode and starting OpenSeeFace manually, see [this Trello item](https://trello.com/c/kbZWaoKN/26-variable-ip-for-osf-tracker). If you have questions about that, ask on Discord.
+* **MacOS:** Supported experimentally with limitations. Download normally through Steam but please be aware that some functionality may not work, including stable webcam tracking and sound lipsync. Silicon M1 Macs should also work but there may be even more stability issues. I can only offer very limited support for macOS.
+
+## Can I use VTube Studio in my company? How about for TV ads?
+
+Depending on the size of your company, you may need additional licensing. Please see the [VTube Studio EULA](https://denchisoft.com/license/) or [contact me](mailto:denchi@denchisoft.com) for more information.
 
 
 
