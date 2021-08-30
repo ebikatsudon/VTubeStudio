@@ -161,7 +161,7 @@ Please refer to the chapter [Introduction & Requirements](https://github.com/Den
 
 <br/>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/start_without_steam.png"/>
+  <img src="https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/magnets_o.png" width="612px"/>
 </p>
 <br/>
 
