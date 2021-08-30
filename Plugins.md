@@ -59,3 +59,12 @@ When a plugin is removed (revoked permissions by user), all custom parameters cr
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/custom_param_1.png]]
 
 ## How to develop plugins?
+
+Anyone can develop plugins!! It's free and there are no restrictions! If you want, you can even sell your plugins. There are no royalties or licensing payments required to VTube Studio/DenchiSoft if you do.
+
+If you're a developer and you're interested in making a plugin, please head over to the [VTube Studio API Development Page](https://github.com/DenchiSoft/VTubeStudio/) for all the details. If you have any questions, please ask in the API channel in the [VTube Studio Discord](https://discord.gg/VTubeStudio).
+
+And most importantly, if you make something cool, please post videos on Twitter and tweet them at [@VTubeStudio](https://twitter.com/VTubeStudio)!! 
+
+
+
