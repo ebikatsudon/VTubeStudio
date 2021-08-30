@@ -64,7 +64,7 @@ Anyone can develop plugins!! It's free and there are no restrictions! If you wan
 
 If you're a developer and you're interested in making a plugin, please head over to the [VTube Studio API Development Page](https://github.com/DenchiSoft/VTubeStudio/) for all the details. If you have any questions, please ask in the API channel in the [VTube Studio Discord](https://discord.gg/VTubeStudio).
 
-And most importantly, if you make something cool, please post videos on Twitter and tweet them at [@VTubeStudio](https://twitter.com/VTubeStudio)!! 
+And most importantly, if you make something cool, please post videos on Twitter and tweet them at [@VTubeStudio](https://twitter.com/VTubeStudio)!! If it's something **really cool** and **user friendly** with a **good manual** I'd also like to feature it on this page.
 
 
 
