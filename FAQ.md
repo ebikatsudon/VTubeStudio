@@ -186,8 +186,33 @@ This means your device is not supported. You should also have seen a popup telli
 
 Depending on the size of your company, you may need additional licensing. Please see the [VTube Studio EULA](https://denchisoft.com/license/) or [contact me](mailto:denchi@denchisoft.com) for more information.
 
+## I can't load my Live2D model in VTube Studio. What's wrong?
 
+First, check the logs if there are any errors. If there are errors in the logs but no error popup was shown, there may be a bug in the app. Please contact me on Discord so I can take care of it.
 
+There have also been cases of Antivirus software blocking the app from reading models. Try disabling them or adding an exception for VTube Studio. One such example is "IObit Malware Fighter".
+
+If you're trying to load a model in the iOS/Android app and the app just crashes instantly, this is most likely because your textures are too big. 16k textures or three or more 4k textures are too much for most mobile devices. Having textures that large does nothing to improve your model display quality, so please export the model from Live2D with a reduced texture size. As a general rule, one or two 4k textures should always be enough.
+
+## Can I use the iPhone/Android tracking at the same time with webcam tracking?
+
+Not sure why you would ever want to, but yes. If you have both active, webcam tracking will be used as long as the webcam can track you. Once it loses tracking, VTS will automatically use the tracking data received over the network instead.
+
+## I am on MacOS and the webcam tracker is broken. 
+
+Webcam tracking on MacOS is experimental and may not work at all depending on your device. Before purchasing any DLCs, please make sure you are happy with the tracking on MacOS as I cannot guarantee it will work in a stable way. In the worst case, if VTS or any other app can't access your webcam anymore, you may have to reset your SMC like this:
+
+**System Management Controller (SMC) Reset Guide:** https://support.apple.com/en-gb/HT201295
+
+That said, there are quite a few users who use VTube Studio on macOS and do not have any problems. iOS/Android tracking with macOS should work fine.
+
+## Does VTube Studio store/record any personal data?
+
+**No.**
+
+Specifically, no personal data is stored on the device or sent to any external servers by VTube Studio. VTube Studio writes logs to your PC, but they are human-readable text files and not sent anywhere unless you send them manually. You can also delete them at any time.
+
+For more information, see the privacy policy on https://denchisoft.com/privacy/
 
 
 
