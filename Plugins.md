@@ -50,6 +50,12 @@ A given plugin has to only request permission once for a PC/Mac, so the permissi
 
 ## What are custom parameters?
 
+Plugins can create **"Custom Parameters"**. Once created, the custom parameters will show up in VTube Studio exactly like normal face tracking parameters like `FaceAngleY` or `MouthX`, so you can use them to control Live2D parameters in your model. Plugins can freely create those parameters and inject data for them, so using any kind of hardware/software/controller/etc. to control parts of your Live2D model is easily possible.
+
+Custom parameters are marked as such (blue color and P symbol) when selecting them as INPUT in the VTube Studio model config.
+
+When a plugin is removed (revoked permissions by user), all custom parameters created by that plugin are also deleted, but they will still be set as INPUT if a model is using them. They will then be marked in red. The plugin can recreate those parameters at any time and the model will be able to use them again.
+
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/custom_param_1.png]]
 
 ## How to develop plugins?
