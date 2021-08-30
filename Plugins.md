@@ -42,13 +42,9 @@ Now plugins (websites or apps running on your PC) can connect. Once connected, t
 </p>
 <br/>
 
-
-
-
-[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/plugin_list.png]]
+You can view the list of all allowed plugins and confirm the plugin is on there now. Connected plugins will also be marked as "Active" on that list.
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/plugin_list.png]]
-
 
 
 ## How to develop plugins?
