@@ -28,7 +28,7 @@ For info on how to use a **specific plugin**, please refer to the manual/website
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/plugin_list.png]]
 
-[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/plugin_on.png]]
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/plugins_on.png]]
 
 ## How to develop plugins?
 
