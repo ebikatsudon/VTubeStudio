@@ -52,7 +52,7 @@ If you move, scale or rotate the Live2D model itself, any locked items attached 
 
 **To unlock locked items**, choose the option from the main menu (see arrow in second image). By pressing that button once more, all items will be locked again.
 
-**To delete items from the scene**, simply drag them over the trash can icon in the bottom right. It will only appear if you drag an item near it.
+**To delete items from the scene**, simply drag them over the trash can icon in the bottom right. It will only appear if you drag an item near it. You can also drag and drop items off-screen, that will also delete them from the scene.
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/hint_top.png]]
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/bunny_point.png|alt="Important Point!!"|height=59px|width=189px]]<br/>
