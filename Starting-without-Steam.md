@@ -20,7 +20,7 @@ You can now use multiple webcams or smartphones (on different ports) to control 
 
 <br/>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/multi_vts.gif" width="600px"/>
+  <img src="https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/multi_vts.gif" width="740px"/>
 </p>
 <br/>
 
