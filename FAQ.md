@@ -125,8 +125,38 @@ Also, webcam tracking for macOS is highly experimental and will most likely stay
 
 ## Why does my stream to PC/Mac lag?
 
-This is almost always caused by network issues. As a first thing to try, restart your router/switches, PC and smartphone. If the issues persist, check the chapter [["Connection Issues & Troubleshooting"]].
+This is almost always caused by network issues. As a first thing to try, restart your router/switches, PC and smartphone. If the issues persist, check the chapter ["Connection Issues & Troubleshooting"](https://github.com/DenchiSoft/VTubeStudio/wiki/Connection-Issues-%26amp%3B-Troubleshooting).
 
-Sometimes, “gaming performance improvement” tools like Razer Game Boost can also cause performance issues, so try deactivating them and see if that improves things.
+Sometimes, _"gaming performance improvement tools"_ like **Razer Game Boost** or **MSI Afterburner** can also cause performance issues, so try deactivating them and see if that improves things.
 
-that in mind when using VTube Studio for macOS.
+## Can I use my DSLR camera for webcam face tracking?
+
+Should generally work but people have reported some issues. You may have to turn off **"USB selective suspend"** for some DSLRs. If the camera still doesn't work in VTube Studio, try tunneling it through OBS by using the OBS virtual webcam functionality and reading that virtual webcam with VTube Studio. This may cause performance issues on some PCs but it should work
+
+## Why is the app running at crazy FPS (400+)?
+
+This is a bug caused by some GPU drivers reporting incorrect display refresh rates, causing FPS to get unlocked when VSync is active in VTube Studio so it will try to render at the fastest possible speed.
+
+To fix this, turn on G-SYNC in the Nvidia GPU settings (or the equivalent for your GPU). If that still doesn’t work, consider setting the FPS config to 60 in VTube Studio instead of VSync. 
+
+## Why is blinking and eye tracking not supported on Android?
+
+VTube Studio uses Google ARCore on Android. Eye/Blink/Wink-Tracking is not supported by this framework yet. There is no information if/when this will become available. It is possible that it will never be supported.
+
+If and when it is added to ARCore, it will also be supported by VTube Studio
+
+## I bought the PRO version on Android. Can I transfer it to iOS? Or Steam?
+
+As a general rule, no. Technically, it is not possible as Google and Apple use different app-stores.<br/>
+However, I may grant a grace period of one month.
+ 
+If you purchased VTube Studio on Android and want to "transfer" that license to iOS, you can contact me per mail or on Discord. If you do, please first also purchase it on iOS and provide proof of purchase. I will then refund your purchase on Android. 
+Transferring a purchase to/from Steam is also not allowed by Valve DLC guidelines. But if you use iOS/Android tracking, you do not need the Steam DLC because all it does is remove the watermark when using webcam tracking. No watermark is shown in the Steam version when using smartphone tracking.
+
+## VTube Studio doesn't work on my smartphone. What can I do?
+
+Please refer to the chapter []().
+
+
+
+
