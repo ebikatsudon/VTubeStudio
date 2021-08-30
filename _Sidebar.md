@@ -19,7 +19,7 @@ VTS Manual (1.10.31.a)
 * [[Loading your own Backgrounds]]
 * [[VTube Studio Settings]]
 * [[VTS Model Settings]]
-* [[Expressions ("Stickers"/"Emotes")]]
+* [Expressions ("Stickers"/"Emotes")](https://github.com/DenchiSoft/VTubeStudio/wiki/Expressions-(Stickers-Emotes))
 * [[Animations]]
 * [[Interaction between Animations, Tracking, Physics, etc.]]
 * [[Streaming to Mac/PC]]
