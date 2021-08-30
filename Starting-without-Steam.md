@@ -8,11 +8,13 @@ You can even start VTube Studio multiple times using the `start_without_steam.ba
 </p>
 <br/>
 
-When you start VTube Studio multiple times, the windows will have different titles (Windows-only, not supported on macOS) so they can easily be captured separately by OBS.
+When you start VTube Studio multiple times, the windows will have different titles (Windows-only, not supported on macOS) so they can easily be captured separately by OBS. Do not start multiple VTS instances consecutively too fast, otherwise this will not work and they will all have the same title.
 
 <br/>
 <p align="center">
   <img src="https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/vts_multi_window_title.png" width="730px"/>
 </p>
 <br/>
+
+
 
