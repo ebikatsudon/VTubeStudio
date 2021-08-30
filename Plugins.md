@@ -26,9 +26,12 @@ Please reach out on [Discord](https://discord.gg/denchisoft) if you want your pl
 
 For info on how to use a **specific plugin**, please refer to the manual/website of that plugin or ask the plugin authors.
 
+If you want to use plugins, first make sure the 
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/plugins_on.png|width=600px]]
+
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/plugin_list.png]]
 
-[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/plugins_on.png|width=600px]]
+
 
 ## How to develop plugins?
 
