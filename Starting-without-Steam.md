@@ -1,0 +1,1 @@
+VTube Studio is only available via Steam and all updates will distributed that way. However, once downloaded, **you can start VTube Studio without Steamv.
