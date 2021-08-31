@@ -15,7 +15,7 @@ _Plugins cannot access your webcam or read any personal data through VTS._
 
 ## List of available VTube Studio Plugins
 
-_Please reach out on [Discord](https://discord.gg/denchisoft) if you want your plugin added to this list._
+_Please reach out on [Discord](https://discord.gg/VTubeStudio) if you want your plugin added to this list._
 
 For info on how to use those plugins, please check out the linked plugin websites. **Important: These plugins are UNOFFICIAL and are not developed by DenchiSoft. Please only use plugins you trust!!**
 * **[Cheers Bot](https://cheers.hawk.bar/)**
