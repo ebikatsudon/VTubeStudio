@@ -123,11 +123,15 @@ Windows supports all features. MacOS does not support transparent backgrounds wi
 
 Also, webcam tracking for macOS is highly experimental and will most likely stay that way. Please keep that in mind when using VTube Studio for macOS.
 
-## Why does my stream to PC/Mac lag?
+## Why does the app lag? Why does it eat so much CPU/GPU?
 
-This is almost always caused by network issues. As a first thing to try, restart your router/switches, PC and smartphone. If the issues persist, check the chapter ["Connection Issues & Troubleshooting"](https://github.com/DenchiSoft/VTubeStudio/wiki/Connection-Issues-%26amp%3B-Troubleshooting).
+Lag is almost always caused by network issues. As a first thing to try, restart your router/switches, PC and smartphone. If the issues persist, check the chapter ["Connection Issues & Troubleshooting"](https://github.com/DenchiSoft/VTubeStudio/wiki/Connection-Issues-%26amp%3B-Troubleshooting).
+
+If you are experiencing high CPU/GPU usage: this is not normal. VTube Studio should not require a strong CPU/GPU, so something may be going wrong. Ask in the [VTube Studio Discord](https://discord.gg/VTubeStudio) if you're having performance issues.
 
 Sometimes, _"gaming performance improvement tools"_ like **Razer Game Boost** or **MSI Afterburner** can also cause performance issues, so try deactivating them and see if that improves things.
+
+One user has also reported high CPU/GPU utilization until they turned on `NVidia Reflex`, so that's also something you could try.
 
 ## Can I use my DSLR camera for webcam face tracking?
 
