@@ -17,9 +17,9 @@ You can also run the auto-setup for your VTube Studio model. This will set up yo
 
 If you change the parameter IDs or ranges, auto-setup will not be able to set up your model and you'll have to do it manually. Even if you use auto-setup, you may have to fine-tune your VTS model to fit your Live2D model.
 
-## Model Movement
+## Movement Config
 
-With the "Model Movement" settings, you can move the model left/right and closer/further away from the screen based on your head position. With the sliders, you can configure how much the model is moved.
+With the "Movement Config" settings, you can move the model left/right and closer/further away from the screen based on your head position. With the sliders, you can configure how much the model is moved.
 
 ## Physics Settings
 
