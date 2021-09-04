@@ -24,7 +24,7 @@ VTS Manual (1.10.31.a)
 * [[Interaction between Animations, Tracking, Physics, etc.]]
 * [[Streaming to Mac/PC]]
 * [[Starting without Steam]]
-* [[Connection Issues & Troubleshooting]]
+* [Connection Issues & Troubleshooting](https://github.com/DenchiSoft/VTubeStudio/wiki/Connection-Issues-&-Troubleshooting)
 * [[Taking/Sharing Screenshots]]
 * [[Item System]]
 * [Plugins (YouTube, Twitch, etc.)](https://github.com/DenchiSoft/VTubeStudio/wiki/Plugins)
