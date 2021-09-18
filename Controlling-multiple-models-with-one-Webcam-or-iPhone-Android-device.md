@@ -1,1 +1,1 @@
-asdf
+You can use one webcam or iPhone/Android device to control multiple VTube Studio instances.
