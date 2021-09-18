@@ -14,8 +14,8 @@ Alternatively, use the `start_without_steam.bat` file next to the main VTube Stu
 
 ## Using one webcam to control multiple VTube Studio Instances
 
-asdf
+You can just select the same webcam multiple times in VTube Studio. The tracking will only be executed once, so there is no performance overhead when using the same webcam for multiple models.
 
 ## Using one iPhone or Android device to control multiple VTube Studio Instances
 
-asdf
+Thi
