@@ -22,6 +22,18 @@ You can just select the same webcam multiple times in VTube Studio. The tracking
 
 Let's assume you've started 5 VTS instances. When starting the network server twice on the same port, VTube Studio will automatically choose the next available port and start it there instead. This will be indicated by a strike through the original port number.
 
+The 5 instances run on the following ports:
+
+* **(A)** "VTube Studio" - Port 25565
+* **(B)** "VTube Studio Window 2" - Port 25566
+* **(C)** "VTube Studio Window 3" - Port 25567
+* **(D)** "VTube Studio Window 4" - Port 25568
+* **(E)** "VTube Studio Window 5" - Port 25569
+
+Note that all instances will have to have their network server turned on for this to work. You can now use your smartphone to connect to **any of those instances** by typing its port in the iOS app. Let's say you connect to instance **(B)** on port 25566. This instance then passes the tracking data on to the instance at `<own_port> - 1` and `<own_port> + 1`, so it passes the data UP and DOWN. The receiving instances then receive the data and pass it on, building a chain in both directions. If the chain is broken by having no VTube Studio instance running at one port, the data won't be passed on further than that.
+
+This also means that if you want to use **two smartphones** to control **two different VTube Studio instances on the same PC**, the instances have to run at least 2 port numbers apart, otherwise the instances will try to send each other data.  
+
 ### When using an iPhone USB connection
 
 asd
