@@ -18,4 +18,10 @@ You can just select the same webcam multiple times in VTube Studio. The tracking
 
 ## Using one iPhone or Android device to control multiple VTube Studio Instances
 
-Thi
+### When using iPhone/Android network tracking
+
+asd
+
+### When using an iPhone USB connection
+
+asd
