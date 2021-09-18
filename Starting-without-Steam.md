@@ -27,7 +27,7 @@ When you start VTube Studio multiple times, the windows will have different titl
 
 You can now use multiple webcams or smartphones (on different ports) to control the different VTube Studio instances. You can also use one webcam or iPhone/Android device in multiple VTube Studio instances so they use the same tracking data. In that case, the face tracking is only executed once so there is no additional CPU overhead.
 
-To learn how to do that, please check out the page
+To learn how to do that, please check out the page about [controlling multiple models with one webcam or smartphone](https://github.com/DenchiSoft/VTubeStudio/wiki/Controlling-multiple-models-with-one-Webcam-or-iPhone-Android-device).
 
 <br/>
 <p align="center">
