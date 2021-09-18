@@ -36,4 +36,13 @@ This also means that if you want to use **two smartphones** to control **two dif
 
 ### When using an iPhone USB connection
 
-asd
+This works a bit differently. **One instance receives the data via USB** and passes it on to **one other instance**. Let's assume we have the following 5 instances running:
+
+* **(A)** "VTube Studio" - USB Server active, Network server turned off but port **25565 **selected.
+* **(B)** "VTube Studio Window 2" - Port **25565**
+* **(C)** "VTube Studio Window 3" - Port 25566
+* **(D)** "VTube Studio Window 4" - Port 25567
+* **(E)** "VTube Studio Window 5" - Port 25568
+
+Note that both instances **(A)** and **(B)** have the same port selected for the network server. This works because instance **(A)** has USB active, meaning it can't have the network server active at the same time. Instance **(A)** receives the data via USB and passes it on to the port set in its (deactivated) network server. Instance **(B)** is running at that port and will receive the data and then pass it on DOWN and UP again, so to ports 25564 (nothing running there) and port 25566 (instance **(C)**). From there, the chain is continued normally.
+
