@@ -8,6 +8,8 @@ You can even start VTube Studio multiple times using the "Start VTube Studio" bu
 </p>
 <br/>
 
+When you start multiple instances of VTube Studio, the ports for the network server and API you selected will already be taken, so they will be started on the next available port.
+
 Alternatively, you can use the `start_without_steam.bat` file next to the main VTube Studio `.exe`. 
 
 <br/>
