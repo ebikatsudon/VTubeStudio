@@ -22,6 +22,12 @@ You can just select the same webcam multiple times in VTube Studio. The tracking
 
 Let's assume you've started 5 VTS instances. When starting the network server twice on the same port, VTube Studio will automatically choose the next available port and start it there instead. This will be indicated by a strike through the original port number.
 
+<br/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/network_server_auto_ip.png"/>
+</p>
+<br/>
+
 The 5 instances run on the following ports:
 
 * **(A)** "VTube Studio" - Port 25565
@@ -33,6 +39,12 @@ The 5 instances run on the following ports:
 Note that all instances will have to have their network server turned on for this to work. You can now use your smartphone to connect to **any of those instances** by typing its port in the iOS app. Let's say you connect to instance **(B)** on port 25566. This instance then passes the tracking data on to the instance at `<own_port> - 1` and `<own_port> + 1`, so it passes the data UP and DOWN. The receiving instances then receive the data and pass it on, building a chain in both directions. If the chain is broken by having no VTube Studio instance running at one port, the data won't be passed on further than that.
 
 This also means that if you want to use **two smartphones** to control **two different VTube Studio instances on the same PC**, the instances have to run at least 2 port numbers apart, otherwise the instances will try to send each other data.  
+
+<br/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/vtube_studio_multi_instance_1.png"/>
+</p>
+<br/>
 
 ### When using an iPhone USB connection
 
@@ -46,3 +58,8 @@ This works a bit differently. **One instance receives the data via USB** and pas
 
 Note that both instances **(A)** and **(B)** have the same port selected for the network server. This works because instance **(A)** has USB active, meaning it can't have the network server active at the same time. Instance **(A)** receives the data via USB and passes it on to the port set in its (deactivated) network server. Instance **(B)** is running at that port and will receive the data and then pass it on DOWN and UP again, so to ports 25564 (nothing running there) and port 25566 (instance **(C)**). From there, the chain is continued normally.
 
+<br/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/vtube_studio_multi_instance_2.png"/>
+</p>
+<br/>
