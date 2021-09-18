@@ -20,7 +20,7 @@ You can just select the same webcam multiple times in VTube Studio. The tracking
 
 ### When using iPhone/Android network tracking
 
-asd
+Let's assume you've started 5 VTS instances. When starting the network server twice on the same port, VTube Studio will automatically choose the next available port and start it there instead. This will be indicated by a strike through the original port number.
 
 ### When using an iPhone USB connection
 
