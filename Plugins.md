@@ -32,6 +32,9 @@ For info on how to use those plugins, please check out the linked plugin website
 * **VTube Studio Stream Deck Plugin (not released yet)**
   * By Cazzar
   * Access all VTube Studio functionality directly using your Stream Deck, including triggering hotkeys and changing models.
+* **[TP_VTS - Touch Portal Integration for VTube Studio](https://github.com/Wiccy84/TP_VTS)**
+  * By Wiccy
+  * Plugin that makes it easy to control VTube Studio using the Touch Portal smartphone app. Supports triggering hotkeys, loading and moving models, coloring ArtMeshes and more!
 
 ## How to use plugins?
 
