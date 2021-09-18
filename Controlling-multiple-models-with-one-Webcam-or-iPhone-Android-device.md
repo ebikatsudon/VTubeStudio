@@ -38,7 +38,7 @@ This also means that if you want to use **two smartphones** to control **two dif
 
 This works a bit differently. **One instance receives the data via USB** and passes it on to **one other instance**. Let's assume we have the following 5 instances running:
 
-* **(A)** "VTube Studio" - USB Server active, Network server turned off but port **25565 **selected.
+* **(A)** "VTube Studio" - USB Server active, Network server turned off but port **25565** selected.
 * **(B)** "VTube Studio Window 2" - Port **25565**
 * **(C)** "VTube Studio Window 3" - Port 25566
 * **(D)** "VTube Studio Window 4" - Port 25567
