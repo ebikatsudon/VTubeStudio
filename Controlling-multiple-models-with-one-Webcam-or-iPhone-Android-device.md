@@ -20,7 +20,15 @@ You can just select the same webcam multiple times in VTube Studio. The tracking
 
 ### When using iPhone/Android network tracking
 
+**Note:** When using USB instead of a network connection, scroll down to **"When using an iPhone USB connection"**.
+
 Let's assume you've started 5 VTS instances. When starting the network server twice on the same port, VTube Studio will automatically choose the next available port and start it there instead. This will be indicated by a strike through the original port number.
+
+<br/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/network_server_auto_ip.png"/>
+</p>
+<br/>
 
 The 5 instances run on the following ports:
 
@@ -34,6 +42,12 @@ Note that all instances will have to have their network server turned on for thi
 
 This also means that if you want to use **two smartphones** to control **two different VTube Studio instances on the same PC**, the instances have to run at least 2 port numbers apart, otherwise the instances will try to send each other data.  
 
+<br/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/vtube_studio_multi_instance_1.png"/>
+</p>
+<br/>
+
 ### When using an iPhone USB connection
 
 This works a bit differently. **One instance receives the data via USB** and passes it on to **one other instance**. Let's assume we have the following 5 instances running:
@@ -46,3 +60,8 @@ This works a bit differently. **One instance receives the data via USB** and pas
 
 Note that both instances **(A)** and **(B)** have the same port selected for the network server. This works because instance **(A)** has USB active, meaning it can't have the network server active at the same time. Instance **(A)** receives the data via USB and passes it on to the port set in its (deactivated) network server. Instance **(B)** is running at that port and will receive the data and then pass it on DOWN and UP again, so to ports 25564 (nothing running there) and port 25566 (instance **(C)**). From there, the chain is continued normally.
 
+<br/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/vtube_studio_multi_instance_2.png"/>
+</p>
+<br/>
