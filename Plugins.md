@@ -26,6 +26,7 @@ For info on how to use those plugins, please check out the linked plugin website
   * Easy to use web-based Twitch/YouTube integration for VTube Studio.
 * **[Mix It Up Streaming Bot](https://mixitupapp.com/)**
   * A versatile streaming bot that also supports VTS integration, including activating hotkeys on stream events such as donations, etc.
+  * The update that adds VTS support will be released very soon!!
 * **[VTChaos](https://github.com/Raelice/VTchaos)**
   * By Raelice
   * A YouTube chat bot that sends commands to VTube Studio when someone uses certain commands in chat.
