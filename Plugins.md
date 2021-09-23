@@ -29,7 +29,7 @@ For info on how to use those plugins, please check out the linked plugin website
   * The update that adds VTS support will be released very soon!!
 * **[VTChaos](https://github.com/Raelice/VTchaos)**
   * By Raelice
-  * A YouTube chat bot that sends commands to VTube Studio when someone uses certain commands in chat.
+  * A YouTube/Twitch chat bot that sends commands to VTube Studio when someone uses certain commands in chat.
 * **VTube Studio Stream Deck Plugin (not released yet)**
   * By Cazzar
   * Access all VTube Studio functionality directly using your Stream Deck, including triggering hotkeys and changing models.
