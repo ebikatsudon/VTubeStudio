@@ -156,7 +156,7 @@ Various actions can be triggered by hotkeys:
 * **Take Screenshot**
   * Triggers screenshot with the previously set screenshot settings.
 * **Screen Overlay**
-  * Sets the Live2D model display overlay settings to the settings recorded in this hotkey. Will only work on Windows and MacOS. For more info, see [Display Light Overlay](https://github.com/DenchiSoft/VTubeStudio/wiki/Display-Light-Overlay).
+  * Sets the Live2D model display overlay settings to the settings recorded in this hotkey. Will only work on Windows and macOS. For more info, see [Display Light Overlay](https://github.com/DenchiSoft/VTubeStudio/wiki/Display-Light-Overlay).
 
 For animations and expressions, there are a few extra settings you can use to customize fade times and animation playback behavior. For example, you can stop animations/expressions after a certain number of seconds or once the button is let go.
 
