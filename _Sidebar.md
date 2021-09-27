@@ -18,6 +18,7 @@ VTS Manual (1.10.31.a)
 * [[Loading your own Models]]
 * [[Loading your own Backgrounds]]
 * [[VTube Studio Settings]]
+* [[Display Light Overlay]]
 * [[VTS Model Settings]]
 * [Expressions ("Stickers"/"Emotes")](https://github.com/DenchiSoft/VTubeStudio/wiki/Expressions-(a.k.a.-Stickers-or-Emotes))
 * [[Animations]]
