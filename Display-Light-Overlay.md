@@ -1,0 +1,1 @@
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/vts_lighting_overlay.png|alt="Screenshots"]]
