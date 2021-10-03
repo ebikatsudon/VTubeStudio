@@ -21,7 +21,7 @@ For info on how to use those plugins, please check out the linked plugin website
 * **[Cheers Bot](https://cheers.hawk.bar/)**
   * By HawkBar
   * Trigger hotkeys, model changes and more based on Twitch stream events (donations, etc.)
-* **VTS React (not released yet)**
+* **[VTS React](https://vts-react.fugi.tech)**
   * By Fugi and Iron Vertex
   * Easy to use web-based Twitch/YouTube integration for VTube Studio.
 * **[Mix It Up Streaming Bot](https://mixitupapp.com/)**
@@ -30,7 +30,7 @@ For info on how to use those plugins, please check out the linked plugin website
 * **[VTChaos](https://github.com/Raelice/VTchaos)**
   * By Raelice
   * A YouTube/Twitch chat bot that sends commands to VTube Studio when someone uses certain commands in chat.
-* **VTube Studio Stream Deck Plugin (not released yet)**
+* **VTube Studio Stream Deck Plugin (download via official Stream Deck app store)**
   * By Cazzar
   * Access all VTube Studio functionality directly using your Stream Deck, including triggering hotkeys and changing models.
 * **[TP_VTS - Touch Portal Integration for VTube Studio](https://github.com/Wiccy84/TP_VTS)**
