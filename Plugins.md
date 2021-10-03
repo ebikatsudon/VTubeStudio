@@ -30,7 +30,7 @@ For info on how to use those plugins, please check out the linked plugin website
 * **[VTChaos](https://github.com/Raelice/VTchaos)**
   * By Raelice
   * A YouTube/Twitch chat bot that sends commands to VTube Studio when someone uses certain commands in chat.
-* **[VTube Studio Stream Deck Plugin](#) (download via official Stream Deck app store)**
+* **[VTube Studio Stream Deck Plugin](https://apps.elgato.com/search?s=vtube) (download via official Stream Deck app store)**
   * By Cazzar
   * Access all VTube Studio functionality directly using your Stream Deck, including triggering hotkeys and changing models.
 * **[TP_VTS - Touch Portal Integration for VTube Studio](https://github.com/Wiccy84/TP_VTS)**
