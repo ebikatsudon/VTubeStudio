@@ -31,6 +31,7 @@ VTS Manual (1.10.31.a)
 * [[Item System]]
 * [Plugins (YouTube, Twitch, etc.)](https://github.com/DenchiSoft/VTubeStudio/wiki/Plugins)
 * [[VTube Studio Model File]]
+* [[Sending data to VSeeFace]]
 * [[FAQ]]
 * [[Privacy Policy, Licensing and Further Terms]]
 
