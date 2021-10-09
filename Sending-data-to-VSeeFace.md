@@ -77,7 +77,7 @@ You can find more info and VSeeFace-specific troubleshooting steps on the VSeeFa
 
 If you need help with VTube Studio, check the [VTube Studio Discord](https://discord.gg/VTubeStudio).
 
-If you have any issues, questions or feedback for VSeeFace, please come to the **#vseeface** channel of [@Virtual_Deat](https://twitter.com/Virtual_Deat)’s discord server: https://discord.gg/BjBgk7k
+If you have any issues, questions or feedback for VSeeFace, please come to the **#vseeface** channel of [@Virtual_Deat](https://twitter.com/Virtual_Deat)’s Discord server: https://discord.gg/BjBgk7k
 
 
 
