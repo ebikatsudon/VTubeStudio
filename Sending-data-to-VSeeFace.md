@@ -47,7 +47,17 @@ All you have to do here is turn on "Activate". VTube Studio is now ready to send
 
 ### Connecting VSeeFace
 
-Go back to VSeeFace running on your PC.
+Go back to VSeeFace running on your PC. Open the "Settings" and select "General Settings". Scroll down to this part:
+
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/vseeface_setup_3.png|alt="VSeeFace Setup Part 3"|width=1100px]]
+
+Select "VTube Studio" in the tracking app dropdown menu and put in the IP/port you got from VTube Studio (that's your iPhone's IP). You should use the IPv4 here. The port is currently always **21412**.
+
+Make sure the checkboxes for receiving all the data are checked, so "Receive facial features" (blendshapes), "Receive head movement" and "Receive eye gaze". If you're already using blendshapes for eye gaze, you may not want to check the last box.
+
+VSeeFace should now automatically connect to VTube Studio and the tracking should be active. If you leave the tracking "active" when quitting the VTube Studio app on your iPhone/iPad, it will automatically start back up the next time you start VTube Studio.
+
+Finally, scroll back up and check/optimize all other settings, such as various tracking sensitivities, gaze strength, etc.
 
 ## Troubleshooting (if iPhone/iPad can't connect)
 
