@@ -1,4 +1,4 @@
-VTube Studio can take the average color from your screen and overlay it over your model, including attached items. This makes it seem like your model is "in the game/video" in your OBS/Streamlabs scene. Inspired by [this post by @Virtual_Graves](https://twitter.com/Virtual_Graves/status/1434154401707397120).
+VTube Studio can take the average color from your screen (Windows/MacOS) or any window (Windows only) and overlay it over your model, including attached items. This makes it seem like your model is "in the game/video" in your OBS/Streamlabs scene. Inspired by [this post by @Virtual_Graves](https://twitter.com/Virtual_Graves/status/1434154401707397120).
 
 There may be a small delay (~100 ms) for the lighting to be calculated. You can add a source render delay to your other capture in OBS to make up for that.
 
