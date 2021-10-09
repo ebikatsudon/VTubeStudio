@@ -61,6 +61,26 @@ Finally, scroll back up and check/optimize all other settings, such as various t
 
 ## Troubleshooting (if iPhone/iPad can't connect)
 
+If VSeeFace and VSeeFace can't establish a connection, that's usually related to some kind of network issue. It could be one of the following:
+
+* Firewall or antivirus-app/security-software blocking the connection. Add an exception for VSeeFace or disable them temporarily to see if that fixes the issue. Make sure to re-enable them afterwards.
+* Your PC and iPhone/iPad are not on the same WiFi/local network. If your router has multiple WiFi networks, try all of them.
+* The network is not set to "Private" on your PC. Make sure it is.
+
+All those issues and more are explained in detail on the page about [connection issues in VTube Studio](https://github.com/DenchiSoft/VTubeStudio/wiki/Connection-Issues-&-Troubleshooting). All of the issues listed on that page also apply to the VSeeFace connection.
+
+You can find more info and VSeeFace-specific troubleshooting steps on the VSeeFace website, https://www.vseeface.icu/
+
+## Where can I get help?
+
+If you need help with VTube Studio, check the VTube Studio Discord.
+
+If you have any issues, questions or feedback for VSeeFace, please come to the **#vseeface** channel of [@Virtual_Deat](https://twitter.com/Virtual_Deat)’s discord server: https://discord.gg/BjBgk7k
+
+
+
+
+
 
 
 
