@@ -6,7 +6,7 @@ VSeeFace is a free, highly configurable face and hand tracking VRM and [VSFAvata
 
 It mainly uses webcam tracking to control 3D VTuber avatars but has recently added support for high-quality iPhone tracking using various 3rd party apps, including VTube Studio.
 
-You do not need VTube Studio on PC/Mac at all to use this feature. Your iPhone/iPad can directly connect to VSeeFace running on your PC over the local network.
+You do not need VTube Studio on PC/Mac at all to use this feature. Your iPhone/iPad can directly connect to VSeeFace running on your PC over the local network (USB not supported).
 
 If you are a 3D VTuber and have an iPhone, definitely give VSeeFace a try!!
 
