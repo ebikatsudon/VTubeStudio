@@ -2,7 +2,7 @@ VTube Studio can take the average color from your screen (Windows/MacOS) or any 
 
 There may be a small delay (~100 ms) for the lighting to be calculated. You can add a source render delay to your other capture in OBS to make up for that.
 
-**IMPORTANT: If this does not work, try starting VTube Studio as admin. On macOS, you need a recent OS version for this feature to work, most likely Big Sur.**
+**IMPORTANT: If this does not work, try starting VTube Studio as admin. On macOS, you need a recent OS version for this feature to work, most likely "Big Sur" or newer.**
 
 ## Display Light Overlay Basic Setup
 
