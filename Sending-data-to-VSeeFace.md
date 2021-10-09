@@ -59,6 +59,8 @@ VSeeFace should now automatically connect to VTube Studio and the tracking shoul
 
 Finally, scroll back up and check/optimize all other settings, such as various tracking sensitivities, gaze strength, etc.
 
+In VTube Studio, it's recommended to keep the camera preview off and leave the screen all the way dimmed down to save energy and make sure the iPhone/iPad doesn't get hot. You can/should also charge it while using it. There should be no excessive heating under normal circumstances, especially not with newer devices. Older devices like the iPhone X can get kind of warm, but should not get hot.
+
 ## Troubleshooting (if iPhone/iPad can't connect)
 
 If VSeeFace and VSeeFace can't establish a connection, that's usually related to some kind of network issue. It could be one of the following:
