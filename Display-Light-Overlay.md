@@ -8,7 +8,7 @@ There may be a small delay (~100 ms) for the lighting to be calculated. You can 
 
 There are the following options:
 * **Display**
-  * The activated display.
+  * The activated display. On Windows, you can also select a specific window here using the "Window" button.
 * **Brightness**
   * Base brightness level. It's best to keep this low.
 * **Overlay**
