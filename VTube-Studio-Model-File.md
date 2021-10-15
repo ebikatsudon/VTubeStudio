@@ -6,7 +6,7 @@ Currently, VTube Studio saves all model-related configuration data in a file rig
 
 **\<Your-Live2D-Model-Name\>.vtube.json**
 
-There is no documentation available for the file format at this point, but if you’re interested, just open them up in your favorite text editor. Most things should be relatively self-explanatory. But please be advised that manipulating your model fines manually may result in broken files so please be careful.
+There is no documentation available for the file format at this point, but if you’re interested, just open them up in your favorite text editor. Most things should be relatively self-explanatory. But please be advised that manipulating your model files manually may result in broken files so please be careful.
 
 ## Auto-backups
 
