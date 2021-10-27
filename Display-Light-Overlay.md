@@ -36,6 +36,6 @@ For window captures, it will look for the exact window name of the window that w
 
 ## Excluding ArtMeshes
 
-You can exclude ArtMeshes from being affected by scene lighting by putting `vts_ignore_scene_lighting` somewhere in the ArtMesh ID or ArtMest UserData tag.
+You can exclude ArtMeshes from being affected by scene lighting by putting `vts_ignore_scene_lighting` somewhere in the ArtMesh ID or ArtMest UserData tag. In a future update, you'll be able to exclude ArtMeshes via the UI.
 
 
