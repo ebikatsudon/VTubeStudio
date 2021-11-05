@@ -63,7 +63,7 @@ In VTube Studio, it's recommended to keep the camera preview off and leave the s
 
 ## Troubleshooting (if iPhone/iPad can't connect)
 
-If VSeeFace and VSeeFace can't establish a connection, that's usually related to some kind of network issue. It could be one of the following:
+If VSeeFace and VTube Studio can't establish a connection, that's usually related to some kind of network issue. It could be one of the following:
 
 * Firewall or antivirus-app/security-software blocking the connection. Add an exception for VSeeFace or disable them temporarily to see if that fixes the issue. Make sure to re-enable them afterwards.
 * Your PC and iPhone/iPad are not on the same WiFi/local network. If your router has multiple WiFi networks, try all of them.

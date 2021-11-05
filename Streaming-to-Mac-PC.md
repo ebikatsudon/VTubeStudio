@@ -92,7 +92,7 @@ Alternatively, you can use the **Virtual Webcam feature** or **NDI** in VTube St
 
 It is recommended to use OBS "Game Capture" to record the VTS window. Alternatively, you can use the Virtual Webcam or Newtek NDI (Network Device Interface) to create a video stream that can be used as input for software such as OBS.
 
-The quality and latency of NDI streams is very good. It also supports a transparent background (no chroma/color key needed) and does not record the VTube Studio UI at all. CPU utilization of VTS may increase when using NDI. OBS plugins exist for macOS and Windows
+The quality and latency of NDI streams is very good. It also supports a transparent background (no chroma/color key needed) and does not record the VTube Studio UI at all. CPU utilization of VTS may increase when using NDI. OBS plugins exist for macOS and Windows.
 
 **OBS Plugin Page:** https://obsproject.com/forum/resources/obs-ndi-newtek-ndi%E2%84%A2-integration-into-obs-studio.528/
 
@@ -100,8 +100,19 @@ The quality and latency of NDI streams is very good. It also supports a transpar
 
 To use NDI, download the plugin from the GitHub-page linked above (.exe for Windows, .pkg for macOS) and install it. In VTube Studio, **activate the NDI toggle** in the **"Camera Settings" tab**. It is possible but not recommended to have NDI and the Virtual Webcam active at the same time.
 
-In OBS, the following settings are recommended. Sometimes the NDI streams seems distorted in OBS. If that happens, resize (per drag) the VTube Studio window until the stream "snaps back" to looking normal.
+VTube Studio lets you choose between NDI 4 and 5. It is recommended to use NDI 5 if it works without lag on your PC. By the way, NDI streams created by VTube Studio will be visible in your whole local network, so you could even have OBS running on a different PC and it will be able to read the NDI stream from VTube Studio (unless a firewall or network security settings prevent it).
+
+Unlike with the Virtual Webcam, which only supports one stream, if you have multiple VTube Studio instances open, they will all show up as different (numbered) NDI sources in OBS.
+
+In OBS, the following settings are recommended:
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/obs_ndi.png]]
 
+## Using the Virtual Webcam for streaming to OBS with invisible UI (transparent background)
+
+This works similar to NDI. Just **activate the Virtual Webcam in the VTube Studio settings**, go to the color picker background and make sure you've checked **"Transparent in OBS"**.
+
+In OBS, you should now see a webcam called **"VTubeStudioCam"**. Add it to your scene with the following settings (except the resolution):
+
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/obs_virtual_webcam_settings.png]]
 
