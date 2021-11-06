@@ -41,7 +41,7 @@ The following parameters are available:
 * **Special**
   * `HandLeftFound`: 1 if left hand is currently tracked/found, 0 otherwise.
   * `HandRightFound`: 1 if right hand is currently tracked/found, 0 otherwise.
-  * `BothHandsFound`: 1 if both hands is currently tracked/found, 0 otherwise.
+  * `BothHandsFound`: 1 if both hands are currently tracked/found, 0 otherwise.
   * `HandDistance`: The distance between the hands (if they are both found).
 * **Hand Position**
   * `HandLeftPositionX`: X-distance to center (left hand).
