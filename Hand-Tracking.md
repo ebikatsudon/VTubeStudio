@@ -24,7 +24,7 @@ On the hotkey tab, you'll find the button "Gesture". Clicking that button reveal
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/vts_hands_2.png]]
 
-Here, you can create a gesture-combination that will activate the hotkey. You can select one gesture for the left hand and one fore the right hand or a "dual-hand gesture" (triangle or "is-for-me" gesture). You can also just select a gesture for one hand.
+Here, you can create a gesture-combination that will activate the hotkey. You can select one gesture for the left hand and one for the right hand or a "dual-hand gesture" (triangle or "is-for-me" gesture). You can also just select a gesture for one hand.
 
 You can choose if both hand gestures have to be detected for the hotkey to activate (using AND/OR) and configure whether or not the mirrored gesture is also allowed.
 
