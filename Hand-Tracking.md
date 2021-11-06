@@ -34,7 +34,7 @@ If the hotkey activates an expression, you can also set it so the expression is 
 
 ## Using the Hand Tracking Parameters as Inputs
 
-You can use the hand tracking parameters as tracking inputs to control Live2D parameters. Again, these can be unreliable to use with caution.
+You can use the hand tracking parameters as tracking inputs for your VTube Studio model to control Live2D parameters. Again, these can be unreliable so use with caution.
 
 The following parameters are available:
 
