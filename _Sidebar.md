@@ -25,6 +25,7 @@ VTS Manual
 * [[Interaction between Animations, Tracking, Physics, etc.]]
 * [[Streaming to Mac/PC]]
 * [[Starting without Steam]]
+* [[Hand-Tracking]]
 * [[Controlling multiple models with one Webcam or iPhone/Android device]]
 * [Connection Issues & Troubleshooting](https://github.com/DenchiSoft/VTubeStudio/wiki/Connection-Issues-&-Troubleshooting)
 * [[Taking/Sharing Screenshots]]
