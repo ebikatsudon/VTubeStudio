@@ -25,6 +25,7 @@ Two things should be implemented as part of this.
 * For each item, the saved properties are position, rotation and scale. For items attached to the model, the exact model attachment point is saved.
 * Other saved properties: Scene order, smoothing value and "censored" state.
 * If the scene is later loaded and a different model is active, items attached to the model won't be loaded. If this happens, failure to load the items will be logged appropriately.
+* There will be an UI to list saved item scenes. This UI will also allow you to delete item scenes, show their contents or rename them. 
 
 # Hotkeys
 
