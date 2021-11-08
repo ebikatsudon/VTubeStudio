@@ -14,7 +14,7 @@ Two things should be implemented as part of this.
 * Meaning if VTS if quit with items in the scene, they will be automatically loaded again when VTS is started.
 * This should only happen if `"Remember Scene"` is active in the VTube Studio config.
 * This should work for external and internal items.
-* This functionality is completely unrelated to 
+* This functionality is completely unrelated to item hotkeys and saving/loading item scenes.
 
 
 
