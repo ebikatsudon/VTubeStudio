@@ -16,5 +16,15 @@ Two things should be implemented as part of this.
 * This should work for external and internal items.
 * This functionality is completely unrelated to item hotkeys and saving/loading item scenes.
 
+# Saving Item Scenes
+
+* Users should be able to save the current state of the items in the scene. The idea is that you can load internal and external items into the scene and then use a "save" functionality within
+
+
+# Item Quicksave and item Quickload
+
+
+
+
 
 
