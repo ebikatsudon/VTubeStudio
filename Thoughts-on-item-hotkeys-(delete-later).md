@@ -1,7 +1,8 @@
-Two things should be implemented as part of this.
+Three things should be implemented as part of this.
 
-1) Saving/Loading item scenes using the UI.
-2) Loading items using hotkeys.
+1) Persisting loaded items between sessions.
+2) Saving/Loading item scenes using the UI.
+3) Loading items using hotkeys.
 
 # Glossary
 
