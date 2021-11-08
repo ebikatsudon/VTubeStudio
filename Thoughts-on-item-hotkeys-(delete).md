@@ -30,19 +30,35 @@ Two things should be implemented as part of this.
 * All items will be referenced as filenames in the "Items" folder. This means that `external items` will automatically have to be copied to the "Items" folder when a scene is saved with them included.
   * Thinking about it now, I think it makes sense to automatically save any external items in the "Items" folder the moment it is loaded into the scene.
 
-# Loading item scenes.
+# Loading Item Scenes
 
 The previously saved scenes can be loaded via a UI (or hotkeys, see below). The most complex point here is how to deal with items that appear in multiple scenes or how to deal with partially loaded/unloaded scenes. 
 
+Let's assume the scene is empty and we have the the following scenes saved.
+
+* Scene A
+  * Item 1
+  * Item 2
+* Scene B
+  * Item 2
+  * Item 3
+
+Then, scene A is loaded (using hotkey). Item 1 and 2 appear at the saved positions. 
+
+Then, scene B is loaded (using hotkey). Item 3 is loaded and item 2 is moved to the respective position stored as part of scene B.
+
+Then, scene A is loaded again (using hotkey). This moves item 2 back to the position stored in scene A.
+
+Then, scene A is loaded again (using hotkey). Because all items of scene A are in the exact position recorded in scene A, this will be interpreted as an "unload" event. All items of scene A will be unloaded.
+
 # Hotkeys
 
-Unload all items
-Quicksave/Quickload
+There will be four new hotkey types:
 
-
-
-
-# Item Quicksave and item Quickload
+* `Load Item Scene`: Loads the given item scene (item scenes are identified by their name, which must be unique)
+* `Unload all items`: Instantly removes all items from the scene
+* `Quicksave Items`: Saves the current state of all items in the scene into quicksave slot
+* `Quickload Items`: Loads the current state of all items in the scene from quicksave slot
 
 
 
