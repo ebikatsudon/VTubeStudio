@@ -54,7 +54,7 @@ Then, scene A is loaded again (using hotkey). Because all items of scene A are i
 
 If you load scene A and move one item and then load scene A again, the item will move back to the position it was in for scene A. Scenes will only be "unloaded" if you trigger them while all their included items are at the exact same spot as they are in the current scene state.
 
-# Scene Ordering
+# Scene Item Ordering
 
 The order of items is saved with the scene. This means that a scene could be loaded but some item order spots are already taken. In that case, the order of the items will be shifted up. If there are no spots above, it the order will be shifted down instead. If there are no spots left in the scene, no further items will be loaded and the scene may be incomplete.
 
