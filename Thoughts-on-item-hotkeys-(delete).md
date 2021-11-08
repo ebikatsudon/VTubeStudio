@@ -8,7 +8,7 @@ Two things should be implemented as part of this.
 * `Internal Item`: Item within the "Items" folder (GIF, PNG or animated PNG folder).
 * `External Item`: Item outside the "Items folder (GIF, PNG or animated PNG folder).
 
-# Basic item persistence
+# Basic item persistence between VTS sessions
 
 * Items should be saved at their respective positions, including items attached to the Live2D model. 
 * Meaning if VTS if quit with items in the scene, they will be automatically loaded again when VTS is started.
