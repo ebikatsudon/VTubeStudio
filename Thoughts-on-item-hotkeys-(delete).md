@@ -25,7 +25,14 @@ Two things should be implemented as part of this.
 * For each item, the saved properties are position, rotation and scale. For items attached to the model, the exact model attachment point is saved.
 * Other saved properties: Scene order, smoothing value and "censored" state.
 * If the scene is later loaded and a different model is active, items attached to the model won't be loaded. If this happens, failure to load the items will be logged appropriately.
-* There will be an UI to list saved item scenes. This UI will also allow you to delete item scenes, show their contents or rename them. 
+* There will be a UI to list saved item scenes. This UI will also allow you to delete item scenes, show their contents or rename them.
+* Item scenes will be saved in a folder called "Scenes". This folder will contain files called `"<scene-name-ascii>.scene.json"`.
+* All items will be referenced as filenames in the "Items" folder. This means that `external items` will automatically have to be copied to the "Items" folder when a scene is saved with them included.
+  * Thinking about it now, I think it makes sense to automatically save any external items in the "Items" folder the moment it is loaded into the scene.
+
+# Loading item scenes.
+
+The previously saved scenes can be loaded via a UI (or hotkeys, see below). The most complex point here is how to deal with items that appear in multiple scenes or how to deal with partially loaded/unloaded scenes. 
 
 # Hotkeys
 
