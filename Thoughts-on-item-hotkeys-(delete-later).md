@@ -51,6 +51,8 @@ Then, scene A is loaded again (using hotkey). This moves item 2 back to the posi
 
 Then, scene A is loaded again (using hotkey). Because all items of scene A are in the exact position recorded in scene A, this will be interpreted as an "unload" event. All items of scene A will be unloaded.
 
+If you load scene A and move one item and then load scene A again, the item will move back to the position it was in for scene A.
+
 # Hotkeys
 
 There will be four new hotkey types:
