@@ -18,7 +18,20 @@ Two things should be implemented as part of this.
 
 # Saving Item Scenes
 
-* Users should be able to save the current state of the items in the scene. The idea is that you can load internal and external items into the scene and then use a "save" functionality within
+* Users should be able to save the current state of the items in the scene. The idea is that you can load internal and external items into the scene and then use a "save" functionality somewhere on the UI.
+  * This UI has the option to include or exclude items attached to the model.
+  * This UI shows a list of all items that will be saved.
+* Each item is identified by its ID, which is its filename. No two items should have the same filename. For animated PNG folder items, the filename is the folder name.
+* For each item, the saved properties are position, rotation and scale. For items attached to the model, the exact model attachment point is saved.
+* Other saved properties: Scene order, smoothing value and "censored" state.
+* If the scene is later loaded and a different model is active, items attached to the model won't be loaded. If this happens, failure to load the items will be logged appropriately.
+
+# Hotkeys
+
+Unload all items
+Quicksave/Quickload
+
+
 
 
 # Item Quicksave and item Quickload
