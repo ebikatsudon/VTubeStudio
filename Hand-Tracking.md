@@ -36,6 +36,8 @@ If the hotkey activates an expression, you can also set it so the expression is 
 
 You can use the hand tracking parameters as tracking inputs for your VTube Studio model to control Live2D parameters. Again, these can be unreliable so use with caution.
 
+The **auto-setup** also creates mappings for those parameters if your model contains Live2D parameters with the exact parameter IDs listed below.
+
 The following parameters are available:
 
 * **Special**
@@ -44,18 +46,18 @@ The following parameters are available:
   * `BothHandsFound`: 1 if both hands are currently tracked/found, 0 otherwise.
   * `HandDistance`: The distance between the hands (if they are both found).
 * **Hand Position**
-  * `HandLeftPositionX`: X-distance to center (left hand).
-  * `HandLeftPositionY`: Y-distance to center (left hand).
-  * `HandLeftPositionZ`: Z-distance to center (left hand).
-  * `HandRightPositionX`: X-distance to center (right hand).
-  * `HandRightPositionY`: Y-distance to center (right hand).
-  * `HandRightPositionZ`: Z-distance to center (right hand).
+  * `HandLeftPositionX`: X-distance to center (left hand). Outwards is 10, middle is 0, inwards (towards right) is -10.
+  * `HandLeftPositionY`: Y-distance to center (left hand). Up is 10, middle is 0, down is -10.
+  * `HandLeftPositionZ`: Z-distance to center (left hand). Close to camera is 10, far back is -10.
+  * `HandRightPositionX`: X-distance to center (right hand). Outwards is 10, middle is 0, inwards (towards left) is -10.
+  * `HandRightPositionY`: Y-distance to center (right hand). Up is 10, middle is 0, down is -10.
+  * `HandRightPositionZ`: Z-distance to center (right hand). Close to camera is 10, far back is -10.
 * **Hand Angles**
-  * `HandLeftAngleX`: Left/Right rotation of left hand.
-  * `HandLeftAngleZ`: Left/Right lean of left hand.
-  * `HandRightAngleX`: Left/Right rotation of right hand.
-  * `HandRightAngleZ`: Left/Right lean of right hand.
-* **Fingers** (self-explanatory)
+  * `HandLeftAngleX`: Left/Right rotation of left hand. Between +/- 180.
+  * `HandLeftAngleZ`: Left/Right lean of left hand. Between +/- 180.
+  * `HandRightAngleX`: Left/Right rotation of right hand. Between +/- 180.
+  * `HandRightAngleZ`: Left/Right lean of right hand. Between +/- 180.
+* **Fingers** (self-explanatory, all between 0 and 1 where 0 is finger curled in and 1 is finger completely straight)
   * `HandLeftOpen`
   * `HandRightOpen`
   * `HandLeftFinger_1_Thumb`
