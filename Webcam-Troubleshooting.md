@@ -1,1 +1,1 @@
-asdf
+This page contains some things to try if your webcam doesn't work in VTube Studio.
