@@ -1,1 +1,1 @@
-asdf
+This page contains some things to try if VTube Studio lags on your PC.
