@@ -1,5 +1,7 @@
 This page contains some things to try if your webcam doesn't work in VTube Studio. 
 
+**Please try all of this before asking in the VTube Studio Discord!!**
+
 ## Check your logs
 
 Click the orange "Log" button in the main menu in VTube Studio after turning on the webcam in the app. Are there any errors? You can also see the full logs by checking the text files in the "Logs" folder next to your "Live2DModels" folder.
