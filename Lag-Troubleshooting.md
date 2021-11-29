@@ -75,7 +75,9 @@ If you're running antivirus- or other security-software, make sure VTS is added 
 
 ## Turn of all "performance improvement" apps (MSI AfterBurner, etc.)
 
-Apps like "MSI AfterBurner" that improve game performance may actually cause performance/framerate issues in some cases. Turn them all off and see if that helps. If it does, check if you can add VTube Studio as an exception to those apps (they usually allow that somehow).
+Apps like `"MSI AfterBurner"` that improve game performance may actually cause performance/framerate issues in some cases. Turn them all off and see if that helps. If it does, check if you can add VTube Studio as an exception to those apps (they usually allow that somehow).
+
+Another app that can cause lag is `"RTSS Rivatuner"`, so please be careful with that one as well.
 
 ## Make sure all software is up to date
 
