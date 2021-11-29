@@ -10,7 +10,7 @@ Sometimes something will break in VTS and spam the logs with errors every frame,
 
 ## Turn off NVIDIA G-Sync
 
-NVIDIA G-Sync can cause issues, 
+NVIDIA G-Sync can cause issues, especially on multi-monitor setups. Try turning it off [like this](https://www.google.com/search?q=how+to+disable+nvidia+g-sync).
 
 ## Reboot
 
