@@ -4,15 +4,17 @@ This page contains some things to try if VTube Studio lags on your PC.
 
 ## Check your logs
 
-Click the orange "Log" button in the main menu in VTube Studio after turning on the webcam in the app. Are there any errors? You can also see the full logs by checking the text files in the "Logs" folder next to your "Live2DModels" folder.
+Click the orange "Log" button in the main menu in VTube Studio. Are there any errors? You can also see the full logs by checking the text files in the "Logs" folder next to your "Live2DModels" folder.
 
-## Try a different USB port
+Sometimes something will break in VTS and spam the logs with errors every frame, causing the app to slow down a lot. If that is the case for you, please bring it up in the [VTube Studio Discord](https://discord.gg/VTubeStudio).
 
-If it's a USB webcam, try plugging it into a different USB port. That sometimes helps.
+## Turn off NVIDIA G-Sync
+
+NVIDIA G-Sync can cause issues, 
 
 ## Reboot
 
-Sometimes, this helps fix webcam problems.
+Sometimes, this helps fix performance problems.
 
 ## Do the Steam integrity check and check your security software
 
@@ -38,6 +40,7 @@ First, please check if the lag is actually happening in VTube Studio or only in 
 - make sure OBS is up to date
 - make sure GPU drivers are up to date
 - NVidia G-Sync OFF
+- check framerate in VTS -> VSync, etc.
 
 - check task manager for performance issues
 - turn off MSI afterburner
