@@ -8,6 +8,7 @@ First, please check if the lag is actually happening in VTube Studio or only in 
 - turn off NDI/Virtual webcam
 - make sure OBS is up to date
 - make sure GPU drivers are up to date
+- NVidia G-Sync OFF
 
 - turn off MSI afterburner
 - power saving mode
