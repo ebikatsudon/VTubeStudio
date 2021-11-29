@@ -20,7 +20,7 @@ If you're not using NDI or the Virtual Webcam, make sure they're both turned off
 
 If you're using one of them but the performance impact is too much, try using a normal OBS `Game Capture` instead.
 
-## Try turning off other apps
+## Try turning off other apps and check OBS
 
 Is the lag only happening if you're recording in OBS (or if you have OBS on), or is it happening all the time, even if OBS isn't running? Is it happening if you use certain capture methods in OBS? Is it happening only with specific apps? This will be important information for further troubleshooting.
 
@@ -55,6 +55,19 @@ Also, try starting VTube Studio as admin and see if that helps. You can do that 
 
 ## Set process priority and GPU priority for VTube Studio
 
+Open the Windows Task Manager, go to the `Details` tab, right click `VTube Studio.exe` and select `High` or `Realtime` under the option `Set prioroty`.
+
+If you don't see that tab, you might have to click `More details` at the bottom first.
+
+## On laptops (and some PCs), set the "Preferred GPU" for VTS
+
+Many laptops have a on-chip GPU (included in the CPU) and a dedicated GPU, which is typically much faster. It's possible that VTube Studio is running on the slower GPU. In Windows 10, you can set a "preferred GPU" per app.
+
+[Check Google how to do that](https://www.google.com/search?q=set+preferred+gpu+windows+10) and set VTube Studio to run on your dedicated GPU. 
+
+## Check the "Power Saving Mode"
+
+Many laptops and some desktop PCs have "power saving modes". Having those on can greatly decrease performance. Make sure you don't have any mode like that active. If you're using a laptop, also make sure it's charging and not running on battery, as this sometimes also activates power-saving modes.
 
 ## Check your security/anti-malware software
 
@@ -76,6 +89,10 @@ Make sure all involved software is up to date. Especially the following:
 
 Sometimes, this helps with fixing performance problems.
 
+## If you have a multi-monitor setup
+
+If you have a multi-monitor setup, try unplugging one monitor and see if that helps. If so, that could be valuable information for further troubleshooting in the VTube Studio Discord.
+
 ## Ask in the VTube Studio Discord
 
 If none of that helped, please ask in the VTube Studio Discord by creating a support thread.
@@ -84,16 +101,6 @@ https://discord.gg/VTubeStudio
 
 
 
-
-First, please check if the lag is actually happening in VTube Studio or only in the OBS capture.
-
-
-## If you have a multi-monitor setup
-
-If you have a multi-monitor setup, try unplugging one monitor and see if that helps. If so, that could be valuable information for further troubleshooting in the VTube Studio Discord.
-
-
-- power saving mode
 
 
 
