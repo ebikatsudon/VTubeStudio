@@ -10,17 +10,24 @@ Sometimes something will break in VTS and spam the logs with errors every frame,
 
 ## Turn off NVIDIA G-Sync
 
-NVIDIA G-Sync can cause issues, especially on multi-monitor setups. Try turning it off [like this](https://www.google.com/search?q=how+to+disable+nvidia+g-sync).
+NVIDIA G-Sync can cause issues, especially on multi-monitor setups. [Try turning it off like this](https://www.google.com/search?q=how+to+disable+nvidia+g-sync).
+
+* Right-click on your desktop and click on `Nvidia Control Panel` from the menu.
+* Click on the `+` next to Display.
+* Select `Set up G-SYNC` (not all displays may have that)
+* Uncheck the box next to `Enable G-SYNC`.
+
+
+## Check your security/anti-malware software
+
+If you're running antivirus- or other security-software, make sure VTS is added as an exception. One anti-malware app that is known to cause issues for VTS is "IObit Malware Fighter".
+
+
+
 
 ## Reboot
 
-Sometimes, this helps fix performance problems.
-
-## Do the Steam integrity check and check your security software
-
-It can happen that security software deletes some files from the VTS directory that are required by the app to work. If you're running antivirus- or other security-software, make sure VTS is added as an exception. One anti-malware app that is known to cause issues for VTS is "IObit Malware Fighter".
-
-To check if all files are there, run the Steam integrity check like this: https://help.steampowered.com/en/faqs/view/0C48-FCBD-DA71-93EB
+Sometimes, this helps with fixing performance problems.
 
 ## Ask in the VTube Studio Discord
 
