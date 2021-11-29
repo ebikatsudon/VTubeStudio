@@ -48,6 +48,8 @@ It can happen that security software deletes some files from the VTS directory t
 
 To check if all files are there, run the Steam integrity check like this: https://help.steampowered.com/en/faqs/view/0C48-FCBD-DA71-93EB
 
+Also make sure that VTube Studio is added as exception to your firewall and try turning off your firewall temporarily (remember to turn it back on again afterwards!!)
+
 ## Some devices cause issues, like the Avermedia Live Gamer Portable C875
 
 For now, having this device connected to your PC will cause VTube Studio to crash when selecting webcams. You'll have to disconnect for a moment when selecting and starting the webcam in VTS, otherwise it won't work.
