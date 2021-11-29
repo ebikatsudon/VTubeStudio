@@ -34,6 +34,10 @@ Often, VTS can't access the webcam because another app is still using it. This c
 
 Webcam access can be turned on/off for individual apps in the Windows settings. Some anti-malware apps also block apps from accessing webcams. Make sure VTube Studio is allowed to access the webcam and not blocked.
 
+## If you have a VPN, try turning it off
+
+The webcam tracker used by VTube Studio (OpenSeeFace) uses the local network to communicate with VTube Studio. Because of that, VPNs might interfere with VTube Studio webcam tracking. Try turning off your VPN, then start VTS and see if that helps. If that fixes your problem, find a way to add VTube Studio to the list of exceptions of your VPN app.
+
 ## Reboot
 
 Sometimes, this helps fix webcam problems.
