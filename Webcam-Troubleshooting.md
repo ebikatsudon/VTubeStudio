@@ -12,6 +12,12 @@ You can get it here: (check the section "Visual Studio 2015, 2017, 2019, and 202
 
 https://support.microsoft.com/en-us/topic/the-latest-supported-visual-c-downloads-2647da03-1eea-4433-9aff-95f26a218cc0
 
+## Check if you're running a "Windows N Edition"
+
+For example "Windows 10 N Edition". These versions lack some of the libraries required for the webcam tracking to work and you'll also get a `"Missing DLL"` error in the logs. You'll need to download some additional libraries.
+
+Find the correct version for your Windows version from this page and install: https://support.microsoft.com/en-us/topic/media-feature-pack-for-windows-10-n-and-windows-10-kn-editions-229a1ad7-7a3f-87f7-9f0b-ff92fb96b3e4
+
 ## Make sure no other apps are using the webcam
 
 Usually this will be shown in the VTS logs as `"No data from webcam - Maybe another app is using it?"`.
@@ -36,12 +42,16 @@ To check if all files are there, run the Steam integrity check like this: https:
 
 For now, having this device connected to your PC will cause VTube Studio to crash when selecting webcams. You'll have to disconnect for a moment when selecting and starting the webcam in VTS, otherwise it won't work.
 
-## Check if you're running a "Windows N Edition"
+## Check the `run.bat` file
 
-For example "Windows 10 N Edition". These versions lack some of the libraries required for the webcam tracking to work and you'll get a `"Missing DLL"` error in the logs. You'll need to download some additional libraries.
+Try starting the webcam tracker manually and see it it works outside of VTube Studio. You can do that by running the file `run.bat` in the folder `VTube Studio_Data\StreamingAssets\OpenSeeFaceTracker_v_1_20_2\binary` in your Steam files. This will show your webcam video including the tracking dots so don't do this on stream!! If this works but the tracker doesn't work in VTube Studio, that's an important clue for further troubleshooting.
 
-Find the correct version for your Windows version from this page and install: https://support.microsoft.com/en-us/topic/media-feature-pack-for-windows-10-n-and-windows-10-kn-editions-229a1ad7-7a3f-87f7-9f0b-ff92fb96b3e4
+## Ask in the VTube Studio Discord
+
+If none of that helped, please ask in the VTube Studio Discord by creating a support thread.
+
+https://discord.gg/VTubeStudio
 
 
 
-- check run.bat
+
