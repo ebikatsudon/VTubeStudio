@@ -4,6 +4,10 @@ This page contains some things to try if your webcam doesn't work in VTube Studi
 
 Click the orange "Log" button in the main menu in VTube Studio after turning on the webcam in the app. Are there any errors? You can also see the full logs by checking the text files in the "Logs" folder next to your "Live2DModels" folder.
 
+## Try a different USB port
+
+If it's a USB webcam, try plugging it into a different USB port. That sometimes helps.
+
 ## Install the Visual C++ Redistributable
 
 This should happen automatically when you get VTube Studio on Steam, but sometimes it doesn't seem to work. Make sure you have it installed, otherwise the webcam tracking won't work and you'll get some error like `"Missing DLL"` in the logs.
