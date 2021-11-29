@@ -43,7 +43,18 @@ Generally, it's recommended to always run VTS at 60 FPS. This may cause screen-t
 
 ## Turn off the Steam Overlay
 
-## Start as Admin
+Disable the Steam Overlay globally for all games. This has been shown to cause framerate issues for some users. You can turn it off like this (see `"Enabling the Steam Overlay"`): 
+
+https://help.steampowered.com/en/faqs/view/3978-072C-18DF-FBF9
+
+## Start VTube Studio without Steam
+
+Try starting VTube Studio outside of Steam using the `start_without_steam.bat` file. For more info, see this Wiki page: ["Starting without Steam"](https://github.com/DenchiSoft/VTubeStudio/wiki/Starting-without-Steam)
+
+Also, try starting VTube Studio as admin and see if that helps. You can do that by right, clicking the VTube Studio `.exe` file, clicking `Properties` and checking `Run this program as an administrator` on the `Compatibility` tab. Then, you start it normally using Steam or using the `start_without_steam.bat` as described above.
+
+## Set process priority and GPU priority for VTube Studio
+
 
 ## Check your security/anti-malware software
 
