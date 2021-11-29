@@ -39,6 +39,7 @@ First, please check if the lag is actually happening in VTube Studio or only in 
 - make sure GPU drivers are up to date
 - NVidia G-Sync OFF
 
+- check task manager for performance issues
 - turn off MSI afterburner
 - power saving mode
 - multi monitor stuff
