@@ -33,8 +33,8 @@ VTS Manual
 * [Plugins (YouTube, Twitch, etc.)](https://github.com/DenchiSoft/VTubeStudio/wiki/Plugins)
 * [[VTube Studio Model File]]
 * [[Sending data to VSeeFace]]
-* [[How to fix lag issues]]
-* [[How to fix webcam issues]]
+* [[How to fix lag issues]](https://github.com/DenchiSoft/VTubeStudio/wiki/Lag-Troubleshooting)
+* [[How to fix webcam issues]](https://github.com/DenchiSoft/VTubeStudio/wiki/Webcam-Troubleshooting)
 * [[FAQ]]
 * [[Privacy Policy, Licensing and Further Terms]]
 
