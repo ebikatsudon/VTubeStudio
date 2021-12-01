@@ -26,7 +26,6 @@ For info on how to use those plugins, please check out the linked plugin website
   * Easy to use web-based Twitch/YouTube integration for VTube Studio.
 * **[Mix It Up Streaming Bot](https://mixitupapp.com/)**
   * A versatile streaming bot that also supports VTS integration, including activating hotkeys on stream events such as donations, etc.
-  * The update that adds VTS support will be released very soon!!
 * **[VTChaos](https://github.com/Raelice/VTchaos)**
   * By Raelice
   * A YouTube/Twitch chat bot that sends commands to VTube Studio when someone uses certain commands in chat.
@@ -36,6 +35,9 @@ For info on how to use those plugins, please check out the linked plugin website
 * **[TP_VTS - Touch Portal Integration for VTube Studio](https://github.com/Wiccy84/TP_VTS)**
   * By Wiccy
   * Plugin that makes it easy to control VTube Studio using the Touch Portal smartphone app. Supports triggering hotkeys, loading and moving models, coloring ArtMeshes and more!
+* **[VtubeStudioSimpleSETool](https://mononobe-monoko.booth.pm/items/3468381)**
+  * By 物部モノ子
+  * A VTube Studio plugin that can automatically play custom sound effects when tracking parameters reach certain values you can configure.
 
 ## How to use plugins?
 
