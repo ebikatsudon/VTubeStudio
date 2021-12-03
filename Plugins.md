@@ -38,6 +38,9 @@ For info on how to use those plugins, please check out the linked plugin website
 * **[VtubeStudioSimpleSETool](https://mononobe-monoko.booth.pm/items/3468381)**
   * By 物部モノ子
   * A VTube Studio plugin that can automatically play custom sound effects when tracking parameters reach certain values you can configure.
+* **[Twitch Integrated Throwing System](https://remasuri3.itch.io/tits)**
+  * By Remasuri32
+  * A VTube Studio plugin that lets your viewers throw stuff at your model using Twitch redeems, etc. and have your model react accordingly like it's getting hit. 
 
 ## How to use plugins?
 
