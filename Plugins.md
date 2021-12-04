@@ -41,7 +41,7 @@ For info on how to use those plugins, please check out the linked plugin website
 * **[Twitch Integrated Throwing System](https://remasuri3.itch.io/tits)**
   * By Remasuri32
   * A VTube Studio plugin that lets your viewers throw stuff at your model using Twitch redeems, etc. and have your model react accordingly like it's getting hit. 
-* **[VTSPuppet](https://eruben.itch.io/vtspuppet)**
+* **[VTS-Puppet](https://eruben.itch.io/vtspuppet)**
   * By Eruben (@eruben_thillior)
   * This VTube Studio plugin lets you control your model using a gamepad, for example using an Xbox controller or Switch Pro Controller. You can move your model trigger hotkeys and more directly using your controller.
 
