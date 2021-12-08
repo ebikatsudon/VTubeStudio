@@ -55,6 +55,10 @@ Now start VTube Studio. When the app is started, it automatically looks for new 
 
 You should now be able to see your model in the model selection bar. If not, make sure all files are present and there are no errors in the logs.
 
+## Getting the model on your iPhone/Android
+
+**Note:** You don't need to have the model on your smartphone if you just want to use the phone for tracking, but it can be nice for making short videos for Twitter/Tiktok.
+
 ## Auto-Setup
 
 When loading a new Live2D model, you will be asked to run the "Auto-Setup". The Auto-Setup can be triggered manually as well after the model is loaded (on the model tab in the settings).
