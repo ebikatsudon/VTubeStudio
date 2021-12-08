@@ -54,6 +54,8 @@ If you move, scale or rotate the Live2D model itself, any locked items attached 
 
 **To delete items from the scene**, simply drag them over the trash can icon in the bottom right. It will only appear if you drag an item near it. You can also drag and drop items off-screen, that will also delete them from the scene.
 
+You can `[Ctrl] + Click` items to flip them (only if not locked).
+
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/hint_top.png]]
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/bunny_point.png|alt="Important Point!!"|height=59px|width=189px]]<br/>
 Most of the free included items/props have been provided by **@catboymech** and **@7MDigital** on Twitter. They have many other great VTuber assets as well, so please make sure to follow and thank them!! \<3
