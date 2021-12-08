@@ -57,7 +57,11 @@ You should now be able to see your model in the model selection bar. If not, mak
 
 ## Getting the model on your iPhone/Android
 
-**Note:** You don't need to have the model on your smartphone if you just want to use the phone for tracking, but it can be nice for making short videos for Twitter/Tiktok.
+**Note:** You don't need to have the model on your smartphone if you just want to use the phone for tracking, but it can be nice for making short videos for Twitter/TikTok.
+
+You can use the methods described above to load the model onto your phone manually. However, VTube Studio now also has functionality to directly send your model from your PC/Mac to your smartphone. Just open the model in the PC/Mac app, connect your smartphone via WiFi or USB and press this button.
+
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/send_model_to_phone_1.png]]
 
 ## Auto-Setup
 
