@@ -27,7 +27,9 @@ Here, you can boost or reduce the effect of your Live2D physics setup. You can a
 
 VTube Studio used to ignore the Live2D physics setting "Effectiveness". This has been fixed in a recent update. To turn on "Effectiveness", make sure the "Legacy Physics toggle is off.
 
-You can also set the physics framerate here. This allows you to calculate the model physics at a fixed framerate instead of the normal app framerate. Live2D modellers typically use a certain framerate in the physics editor window when modeling the physics, so you should set that framerate here.
+You can also set the physics framerate for the model here. This allows you to calculate the model physics at a fixed framerate instead of the normal app framerate, which might depend on the monitor refresh rate if you're using VSync. Live2D modellers typically use a certain framerate in the physics editor window when modeling the physics, so you might want to set that same framerate here.
+
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/physics_fps_1.png]]
 
 Please note that having this at anything other than "Match App FPS" uses multithreaded physics calculations, which is currently considered experimental. Use with caution and report any issues you have with this in the VTube Studio Discord.
 
