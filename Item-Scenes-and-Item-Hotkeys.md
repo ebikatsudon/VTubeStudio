@@ -38,11 +38,17 @@ You can set up as many _Item Scenes_ as you want and also load them at the same 
 
 You can modify _Item Scenes_ after creating them. This means adding items, removing items or modifying them (for example pinning them to a different position on the model). Just open the _Item Scene_ in the _Item Scene_ selection window and save it again. To modify existing items in the scene, you first have to load that scene via a hotkey, then do your changes (for example moving or pinning the item somewhere else), then open the _Item Scene_ selection window and then save.
 
+The only thing you cannot change is the scene name. If you want to change that, you'll have to delete and recreate the _Item Scene_ from scratch.
+
 ## Can I have one Item Scene with items pinned to different models?
 
 Yes, that's possible. Just load the model you want to add items to the _Item Scene_ for and then add those items to the existing _Item Scene_ which already contains items pinned to different models.
 
 When an _Item Scene_ is loaded using a hotkey and it contains pinned items not intended for the currently loaded model, those items are skipped and will not be loaded.
+
+## Does loading Item Scenes cause lag?
+
+Only the first time the _Item Scene_ is loaded after starting VTube Studio. After that, the textures will be cached in memory so loading should be instant.
 
 
 
