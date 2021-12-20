@@ -30,7 +30,7 @@ In this example, the _Item Scene_ **"Beard and Glasses** will be loaded/unloaded
 
 You can set up as many _Item Scenes_ as you want and also load them at the same time. Sometimes there are situations where you want one _Item Scene_ to unload automatically if you load a different one, for example when you have many different hats for your model and only want one to be active at a time. This is what _Item Scene Groups_ are used for. 
 
-_Item Scenes_ that are in the same group will deactivate other _Item Scenes_  
+**Example:** If an _Item Scenes_ that has the _Group_ **<A>** is activated, there could be other items already loaded that were loaded by another _Item Scene_ that has the _Group_ **<A>**. These items would then be automatically unloaded.   
 
 
 
