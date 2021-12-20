@@ -26,6 +26,12 @@ In this example, the _Item Scene_ **"Beard and Glasses** will be loaded/unloaded
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/item_scene_hotkey_setup.png]]
 
+## Item Scene Groups
+
+You can set up as many _Item Scenes_ as you want and also load them at the same time. Sometimes there are situations where you want one _Item Scene_ to unload automatically if you load a different one, for example when you have many different hats for your model and only want one to be active at a time. This is what _Item Scene Groups_ are used for. 
+
+_Item Scenes_ that are in the same group will deactivate other _Item Scenes_  
+
 
 
 
