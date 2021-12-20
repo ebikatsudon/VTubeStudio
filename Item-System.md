@@ -1,6 +1,6 @@
-## Loading Items into the Scene
+**Note:** If you want to learn how to use hotkeys to spawn items, check out [this page](https://github.com/DenchiSoft/VTubeStudio/wiki/Item-Scenes-and-Item-Hotkeys).
 
-**Note:** If you want to learn how to use hotkeys to spawn items, check out [this](https://github.com/DenchiSoft/VTubeStudio/wiki/Item-Scenes-and-Item-Hotkeys) page.
+## Loading Items into the Scene
 
 You can import your own props ("items" or "assets") directly into the scene and even attach them to your Live2D model.
 
