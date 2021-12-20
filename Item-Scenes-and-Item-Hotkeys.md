@@ -32,7 +32,7 @@ You can set up as many _Item Scenes_ as you want and also load them at the same 
 
 **Example:** If an _Item Scenes_ that has the _Group_ **\<A\>** is activated, there could be other items already loaded that were loaded by another _Item Scene_ that has the _Group_ **\<A\>**. These items would then be automatically unloaded.   
 
-
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/item_scene_toggle.gif]]
 
 
 
