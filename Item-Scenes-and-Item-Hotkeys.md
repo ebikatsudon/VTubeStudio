@@ -16,6 +16,15 @@ This will open a new window that lets you set up the _Item Scene_ based on the c
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/item_scene_setup.png]]
 
-You have to give your _Item Scene_ a name, which will be used to identify the scene. No duplicate names are allowed. Additionally, you can also add a 
+You have to give your _Item Scene_ a name, which will be used to identify the scene. No duplicate names are allowed. Additionally, you can also add a **"Item Scene Group"** (just called **"Group"** from here on).
+
+
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/item_scene_hotkey_setup.png]]
+
+
+
+
+
+
+
