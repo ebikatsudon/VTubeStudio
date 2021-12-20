@@ -22,6 +22,8 @@ You have to give your _Item Scene_ a name, which will be used to identify the sc
 
 After creating the _Item Scene_, you can set up a hotkey that toggles that scene. You can set a fade in/out time for the _Item Scene_ (can also be instant) and optionally set the _Item Scene_ to deactivate X seconds after activating it (up to one hour). The idea here is that you could have a Twitch redeem that turns on a hat, glasses, etc. for a certain amount of time. 
 
+In this example, the _Item Scene_ **"Beard and Glasses** will be loaded/unloaded when the hotkey is activated. Items that have been loaded as part of an _Item Scene_ can be used like normal items. You can for example delete them from the scene by dragging them out of the window or drop them on the trash can. When pressing the hotkey again and there is still at least one item from that _Item Scene_ loaded, all remaining items from that _Item Scene_ will be unloaded.
+
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/item_scene_hotkey_setup.png]]
 
 
