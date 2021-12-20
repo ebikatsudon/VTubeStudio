@@ -162,7 +162,7 @@ Various actions can be triggered by hotkeys:
 * **Take Screenshot**
   * Triggers screenshot with the previously set screenshot settings.
 * **Screen Overlay**
-  * Sets the Live2D model display overlay settings to the settings recorded in this hotkey. Will only work on Windows and macOS. For more info, see [Display Light Overlay](https://github.com/DenchiSoft/VTubeStudio/wiki/Display-Light-Overlay).
+  * Sets the Live2D model display overlay settings to the settings recorded in this hotkey. Will only work on Windows and macOS. For more info, see ["Display Light Overlay"](https://github.com/DenchiSoft/VTubeStudio/wiki/Display-Light-Overlay).
 * **Remove all items from scene**
   * Removes all items from the scene. You can also specify a "Item Scene Group" here so only that group gets deactivated. See also ["Item Scenes & Hotkeys"](https://github.com/DenchiSoft/VTubeStudio/wiki/Item-Scenes-and-Item-Hotkeys).
 * **Toggle Item Scene**
