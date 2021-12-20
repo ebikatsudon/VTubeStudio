@@ -3,3 +3,6 @@
 ## Item Scenes
 
 You can spawn items (or unload them) via Hotkeys.
+
+
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/item_scene_create.png]]
