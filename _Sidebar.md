@@ -30,7 +30,7 @@ VTS Manual
 * [Connection Issues & Troubleshooting](https://github.com/DenchiSoft/VTubeStudio/wiki/Connection-Issues-&-Troubleshooting)
 * [[Taking/Sharing Screenshots]]
 * [[Item System]]
-* [[Item Scenes & Item Hotkeys]]
+* [Item Scenes & Item Hotkeys](https://github.com/DenchiSoft/VTubeStudio/wiki/Item-Scenes-and-Item-Hotkeys)
 * [Plugins (YouTube, Twitch, etc.)](https://github.com/DenchiSoft/VTubeStudio/wiki/Plugins)
 * [[VTube Studio Model File]]
 * [[Sending data to VSeeFace]]
