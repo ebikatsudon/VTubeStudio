@@ -164,9 +164,9 @@ Various actions can be triggered by hotkeys:
 * **Screen Overlay**
   * Sets the Live2D model display overlay settings to the settings recorded in this hotkey. Will only work on Windows and macOS. For more info, see ["Display Light Overlay"](https://github.com/DenchiSoft/VTubeStudio/wiki/Display-Light-Overlay).
 * **Remove all items from scene**
-  * Removes all items from the scene. You can also specify a "Item Scene Group" here so only that group gets deactivated. See also ["Item Scenes & Hotkeys"](https://github.com/DenchiSoft/VTubeStudio/wiki/Item-Scenes-and-Item-Hotkeys).
+  * Removes all items from the scene. You can also specify a "Item Scene Group" here so only that group gets deactivated. See also ["Item Scenes & Item Hotkeys"](https://github.com/DenchiSoft/VTubeStudio/wiki/Item-Scenes-and-Item-Hotkeys).
 * **Toggle Item Scene**
-  * Toggles the specified Item Scene (has to be set up before). See also ["Item Scenes & Hotkeys"](https://github.com/DenchiSoft/VTubeStudio/wiki/Item-Scenes-and-Item-Hotkeys).
+  * Toggles the specified Item Scene (has to be set up before). See also ["Item Scenes & Item Hotkeys"](https://github.com/DenchiSoft/VTubeStudio/wiki/Item-Scenes-and-Item-Hotkeys).
 
 For animations and expressions, there are a few extra settings you can use to customize fade times and animation playback behavior. For example, you can stop animations/expressions after a certain number of seconds or once the button is let go.
 
