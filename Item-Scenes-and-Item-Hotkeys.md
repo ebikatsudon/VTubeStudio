@@ -32,10 +32,17 @@ In this example, the _Item Scene_ **"Beard and Glasses** will be loaded/unloaded
 
 You can set up as many _Item Scenes_ as you want and also load them at the same time. Sometimes there are situations where you want one _Item Scene_ to unload automatically if you load a different one, for example when you have many different hats for your model and only want one to be active at a time. This is what _Item Scene Groups_ are used for. 
 
-**Example:** If an _Item Scenes_ that has the _Group_ **\<A\>** is activated, there could be other items already loaded that were loaded by another _Item Scene_ that has the _Group_ **\<A\>**. These items would then be automatically unloaded.   
+**Example:** If an _Item Scenes_ that has the _Group_ **\<A\>** is activated, there could be other items already loaded that were loaded by another _Item Scene_ that has the _Group_ **\<A\>**. These items would then be automatically unloaded.
 
+## Modifying Item Scenes
 
+You can modify _Item Scenes_ after creating them. This means adding items, removing items or modifying them (for example pinning them to a different position on the model). Just open the _Item Scene_ in the _Item Scene_ selection window and save it again. To modify existing items in the scene, you first have to load that scene via a hotkey, then do your changes (for example moving or pinning the item somewhere else), then open the _Item Scene_ selection window and then save.
 
+## Can I have one Item Scene with items pinned to different models?
+
+Yes, that's possible. Just load the model you want to add items to the _Item Scene_ for and then add those items to the existing _Item Scene_ which already contains items pinned to different models.
+
+When an _Item Scene_ is loaded using a hotkey and it contains pinned items not intended for the currently loaded model, those items are skipped and will not be loaded.
 
 
 
