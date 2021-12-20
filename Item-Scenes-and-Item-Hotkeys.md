@@ -14,7 +14,27 @@ To create an _Item Scene_, first load all the items you'd like to include and po
 
 This will open a new window that lets you set up the _Item Scene_ based on the currently loaded items. Click items to remove them from the scene (red) or include them again (blue). The info button ("i") shows information about the respective item, such as the position, rotation, etc.
 
+The number next to the item thumbnail image is the order of the item in the _Item Scene_. When the _Item Scene_ is loaded, this order will be used when spawning items. When the order is already taken, the next higher order will be used until the scene is full.
+
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/item_scene_setup.png]]
 
-You have to give your _Item Scene_ a name, which will be used to identify the scene. No duplicate names are allowed. Additionally, you can also add a 
+You have to give your _Item Scene_ a name, which will be used to identify the scene. No duplicate names are allowed. Additionally, you can also add a **"Item Scene Group"** (just called **"Group"** from here on, more on that later). If the item is attached to a model, this is also shown in the list as you can see.
+
+After creating the _Item Scene_, you can set up a hotkey that toggles that scene. You can set a fade in/out time for the _Item Scene_ (can also be instant) and optionally set the _Item Scene_ to deactivate X seconds after activating it (up to one hour). The idea here is that you could have a Twitch redeem that turns on a hat, glasses, etc. for a certain amount of time. 
+
+In this example, the _Item Scene_ **"Beard and Glasses** will be loaded/unloaded when the hotkey is activated. Items that have been loaded as part of an _Item Scene_ can be used like normal items. You can for example delete them from the scene by dragging them out of the window or drop them on the trash can. When pressing the hotkey again and there is still at least one item from that _Item Scene_ loaded, all remaining items from that _Item Scene_ will be unloaded.
+
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/item_scene_hotkey_setup.png]]
+
+## Item Scene Groups
+
+You can set up as many _Item Scenes_ as you want and also load them at the same time. Sometimes there are situations where you want one _Item Scene_ to unload automatically if you load a different one, for example when you have many different hats for your model and only want one to be active at a time. This is what _Item Scene Groups_ are used for. 
+
+**Example:** If an _Item Scenes_ that has the _Group_ **\<A\>** is activated, there could be other items already loaded that were loaded by another _Item Scene_ that has the _Group_ **\<A\>**. These items would then be automatically unloaded.   
+
+
+
+
+
+
 
