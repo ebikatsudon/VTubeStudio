@@ -14,6 +14,6 @@ To create an _Item Scene_, first load all the items you'd like to include and po
 
 This will open a new window that lets you set up the _Item Scene_ based on the currently loaded items.
 
-
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/item_scene_setup.png]]
 
 
