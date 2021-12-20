@@ -17,7 +17,8 @@ The second image shows the main menu of the app. From there, you can access the 
 * Show model selection bar.
   * The icon next to it opens the screenshot config. Using this, you can take screenshots directly from within the app, save them and share them on social media. Also supports PNG screenshots with transparent background.
 * Change background (shows background selection list).
-  * The icon next to it opens the item/prop system config to import items into the scene. See the chapter Item System for more info.
+  * The icon next to it (the one with the star) opens the item/prop system config to import items into the scene. See the chapter [Item System](https://github.com/DenchiSoft/VTubeStudio/wiki/Item-System) for more info.
+  * The icon next to that one (the one with three stars) opens the Item Scene config window to set up collections of items that can be turned on/off via Hotkeys. See the chapter [Item Scenes](https://github.com/DenchiSoft/VTubeStudio/wiki/Item-Scenes-and-Item-Hotkeys) for more info.
 * Lock model position (will make sure you can't accidentally move the model around when touching the screen, face tracking will still move/animate the model).
   * The icon next to it locks/unlocks all items in the scene. See the chapter "Item System" for
 more info.
