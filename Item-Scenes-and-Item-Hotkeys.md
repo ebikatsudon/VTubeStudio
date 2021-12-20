@@ -12,8 +12,9 @@ To create an _Item Scene_, first load all the items you'd like to include and po
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/item_scene_create.png]]
 
-This will open a new window that lets you set up the _Item Scene_ based on the currently loaded items.
+This will open a new window that lets you set up the _Item Scene_ based on the currently loaded items. Click items to remove them from the scene (red) or include them again (blue). The info button ("i") shows information about the respective item, such as the position, rotation, etc.
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/item_scene_setup.png]]
 
+You have to give your _Item Scene_ a name, which will be used to identify the scene. No duplicate names are allowed. Additionally, you can also add a 
 
