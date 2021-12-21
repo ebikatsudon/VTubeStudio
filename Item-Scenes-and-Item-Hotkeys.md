@@ -50,6 +50,8 @@ When an _Item Scene_ is loaded using a hotkey and it contains pinned items not i
 
 Yes, that's possible! Just create an item hotkey as described above and then use a [plugin](https://github.com/DenchiSoft/VTubeStudio/wiki/Plugins) to let viewers trigger it. You could even set the item scene hotkey to auto-deactivate after a few seconds/minutes.
 
+For more info, check out the plugins page: https://github.com/DenchiSoft/VTubeStudio/wiki/Plugins
+
 ## Does loading Item Scenes cause lag?
 
 Only the first time the _Item Scene_ is loaded after starting VTube Studio. After that, the textures will be cached in memory so loading should be instant.
