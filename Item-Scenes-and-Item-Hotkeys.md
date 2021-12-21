@@ -46,6 +46,10 @@ Yes, that's possible. Just load the model you want to add items to the _Item Sce
 
 When an _Item Scene_ is loaded using a hotkey and it contains pinned items not intended for the currently loaded model, those items are skipped and will not be loaded.
 
+## Can I use have YouTube/Twitch redeems or chat commands that let viewers spawn items?
+
+Yes, that's possible! Just create an item hotkey as described above and then use a [plugin](https://github.com/DenchiSoft/VTubeStudio/wiki/Plugins) to let viewers trigger it. You could even set the item scene hotkey to auto-deactivate after a few seconds/minutes.
+
 ## Does loading Item Scenes cause lag?
 
 Only the first time the _Item Scene_ is loaded after starting VTube Studio. After that, the textures will be cached in memory so loading should be instant.
