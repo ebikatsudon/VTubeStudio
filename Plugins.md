@@ -48,9 +48,6 @@ For info on how to use those plugins, please check out the linked plugin website
   * By 最速のゆっくり (@fastest_yukkuri)
   * This plugin lets you control your model using the current time of the day (seconds, minutes, hours, ...), movement of sun and moon and weather information from any place on earth. You could for example automatically change Live2D parameters based on the current time or weather.
 
-
-https://github.com/fastestyukkuri/VTSLivePlugins
-
 ## How to use plugins?
 
 For info on how to use a **specific plugin**, please refer to the manual/website of that plugin or ask the plugin authors.
