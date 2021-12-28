@@ -44,8 +44,12 @@ For info on how to use those plugins, please check out the linked plugin website
 * **[VTS-Puppet](https://eruben.itch.io/vtspuppet)**
   * By Eruben (@eruben_thillior)
   * This VTube Studio plugin lets you control your model using a gamepad, for example using an Xbox controller or Switch Pro Controller. You can move your model trigger hotkeys and more directly using your controller.
+* **[VTSLivePlugins](https://github.com/fastestyukkuri/VTSLivePlugins)**
+  * By 最速のゆっくり (@fastest_yukkuri)
+  * This plugin lets you control your model using the current time of the day (seconds, minutes, hours, ...), movement of sun and moon and weather information from any place on earth. You could for example automatically change Live2D parameters based on the current time or weather.
 
 
+https://github.com/fastestyukkuri/VTSLivePlugins
 
 ## How to use plugins?
 
