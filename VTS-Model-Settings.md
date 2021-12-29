@@ -155,6 +155,7 @@ Various actions can be triggered by hotkeys:
   * Changes the background to the one you select for this hotkey.
 * **Reload Microphone**
   * Reloads the currently active microphone used for voice lipsync.
+  * Alternatively, this hotkey can toggle the microphone on and off.
 * **Calibrate Camera**
   * Triggers camera calibration.
 * **Change VTS Model**
