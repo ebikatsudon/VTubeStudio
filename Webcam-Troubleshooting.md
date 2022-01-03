@@ -10,6 +10,11 @@ Click the orange "Log" button in the main menu in VTube Studio after turning on 
 
 If it's a USB webcam, try plugging it into a different USB port. That sometimes helps.
 
+
+## Try re-selecting the webcam in VTube Studio
+
+Go to the webcam settings and select the webcam again. Then start the tracking.
+
 ## Install the Visual C++ Redistributable
 
 This should happen automatically when you get VTube Studio on Steam, but sometimes it doesn't seem to work. Make sure you have it installed, otherwise the webcam tracking won't work and you'll get some error like `"Missing DLL"` in the logs.
