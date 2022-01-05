@@ -1,6 +1,6 @@
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/vtube_studio_plugins_logo.png|alt="VTube Studio Plugins Logo"|width=630px]]
 
-**Note: To use plugins, you currently have to use the VTube Studio Beta. Plugins are not supported on smartphones. See [Discord](https://discord.gg/VTubeStudio) for more info.**
+**Note: Plugins are not supported on smartphones. See [Discord](https://discord.gg/VTubeStudio) for more info.**
 
 VTube Studio supports third-party **plugins** using the **VTube Studio API**. Some stuff plugins can do:
 * Activate hotkeys (for example via Twitch donations, YouTube superchats, ...)
