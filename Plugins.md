@@ -47,6 +47,9 @@ For info on how to use those plugins, please check out the linked plugin website
 * **[VTSLivePlugins](https://github.com/fastestyukkuri/VTSLivePlugins)**
   * By 最速のゆっくり (@fastest_yukkuri)
   * This plugin lets you control your model using the current time of the day (seconds, minutes, hours, ...), movement of sun and moon and weather information from any place on earth. You could for example automatically change Live2D parameters based on the current time or weather.
+* **[VTS Heartrate](https://skeletom-ch.itch.io/vts-heartrate)**
+  * By Tom "Skeletom" Farro (@FomTarro)
+  * Are you looking to do workout streams in the new year? Why not connect your heartbeat to VTube Studio?
 
 ## How to use plugins?
 
