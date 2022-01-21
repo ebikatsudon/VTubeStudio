@@ -56,7 +56,7 @@ For more info, check out the plugins page: https://github.com/DenchiSoft/VTubeSt
 
 Only the first time the _Item Scene_ is loaded after starting VTube Studio. After that, the textures will be cached in memory so loading should be instant.
 
-## My items don't move correctly! What gives?
+## My pinned items don't move correctly! What gives?
 
 The item might be pinning to the wrong ArtMesh. Items generally pin to the topmost ArtMesh that's not set as "invisible" (0% opacity) or "deactivated" in your Live2D model. If you for example have some big blush overlay layer in front of your face, items may pin to that and move in unexpected ways.
 
