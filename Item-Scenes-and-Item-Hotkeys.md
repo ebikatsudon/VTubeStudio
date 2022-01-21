@@ -65,7 +65,8 @@ Open the logs when dropping items on your model to see the ID of the ArtMesh you
 There will eventually be a UI to exclude ArtMeshes from item pinning. For now, there's a way to exclude them but you'll have to edit your Live2D model. There are two ways to exclude an ArtMesh from item pinning:
 
 * **[NOT GOOD]** Have `vts_ignore_raycast` as part of the ArtMesh ID. VTS does a contains-match, so it can be anywhere in the ID.
-* **[BETTER]** Have `vts_ignore_raycast` somewhere in the UserData field for that ArtMesh. When you export your model, make sure you have `Export UserData file (userdata3.json)` checked. This will give you a `<modelname>.userdata3.json` file that contains the IDs and UserData-tags of tagged ArtMeshes.
+* **[BETTER]** Have `vts_ignore_raycast` somewhere in the UserData field for that ArtMesh. When you export your model, make sure you have `Export UserData file (userdata3.json)` checked. This will give you a `<modelname>.userdata3.json` file that contains the IDs and UserData-tags of tagged ArtMeshes. This is better because it creates an additional JSON file that you can add/remove/modify anytime you want.
 
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/vts_ignore_raycast_a.png]]
 
 
