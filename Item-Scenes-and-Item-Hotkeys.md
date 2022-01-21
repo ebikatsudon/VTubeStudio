@@ -56,5 +56,16 @@ For more info, check out the plugins page: https://github.com/DenchiSoft/VTubeSt
 
 Only the first time the _Item Scene_ is loaded after starting VTube Studio. After that, the textures will be cached in memory so loading should be instant.
 
+## My items don't move correctly! What gives?
+
+The item might be pinning to the wrong ArtMesh. Items generally pin to the topmost ArtMesh that's not set as "invisible" (0% opacity) or "deactivated" in your Live2D model. If you for example have some big blush overlay layer in front of your face, items may pin to that and move in unexpected ways.
+
+Open the logs when dropping items on your model to see the ID of the ArtMesh your item is pinning to.
+
+There will eventually be a UI to exclude ArtMeshes from item pinning. For now, there's a way to exclude them but you'll have to edit your Live2D model. There are two ways to exclude an ArtMesh from item pinning:
+
+* **[NOT GOOD]** Have `vts_ignore_raycast` as part of the ArtMesh ID. VTS does a contains-match, so it can be anywhere in the ID.
+* **[BETTER]** Have `vts_ignore_raycast` somewhere in the UserData field for that ArtMesh. When you export your model, make sure you have `Export UserData file (userdata3.json)` checked. This will give you a `<modelname>.userdata3.json` file that contains the IDs and UserData-tags of tagged ArtMeshes.
+
 
 
