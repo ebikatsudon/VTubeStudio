@@ -4,7 +4,7 @@ In short, iOS devices are generally better. They provide much smoother and more 
  
 Webcam tracking is really good as well but has some disadvantages. Mainly, it puts additional strain on your CPU that you wouldn’t have when the tracking is performed by a connected phone. Also, blink- and eye-tracking are not as accurate as they are on iOS. 
 
-[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/info/device_difference_table.png|alt="Tracking device differences"]]
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/device_difference_table.png|alt="Tracking device differences"]]
 
 To add to that, the tracking on iOS is less shaky and needs less smoothing. This results in your model reacting a bit faster and movement looking more natural in general.
 
