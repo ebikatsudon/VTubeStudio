@@ -1,8 +1,7 @@
 
 Expressions allow you to set Live2D parameters to certain values using hotkeys. Using expressions, you can for example trigger different facial expressions or costume changes.
 
-
-
+Expressions can be set up directly inside of VTube Studio on the **"Hotkeys"** tab.
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/expression_editor_1.png]]
 
