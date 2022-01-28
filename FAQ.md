@@ -143,12 +143,6 @@ This is a bug caused by some GPU drivers reporting incorrect display refresh rat
 
 To fix this, turn on G-SYNC in the Nvidia GPU settings (or the equivalent for your GPU). If that still doesn’t work, consider setting the FPS config to 60 in VTube Studio instead of VSync. 
 
-## Why is blinking and eye tracking not supported on Android?
-
-VTube Studio uses Google ARCore on Android. Eye/Blink/Wink-Tracking is not supported by this framework yet. There is no information if/when this will become available. It is possible that it will never be supported.
-
-If and when it is added to ARCore, it will also be supported by VTube Studio
-
 ## I bought the PRO version on Android. Can I transfer it to iOS? Or Steam?
 
 As a general rule, no. Technically, it is not possible as Google and Apple use different app-stores.<br/>
