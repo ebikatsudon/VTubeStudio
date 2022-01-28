@@ -43,13 +43,11 @@ Please check the ["How do I buy VTube Studio?"](https://github.com/DenchiSoft/VT
 
 ## Supported Devices (iPhone/Android Tracking)
 
-To run VTube Studio, you need a PC (Windows 7 and up) or Mac (10.14 Mojave and up) and a smartphone/tablet that supports the VTube Studio smartphone app. VTube Studio requires the augmented reality framework ARCore (from Google, on Android) or ARKit (from Apple, on iOS).
+To run VTube Studio, you need a PC (Windows 7 and up) or Mac (10.14 Mojave and up) and a smartphone/tablet that supports the VTube Studio smartphone app. VTube Studio uses the augmented reality frameworks Mocap4Face (from Alter, on Android) and ARKit (from Apple, on iOS).
 
 ### Supported devices:
 * **Android**
-  * Any device that supports ARCore should work.
-  * See https://developers.google.com/ar/discover/supported-devices
-  * Some devices may not work despite ARCore being supported. When this happens, the camera preview will show a blue rectangle. You can try manually downgrading to older versions of ARCore and see if that helps, otherwise you'll have to wait until Google fixes support for your device in future versions.
+  * Any recent Android device should work. Older devices may not be supported.
 * **iOS**
   * Any iPhone or iPad that has FaceID.
     * iPhone X, XR, XS (regular and Max)
