@@ -5,7 +5,11 @@ Expressions can be set up directly inside of VTube Studio on the **"Hotkeys"** t
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/expression_editor_1.png]]
 
+From here, you can either **create a new expression**, **edit existing expressions** or **automatically create hotkeys for all expressions that don't have hotkeys yet**.
+
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/expression_editor_2.png]]
+
+When editing expressions or creating new ones, the following window is shown.
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/expression_editor_3.png]]
 
