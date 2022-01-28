@@ -9,13 +9,11 @@ From here, you can either **create a new expression**, **edit existing expressio
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/expression_editor_2.png]]
 
-When editing expressions or creating new ones, the following window is shown.
+When editing expressions or creating new ones, the following window is shown. Select/Deselect the Live2D parameters that you want to be part of the expression. You can't use physics output parameters in expressions because their value is overwritten by the physics system.
+
+Saving a new expression will create an `.exp3.json` file in your model's directory. If you already have expressions in a separate folder for your model, VTube Studio will use that folder for new expressions.
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/expression_editor_3.png]]
-
-
-
-
 
 _Note:_ Alternatively, expressions can be created using the **Live2D Cubism Viewer**. You can download it for free as part of the Live2D Cubism Editor: https://www.live2d.com/en/download/ 
 
