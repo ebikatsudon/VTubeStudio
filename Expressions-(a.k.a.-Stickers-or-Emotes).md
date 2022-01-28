@@ -4,6 +4,10 @@ Expressions allow you to set Live2D parameters to certain values using hotkeys. 
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/expressions.png]]
 
+
+
+# Alternative (outdated): Create expressions with the Live2D Cubism Viewer
+
 To create expressions, first load your model into the Live2D Cubism Viewer by dragging in the _.model3.json_ file. Your model should now be open and ready to edit.
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/akari_expression_editor.png]]
