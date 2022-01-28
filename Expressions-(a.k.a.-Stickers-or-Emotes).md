@@ -6,7 +6,7 @@ Expressions allow you to set Live2D parameters to certain values using hotkeys. 
 
 
 
-# Alternative (outdated): Create expressions with the Live2D Cubism Viewer
+## Alternative (outdated): Create expressions with the Live2D Cubism Viewer
 
 To create expressions, first load your model into the Live2D Cubism Viewer by dragging in the _.model3.json_ file. Your model should now be open and ready to edit.
 
