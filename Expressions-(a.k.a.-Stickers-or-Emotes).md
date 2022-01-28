@@ -1,3 +1,4 @@
+## Creating Expressions
 
 Expressions allow you to set Live2D parameters to certain values using hotkeys. Using expressions, you can for example trigger different facial expressions or costume changes.
 
@@ -17,12 +18,13 @@ Saving a new expression will create an `.exp3.json` file in your model's directo
 
 _Note:_ Alternatively, expressions can be created using the **Live2D Cubism Viewer**. You can download it for free as part of the Live2D Cubism Editor: https://www.live2d.com/en/download/ 
 
+## Using Expressions
 
-To set up the expressions in VTube Studio:
+To use the expressions in VTube Studio:
 
 1. Create a new hotkey inside of VTube Studio as explained in the chapters about hotkeys.
 2. Use the hotkey type "Set/Unset Expression"
-3. Select your newly created expression from the list. If you can’t find it there, make sure the _.exp3.json_ file is in the same folder as your VTS model file or in a subfolder of it.
+3. Select your expression file from the list. If you can’t find it there, make sure the _.exp3.json_ file is in the same folder as your VTS model file or in a subfolder of it.
 4. Your hotkey is now fully set up. You can use either your keyboard or the on-screen buttons to activate and deactivate it. 
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/hint_top.png]]
