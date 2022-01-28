@@ -1,0 +1,1 @@
+Starting VTube Studio as administrator on Windows can solve some 
