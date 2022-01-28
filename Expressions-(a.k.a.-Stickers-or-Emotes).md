@@ -1,28 +1,30 @@
-Expressions are created using the **Live2D Cubism Viewer**. You can download it for free as part of the Live2D Cubism Editor: https://www.live2d.com/en/download/ 
+## Creating Expressions
 
 Expressions allow you to set Live2D parameters to certain values using hotkeys. Using expressions, you can for example trigger different facial expressions or costume changes.
 
-[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/expressions.png]]
+Expressions can be set up directly inside of VTube Studio on the **"Hotkeys"** tab.
 
-To create expressions, first load your model into the Live2D Cubism Viewer by dragging in the _.model3.json_ file. Your model should now be open and ready to edit.
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/expression_editor_1.png]]
 
-[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/akari_expression_editor.png]]
+From here, you can either **create a new expression**, **edit existing expressions** or **automatically create hotkeys for all expressions that don't have hotkeys yet**.
 
-To create a new expression, you can now do the following:
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/expression_editor_2.png]]
 
-1. Add a new expression using **File → Add → Expression**
-2. Make sure **Animation → Apply Expression** is activated.
-3. There should now be a folder called "Expressions" in the navigation window. Open it and click your newly created _.exp3.json_ file.
-4. Create your expression by adjusting the sliders and checkboxes for the parameters you want to be part of the expression.
-5. Fade-times are ignored by VTube Studio in the current version. Instead, a default fade-time is used. Alternatively, you can set a fade-time inside of VTube Studio.
-6. You can also right-click a parameter and set it to "Multiply". This is not yet supported by VTube Studio and may result in your expressions not working. Please leave it at "Additive".
-7. To save the expression, right-click your _.exp3.json_ file and select "Save". Save it somewhere next to your VTS/Live2D model or in any subfolder of that folder so VTS can find it when your model is loaded.
+When editing expressions or creating new ones, the following window is shown. Select/Deselect the Live2D parameters that you want to be part of the expression. You can't use physics output parameters in expressions because their value is overwritten by the physics system.
 
-To set up the expressions in VTube Studio:
+Saving a new expression will create an `.exp3.json` file in your model's directory. If you already have expressions in a separate folder for your model, VTube Studio will use that folder for new expressions.
+
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/expression_editor_3.png]]
+
+_Note:_ Alternatively, expressions can be created using the **Live2D Cubism Viewer**. You can download it for free as part of the Live2D Cubism Editor: https://www.live2d.com/en/download/ 
+
+## Using Expressions
+
+To use the expressions in VTube Studio:
 
 1. Create a new hotkey inside of VTube Studio as explained in the chapters about hotkeys.
 2. Use the hotkey type "Set/Unset Expression"
-3. Select your newly created expression from the list. If you can’t find it there, make sure the _.exp3.json_ file is in the same folder as your VTS model file or in a subfolder of it.
+3. Select your expression file from the list. If you can’t find it there, make sure the _.exp3.json_ file is in the same folder as your VTS model file or in a subfolder of it.
 4. Your hotkey is now fully set up. You can use either your keyboard or the on-screen buttons to activate and deactivate it. 
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/hint_top.png]]
