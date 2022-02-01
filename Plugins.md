@@ -32,9 +32,10 @@ For info on how to use those plugins, please check out the linked plugin website
 * **[VTube Studio Stream Deck Plugin](https://apps.elgato.com/search?s=vtube) (download via official Stream Deck app store)**
   * By Cazzar
   * Access all VTube Studio functionality directly using your Stream Deck, including triggering hotkeys and changing models.
-* **[TP_VTS - Touch Portal Integration for VTube Studio](https://github.com/Wiccy84/TP_VTS)**
+* **[TP_VTS - Touch Portal Integration for VTube Studio](https://wiccy.itch.io/tp-vts)**
   * By Wiccy
   * Plugin that makes it easy to control VTube Studio using the Touch Portal smartphone app. Supports triggering hotkeys, loading and moving models, coloring ArtMeshes and more!
+  * Links: [Download](http://wiccy.net/TP_VTS/) and [documentation](http://wiccy.net/TP_VTS/)
 * **[VtubeStudioSimpleSETool](https://mononobe-monoko.booth.pm/items/3468381)**
   * By 物部モノ子
   * A VTube Studio plugin that can automatically play custom sound effects when tracking parameters reach certain values you can configure.
