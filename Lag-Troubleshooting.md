@@ -2,6 +2,10 @@ This page contains some things to try if VTube Studio lags on your PC.
 
 **Please try all of this before asking in the VTube Studio Discord!!**
 
+## Start VTube Studio as Administrator
+
+On Windows, start VTube Studio as admin. VTube Studio can set its GPU priority to "high", which should prevent other GPU-hungry games from making it lag. However, this only works if VTube Studio is running as admin. You can start VTube Studio as admin like this: https://github.com/DenchiSoft/VTubeStudio/wiki/Starting-as-Admin
+
 ## Check your logs
 
 Click the orange "Log" button in the main menu in VTube Studio. Are there any errors? You can also see the full logs by checking the text files in the "Logs" folder next to your "Live2DModels" folder.
