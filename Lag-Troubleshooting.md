@@ -33,6 +33,12 @@ NVIDIA G-Sync can cause issues, especially on multi-monitor setups. [Try turning
 * Select `Set up G-SYNC` (not all displays may have that)
 * Uncheck the box next to `Enable G-SYNC`.
 
+## Lower the game FPS
+
+Make sure whatever game you're playing together with VTube Studio doesn't have the framerate set to unlimited. Try limiting the game FPS to 60 if possible. You can also try limiting the FPS directly in the `Nvidia Control Panel`, which should also work if the game doesn't have FPS settings.
+
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/fps_setting_nvidia_control_panel.png]]
+
 ## Turn off "Hardware Accelerated GPU Scheduling"
 
 HAGS can cause issues when running a game and VTube Studio at the same time. Check Google (or for example [this page](https://www.tenforums.com/tutorials/150440-turn-off-hardware-accelerated-gpu-scheduling-windows-10-a.html)) for info on how to do that.
