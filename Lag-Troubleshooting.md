@@ -49,7 +49,6 @@ Make sure whatever game you're playing together with VTube Studio doesn't have t
 
 HAGS can cause issues when running a game and VTube Studio at the same time. Check Google (or for example [this page](https://www.tenforums.com/tutorials/150440-turn-off-hardware-accelerated-gpu-scheduling-windows-10-a.html)) for info on how to do that.
 
-
 ## Check the framerate in VTube Studio
 
 VTube Studio will show the actual render FPS when you open the logs in the app (orange "Log" button in the main menu).
@@ -61,6 +60,8 @@ Generally, it's recommended to always run VTS at 60 FPS. This may cause screen-t
 ## Turn off the Steam Overlay
 
 Disable the Steam Overlay globally for all games. This has been shown to cause framerate issues for some users. You can turn it off like this (see `"Enabling the Steam Overlay"`): 
+
+Other software like UPlay has also been shown to cause issues for some users when running at the same time as VTube Studio because of its in-game overlays.
 
 https://help.steampowered.com/en/faqs/view/3978-072C-18DF-FBF9
 
