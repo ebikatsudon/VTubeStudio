@@ -101,6 +101,7 @@ VTube Studio currently supports the following input parameters that can be mappe
 
 _\* these parameters cannot be used directly on iOS/Android but will work on PC/Mac when using a smartphone for tracking. Parameters like VoiceVolumePlusMouthOpen will default to using the value from MouthOpen when the model is loaded on the smartphone._
 
+The webcam-version of VTube Studio also supports hand-tracking. The hand-tracking parameter list can be found here: https://github.com/DenchiSoft/VTubeStudio/wiki/Hand-Tracking
 
 ## Hotkey Settings and Types
 
