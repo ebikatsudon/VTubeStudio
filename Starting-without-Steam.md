@@ -37,3 +37,4 @@ To learn how to do that, please check out the page about [controlling multiple m
 </p>
 <br/>
 
+If you've bought the `Remove Watermark DLC`, you'll have to start the app at least once with Steam, afterwards that DLC will also be available for use without Steam on that PC.
