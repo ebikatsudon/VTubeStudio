@@ -14,6 +14,7 @@ If you have trouble connecting your smartphone to the PC app (smartphone app is 
   * This means both should be on the same WiFi. If the PC and/or smartphone are connected to your router via cable, that is fine too.
   * If your router has multiple WiFi networks available, make sure it is the same for your PC and smartphone. Also, try both networks.
 * On Windows, make sure the used network is set to "Private" (see image below).
+* Make sure mobile data is turned off on your smartphone. If it's on, that can cause VTube Studio to report the wrong IP.
 * Try turning off your Anti-Virus software temporarily.
 * If "Updates" are shown as 0, you may have to restart the app once.
 * If you have a VPN, see if there's an option related to "Invisible to Devices" switched on.
