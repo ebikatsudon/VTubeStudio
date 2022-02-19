@@ -13,3 +13,11 @@ The following functionality can be customized/added per ArtMesh for Live2D model
 * Customize how the [Display Light Overlay System](https://github.com/DenchiSoft/VTubeStudio/wiki/Display-Light-Overlay) affects the ArtMesh.
 
 This will be described in a bit more detail in the following sections.
+
+### Exclude items from pinning to the ArtMesh
+
+You can pin items (PNGs, GIFs, etc.) to your Live2D model, see "[[Item System]]". Sometimes, you may want to exclude parts of your model from this and make sure items can't pin to them. Usually that's ArtMeshes like blushes, semi-transparent or invisible overlays and so on. You can do so by turning them off in the list.
+
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/add_functionality_artmeshes_2.png|alt="Exclude ArtMeshes from item pinning"]]
+
+
