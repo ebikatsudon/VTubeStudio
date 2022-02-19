@@ -72,7 +72,9 @@ You can drag in PNGs, JPGs, GIFs and folders containing PNG animation frames, wh
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/drag_and_drop.png]]
 
+## Exclude ArtMeshes from item pinning
 
+You can exclude ArtMeshes (parts of your model, basically the layers of the base PSD) from item pinning. You might want to do that for overlay layers like blushes, effects and so on. You can also select ArtMeshes that that delete any items that are dropped on them. For more information on how to do that, check the page "[[Add Special ArtMesh Functionality]]".
 
 
 
