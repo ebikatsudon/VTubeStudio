@@ -34,8 +34,8 @@ You can also control this via hotkeys. Just create a hotkey with the type **"Scr
 
 For window captures, it will look for the exact window name of the window that was captured when the hotkey was recorded (unless it was set to "current window").
 
-## Excluding ArtMeshes
+## Customizing how ArtMeshes (parts of the model) are affected.
 
-You can exclude ArtMeshes from being affected by scene lighting by putting `vts_ignore_scene_lighting` somewhere in the ArtMesh ID or ArtMest UserData tag. In a future update, you'll be able to exclude ArtMeshes via the UI.
+You can exclude ArtMeshes from being affected by scene lighting or modify how much they're affected. Fore more information on that, check out the page "[[Add Special ArtMesh Functionality]]".
 
 
