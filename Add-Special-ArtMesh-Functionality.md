@@ -2,6 +2,8 @@
 
 ## Customizing ArtMesh functionality for your Model
 
+You can add functionality to individual ArtMeshes in your model by first loading the model and then accessing the following menu.
+
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/add_functionality_artmeshes_1.png|alt="Adding functionality to ArtMeshes"]]
 
 The following functionality can be customized/added per ArtMesh for Live2D models:
