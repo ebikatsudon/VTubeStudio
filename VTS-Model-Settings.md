@@ -25,6 +25,8 @@ With the "Movement Config" settings, you can move the model left/right and close
 
 Here, you can boost or reduce the effect of your Live2D physics setup. You can also activate “wind”, which will randomly apply a wind-like force to the physics system. This is experimental and may not look good depending on how your model is set up.
 
+You can also set a multiplier between 0 and 2 (default is 1) for physics strength and wind strength per physics group in your Live2D model by clicking the small gear icon next to the "Physics Strength" and "Wind Strength" sliders.
+
 VTube Studio used to ignore the Live2D physics setting "Effectiveness". This has been fixed in a recent update. To turn on "Effectiveness", make sure the "Legacy Physics toggle is off.
 
 You can also set the physics framerate for the model here. This allows you to calculate the model physics at a fixed framerate instead of the normal app framerate, which might depend on the monitor refresh rate if you're using VSync. Live2D modellers typically use a certain framerate in the physics editor window when modeling the physics, so you might want to set that same framerate here.
