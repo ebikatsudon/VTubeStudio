@@ -24,6 +24,10 @@ You can pin items (PNGs, GIFs, etc.) to your Live2D model, see "[[Item System]]"
 
 You can select ArtMeshes that delete any items that are dropped on them. You could for example use that for your mouth-related ArtMeshes to make your model "eat" items.
 
-### Customize how the [Display Light Overlay System](https://github.com/DenchiSoft/VTubeStudio/wiki/Display-Light-Overlay) affects the ArtMesh
+### Customize how the Display Light Overlay System affects the ArtMesh
 
-a
+With the [Display Light Overlay System](https://github.com/DenchiSoft/VTubeStudio/wiki/Display-Light-Overlay), you can overlay your model with the color from a game, video, etc.
+
+You can customize how much this system affects parts of the model. Using this customization, you could for example make parts of your model (like the eyes) stand out more by making them "glow in the dark".
+
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/add_functionality_artmeshes_3.png|alt="Customize Lighting Overlay System"]]
