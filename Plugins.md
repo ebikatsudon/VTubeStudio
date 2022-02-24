@@ -51,6 +51,9 @@ For info on how to use those plugins, please check out the linked plugin website
 * **[VTS Heartrate](https://skeletom-ch.itch.io/vts-heartrate)**
   * By Tom "Skeletom" Farro (@FomTarro)
   * Are you looking to do workout streams in the new year? Why not connect your heartbeat to VTube Studio?
+* **[Karasubonk](https://typeou.itch.io/karasubonk)**
+  * By typeou (@typeou)
+  * Karasubonk (KBonk) is a lightweight Twitch and VTube Studio plugin that gives viewers the ability to interact with the streamer by throwing things at them!
 
 ## How to use plugins?
 
