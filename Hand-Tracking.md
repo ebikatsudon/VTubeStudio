@@ -1,4 +1,4 @@
-VTube Studio supports **experimental hand tracking using [Google MediaPipe](https://google.github.io/mediapipe/)**, currently **only on Windows**.
+VTube Studio supports **experimental hand tracking using [Google MediaPipe](https://google.github.io/mediapipe/)**, currently **only on Windows and macOS (up-to-date macOS version required)**.
 
 You can combine webcam hand tracking with webcam face tracking or smartphone face tracking.
 
