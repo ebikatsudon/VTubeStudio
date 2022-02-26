@@ -54,6 +54,10 @@ For info on how to use those plugins, please check out the linked plugin website
 * **[Karasubonk](https://typeou.itch.io/karasubonk)**
   * By typeou (@typeou)
   * Karasubonk (KBonk) is a lightweight Twitch and VTube Studio plugin that gives viewers the ability to interact with the streamer by throwing things at them!
+* **[VTS Chameleon](https://satetsu888.github.io/vts-chameleon/)**
+  * By Shotaro Akiyama (@satetsu888)
+  * VTS-Chameleon is a colorizer plugin for VTube Studio. Change colors and expressions at will!
+
 
 ## How to use plugins?
 
