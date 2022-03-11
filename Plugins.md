@@ -57,7 +57,9 @@ For info on how to use those plugins, please check out the linked plugin website
 * **[VTS Chameleon](https://satetsu888.github.io/vts-chameleon/)**
   * By Shotaro Akiyama (@satetsu888)
   * VTS-Chameleon is a colorizer plugin for VTube Studio. Change colors and expressions at will!
-
+* **[Nyarupad VTS](https://maruseu.itch.io/nyarupad-vts)**
+  * By Maruseu (@nyaruseu)
+  * Simple and lightweight gamepad plugin for VTube Studio! Adds custom input parameters so its possible to rig game controllers directly to your Live2D model.
 
 ## How to use plugins?
 
