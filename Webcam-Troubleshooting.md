@@ -59,6 +59,10 @@ Also make sure that VTube Studio is added as exception to your firewall and try 
 
 For now, having this device connected to your PC will cause VTube Studio to crash when selecting webcams. You'll have to disconnect for a moment when selecting and starting the webcam in VTS, otherwise it won't work.
 
+## Try moving the folder
+
+Try moving the VTube Studio folder somewhere else. If it's somewhere in the `Program Files (x86)` folder, move it to the `Program Files` folder and see if that helps. You can always start VTube Studio without Steam like [this](https://github.com/DenchiSoft/VTubeStudio/wiki/Starting-without-Steam).
+
 ## Check the `run.bat` file
 
 Try starting the webcam tracker manually and see it it works outside of VTube Studio. You can do that by running the file `run.bat` in the folder `VTube Studio_Data\StreamingAssets\OpenSeeFaceTracker_v_1_20_2\binary` in your Steam files. This will show your webcam video including the tracking dots so don't do this on stream!! If this works but the tracker doesn't work in VTube Studio, that's an important clue for further troubleshooting.
