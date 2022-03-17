@@ -1,4 +1,4 @@
-VTube Studio can take the average color from your screen (Windows/MacOS) or any window (Windows only) and overlay it over your model, including attached items. This makes it seem like your model is "in the game/video" in your OBS/Streamlabs scene. Inspired by [this post by @Virtual_Graves](https://twitter.com/Virtual_Graves/status/1434154401707397120).
+VTube Studio can take the average color from your screen (Windows/MacOS) or any window (Windows only) and overlay it over your model, including attached items. This makes it seem like your model is "in the game/video" in your OBS/Streamlabs scene. Inspired by [this post by @Virtual_Graves](https://twitter.com/Virtual_Graves/status/1434154401707397120). On iOS and Android, you can only overlay a static color over your model.
 
 There may be a small delay (~100 ms) for the lighting to be calculated. You can add a source render delay to your other capture in OBS to make up for that.
 
@@ -10,7 +10,7 @@ There may be a small delay (~100 ms) for the lighting to be calculated. You can 
 
 There are the following options:
 * **Display**
-  * The activated display. On Windows, you can also select a specific window here using the "Window" button.
+  * The activated display. On Windows, you can also select a specific window here using the "Window" button. The rainbow-colored button lets you choose a static color overlay. On mobile, only this button is available.
 * **Brightness**
   * Base brightness level. It's best to keep this low.
 * **Overlay**
