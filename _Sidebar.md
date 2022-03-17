@@ -31,10 +31,12 @@ VTS Manual
 * [Connection Issues & Troubleshooting](https://github.com/DenchiSoft/VTubeStudio/wiki/Connection-Issues-&-Troubleshooting)
 * [[Taking/Sharing Screenshots]]
 * [[Item System]]
+* [[Record Animations]]
 * [[Add Special ArtMesh Functionality]]
 * [Item Scenes & Item Hotkeys](https://github.com/DenchiSoft/VTubeStudio/wiki/Item-Scenes-and-Item-Hotkeys)
 * [Plugins (YouTube, Twitch, etc.)](https://github.com/DenchiSoft/VTubeStudio/wiki/Plugins)
 * [[VTube Studio Model File]]
+* [[Copy config between models]]
 * [[Sending data to VSeeFace]]
 * [How to fix lag issues](https://github.com/DenchiSoft/VTubeStudio/wiki/Lag-Troubleshooting)
 * [How to fix webcam issues](https://github.com/DenchiSoft/VTubeStudio/wiki/Webcam-Troubleshooting)
