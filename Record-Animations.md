@@ -8,6 +8,13 @@ If you deactivate **"Rec. unchanged params"**, VTube Studio will check for any p
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/record_animation_1.png]]
 
-After the recording is finished, you will be presented with the animation config screen.
+After the recording is finished, you will be presented with the animation config screen. You can toggle individual parameters on and off to include/exclude them from the final animation. The slider lets you choose how much the animation for the selected parameter should be smoothed. The curve preview window will show the final animation curve for that parameter in red and the raw data in gray. The red dots mark the curve segment end points. If you plan to use the animation in the _Live2D Cubism Animator_, making sure that the curves look good and have a reasonable amount of points is important.
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/record_animation_2.png]]
+
+After choosing a filename and saving, the animation will be saved as `<name>.motion3.json` in the same folder you've used for your other animations or next to the model file if you have no other animations.
+
+## Re-importing Animations into Live2D
+
+asd
+
