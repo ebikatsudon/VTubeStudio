@@ -18,3 +18,12 @@ After choosing a filename and saving, the animation will be saved as `<name>.mot
 
 You can re-import animations (`.motion3.json` files created with VTube Studio) back into the _Live2D Cubism Animator_. To do that, start the _Animator_ for your model like you normally would (as in open the `.can3` file of your model or create one). Then, create a new animation
 
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/record_animation_import_1.png]]
+
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/record_animation_import_2.png]]
+
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/record_animation_import_3.png]]
+
+
+
+
