@@ -29,9 +29,10 @@ If the expression and animation files for the target model (the one being copied
 
 ## What if the models have different Live2D parameters?
 
-Rename missing parameters
+The model setup, animations and expressions will only work properly if the source model (model being copied from) and the target model (model being copied to) have the same Live2D parameters. Otherwise, these parameters will be missing in the model setup (they will be marked red in the target model) and animations/expressions will ignore these parameters.
+
+If you activate **[Rename missing parameters]**, VTube Studio will automatically attempt to find missing Live2D parameters by checking different parameter capitalizations and parameter ID styles. For example, if the source model uses the old parameter ID style (ex. `PARAM_ANGLE_X`) and the target model uses the new parameter ID style (ex. `ParamAngleX`), the parameters will be automatically corrected in the model setup, expressions and animations after copying them over.
+
+For more info about default Live2D parameter IDs, check this page: https://docs.live2d.com/cubism-editor-manual/standard-parametor-list/?locale=en_us
 
 
-
-
- Make sure the destination model has the same Live2D parameters as the source model, otherwise some parameter settings may not work as expected. If that happens, the missing parameters will be marked in red.
