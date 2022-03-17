@@ -25,6 +25,9 @@ You can copy the following things between models:
 * **[ArtMesh settings]**
   * This copies over all per-ArtMesh data, such as item pinning exclusions, lighting system customization and more.
 
+If the expression and animation files for the target model (the one being copied to) are in a subfolder, VTube Studio will automatically copy any new animation files into that folder as well.
+
+## What if the models have different Live2D parameters?
 
 Rename missing parameters
 
