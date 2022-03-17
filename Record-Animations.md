@@ -1,6 +1,4 @@
-## aaa
-
-aaa
+You can record animations in VTube Studio. These animations can then be used directly in your model or even re-imported into _Live2D Cubism_.
 
 ## aaa
 
