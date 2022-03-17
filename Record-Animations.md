@@ -28,6 +28,14 @@ You will now have all animation curves from the `.motion3.json` file imported in
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/record_animation_import_2.png]]
 
+## Playing animations in the Live2D Cubism Physics Editor
+
+You can play animations in the _Live2D Cubism Physics Editor. This can be useful for comparing how physics calculations behave in VTube Studio vs. _Live2D Cubism_.
+
+To do that, make sure you have **both the model file (`.cmo3`) and the animation file (`.can3`) open** in the same _Live2D Cubism Editor_, then open the physics window.
+
+In the physics window, choose the "Scene Blending" tab. Create a new "Playlist" by clicking the "Add" button, then add your animation scene to the playlist. Finally, select the playlist under "Play the Scene". The animation will now play and loop in the physics preview window.
+
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/record_animation_import_3.png]]
 
 
