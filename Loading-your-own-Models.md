@@ -71,7 +71,7 @@ When loading a new Live2D model, you will be asked to run the "Auto-Setup". The 
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/auto_setup.png]]
 
-When running the Auto-Setup for iOS/Webcam or Android, VTube Studio will automatically look for default Live2D parameters in your model. VTube Studio will assume that you have used default Live2D parameter IDs and parameter names and set up your VTube Studio accordingly. You can learn more about the default IDs here: https://docs.live2d.com/cubism-editor-manual/standard-parametor-list/?locale=en_us
+When running the Auto-Setup, VTube Studio will automatically look for default Live2D parameters in your model. VTube Studio will assume that you have used default Live2D parameter IDs and parameter names and set up your VTube Studio accordingly. You can learn more about the default IDs here: https://docs.live2d.com/cubism-editor-manual/standard-parametor-list/?locale=en_us
 
 If you do not use the default IDs, you will have to set your model up manually. This is explained in detail in the chapter **\"VTS Parameter Setup\"**.
 
