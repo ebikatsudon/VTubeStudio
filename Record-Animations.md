@@ -16,9 +16,15 @@ After choosing a filename and saving, the animation will be saved as `<name>.mot
 
 ## Re-importing Animations into Live2D
 
-You can re-import animations (`.motion3.json` files created with VTube Studio) back into the _Live2D Cubism Animator_. To do that, start the _Animator_ for your model like you normally would (as in open the `.can3` file of your model or create one). Then, create a new animation
+You can re-import animations (`.motion3.json` files created with VTube Studio) back into the _Live2D Cubism Animator_. To do that, start the _Animator_ for your model like you normally would (as in open the `.can3` file of your model or create one).
+
+**Important:** Make sure the FPS ("Frame Rate") is set to 60 before importing the animation. VTube Studio animations are always exported as 60-FPS-based curves.
+
+Then, create a new empty _Scene_ for the animation. You can now import your `.motion3.json` file into that _Scene_ by **right-clicking the purple animation track** for the model and selecting **"Import Motion"**.  
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/record_animation_import_1.png]]
+
+You will now have all animation curves from the `.motion3.json` file imported into the animator. From there, you can modify the animation in any way you want.
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/record_animation_import_2.png]]
 
