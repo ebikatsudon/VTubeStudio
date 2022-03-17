@@ -75,7 +75,7 @@ When running the Auto-Setup for iOS/Webcam or Android, VTube Studio will automat
 
 If you do not use the default IDs, you will have to set your model up manually. This is explained in detail in the chapter **\"VTS Parameter Setup\"**.
 
-The model will be optimized for use with either Android or iOS/Webcam depending on which option you choose.
+Alternatively, you can copy the setup from another model in this menu, including the parameter setup, expressions, animations and more. For more info about that, please take a look at the page "[Copy config between models](https://github.com/DenchiSoft/VTubeStudio/wiki/Copy-config-between-models)".
 
 Your model should now be ready to use. Of course, you may need to finetune it, but it should move already. On iOS, you might have to open the camera  review once after installing the app before the model will move.
 
