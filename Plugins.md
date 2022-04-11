@@ -18,12 +18,16 @@ _Plugins cannot access your webcam or read any personal data through VTS._
 _Please reach out on [Discord](https://discord.gg/VTubeStudio) if you want your plugin added to this list._
 
 For info on how to use those plugins, please check out the linked plugin websites. **Important: These plugins are UNOFFICIAL and are not developed by DenchiSoft. Please only use plugins you trust!!**
+
 * **[Cheers Bot](https://cheers.hawk.bar/)**
   * By HawkBar
   * Trigger hotkeys, model changes and more based on Twitch stream events (donations, etc.)
 * **[VTS React](https://vts-react.fugi.tech)**
   * By Fugi and Iron Vertex
   * Easy to use web-based Twitch/YouTube integration for VTube Studio.
+* **[VBridger](https://store.steampowered.com/app/1898830/VBridger)**
+  * By PiPuProductions and Serp
+  * VBridger is a face tracking plugin designed for VTube Studio and Live2D, which allows the user to make better use of iPhone ARKit tracking. 
 * **[Mix It Up Streaming Bot](https://mixitupapp.com/)**
   * A versatile streaming bot that also supports VTS integration, including activating hotkeys on stream events such as donations, etc.
 * **[VTChaos](https://github.com/Raelice/VTchaos)**
