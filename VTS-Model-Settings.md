@@ -171,6 +171,8 @@ Various actions can be triggered by hotkeys:
   * Removes all items from the scene. You can also specify a "Item Scene Group" here so only that group gets deactivated. See also ["Item Scenes & Item Hotkeys"](https://github.com/DenchiSoft/VTubeStudio/wiki/Item-Scenes-and-Item-Hotkeys).
 * **Toggle Item Scene**
   * Toggles the specified Item Scene (has to be set up before). See also ["Item Scenes & Item Hotkeys"](https://github.com/DenchiSoft/VTubeStudio/wiki/Item-Scenes-and-Item-Hotkeys).
+* **Download random item from Steam Workshop into the scene**
+  * Downloads a randomly selected item from the Steam Workshop into the scene. See also ["Steam Workshop"](https://github.com/DenchiSoft/VTubeStudio/wiki/Workshop).
 
 For animations and expressions, there are a few extra settings you can use to customize fade times and animation playback behavior. For example, you can stop animations/expressions after a certain number of seconds or once the button is let go.
 
