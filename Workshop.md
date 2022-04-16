@@ -63,7 +63,7 @@ The search results will then be shown in a list. You can upvote/downvote items d
 After downloading models and items, they will be saved into the normal "Live2DModels" and "Items" folders. However, they will follow a special naming pattern which identifies them as Workshop content:
 
 * **Models**
-  * <original-model-folder_name>
+  * `<original-model-folder_name>`**\_workshop\_**`<workshop-id>`
 
 ## Downloading random items from the Workshop into the scene
 
