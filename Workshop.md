@@ -6,19 +6,22 @@ Currently, you can upload models and [items](https://github.com/DenchiSoft/VTube
 
 You can share any content on the VTube Studio Steam Workshop as long as you follow these rules:
 
-* Do not share content that you are now allowed to share.
+* Do not share content that you are not allowed to share. Only share things you either made yourself or things that the creator explicitly allowed you to share.
 * Do not share copyrighted content.
+* Do not use misleading content preview icons. Icons should not misrepresent the actual content.
 * Do not share any sexual content or content containing explicit nudity. If it can't be shown on Twitch, do not upload it to the Workshop.
 
 If your content breaks these rules, it may be banned from the Workshop.
 
 ## Sharing content
 
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/workshop_vts_1.png]]
+
 ## Updating previously shared content
 
 ## Downloading random items from the Workshop into the scene
 
-[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/workshop_vts_1.png]]
+
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/workshop_vts_2.png]]
 
