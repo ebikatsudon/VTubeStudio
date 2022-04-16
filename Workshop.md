@@ -8,6 +8,7 @@ You can share any content on the VTube Studio Steam Workshop as long as you foll
 
 * Do not share content that you are not allowed to share. Only share things you either made yourself or things that the creator explicitly allowed you to share.
 * Do not share copyrighted content.
+* Do not re-share any content you've downloaded from the Workshop.
 * Do not use misleading content preview icons. Icons should not misrepresent the actual content.
 * Do not share any sexual content or content containing explicit nudity. If it can't be shown on Twitch, do not upload it to the Workshop.
 
@@ -19,7 +20,11 @@ Before you can share/download content, you have to agree to the **Steam Workshop
 
 Once you've done that, make sure you have started VTube Studio through Steam and Steam is running and connected to the internet. Click the Steam icon in the main menu and select what you want to do.
 
+If you want to share a model, **make sure that model is currently loaded**. If you want to share an item, **make sure that item is loaded** (only that item and no other item).
+
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/workshop_vts_1.png]]
+
+You 
 
 ## Updating previously shared content
 
