@@ -60,13 +60,20 @@ The search results will then be shown in a list. You can upvote/downvote items d
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/workshop_vts_5.png]]
 
-After downloading models and items, they will be saved into the normal "Live2DModels" and "Items" folders. However, they will follow a special naming pattern which identifies them as Workshop content:
+After downloading models and items, they will be saved into the normal "Live2DModels" and "Items" folders. VTube Studio will also automatically subscribe to content on the Steam Workshop when you download them to keep track of what you've downloaded. However, VTube Studio will never auto-update any downloaded content. If the uploader updates an item/model, you have to re-download them manually to get the updates.
+
+Downloaded content will follow a special naming pattern which identifies it as Workshop content and prevents items/models with the same name overwriting each other:
 
 * **Models**
   * `<original-model-folder_name>`**\_workshop\_**`<workshop-id>`
   * Example: If the original model folder was `my_model`, it will become `my_model_workshop_1234567`, the number at the end being its Workshop ID
+* **Items**
+  * **\workshop\_**`<workshop-id>`**_**`<original-item-filename>`
+  * Example: If the original item file was `my_item.png`, it will become `workshop_7654321_my_item.png`, the number at the end being its Workshop ID
 
 ## Downloading random items from the Workshop into the scene
+
+You can use 
 
 ## Making sure you don't accidentally share models
 
