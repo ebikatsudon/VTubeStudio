@@ -1,1 +1,0 @@
-VTube Studio lets you upload and download content using the **Steam Workshop**.
