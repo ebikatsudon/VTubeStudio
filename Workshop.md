@@ -15,6 +15,8 @@ If your content breaks these rules, it may be banned from the Workshop.
 
 ## Sharing content
 
+First, make sure you have started VTube Studio through Steam and Steam is running and connected to the internet. Click the Steam icon in the main menu and select what you want to do.
+
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/workshop_vts_1.png]]
 
 ## Updating previously shared content
