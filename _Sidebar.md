@@ -38,6 +38,7 @@ VTS Manual
 * [[VTube Studio Model File]]
 * [[Copy config between models]]
 * [[Sending data to VSeeFace]]
+* [[Steam Workshop]]
 * [How to fix lag issues](https://github.com/DenchiSoft/VTubeStudio/wiki/Lag-Troubleshooting)
 * [How to fix webcam issues](https://github.com/DenchiSoft/VTubeStudio/wiki/Webcam-Troubleshooting)
 * [[FAQ]]
