@@ -81,7 +81,7 @@ Sharing models requires navigating through multiple menus and explicitly clickin
 
 If you are a Live2D rigger, I would recommend turning this on for models you send to your clients just to be on the safe side.
 
-[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/workshop_vts_6.png]]
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/workshop_vts_62.png]]
 
 
 
