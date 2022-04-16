@@ -50,11 +50,20 @@ If you want to update the actual files, make sure you have the new files loaded 
 
 You can use various filters and sorting methods when searching for items/models on the Workshop.
 
-There is also the option to search only for "verified" workshop content
+Please be aware that anyone can upload content to the Workshop. Content that's not allowed (for example sexual content) will be removed, but that usually takes a while, so be careful when browsing the workshop and don't do it on stream.
+
+There is also the option to search only for "verified" workshop content. This content is uploaded by people who make high-quality VTuber assets and can be considered stream-safe.
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/workshop_vts_4.png]]
 
+The search results will then be shown in a list. You can upvote/downvote items directly from that list.
+
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/workshop_vts_5.png]]
+
+After downloading models and items, they will be saved into the normal "Live2DModels" and "Items" folders. However, they will follow a special naming pattern which identifies them as Workshop content:
+
+* **Models**
+  * <original-model-folder_name>
 
 ## Downloading random items from the Workshop into the scene
 
