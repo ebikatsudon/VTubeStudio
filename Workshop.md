@@ -42,7 +42,9 @@ After the upload, it may take up to 5 minutes (usually takes around 2) for the c
 
 ## Updating previously shared content
 
-You can u
+You can update all data of previously shared content, including metadata (artist, icon, etc.) and the actual files.
+
+If you want to update the actual files, make sure you have the new files loaded when selecting the "Upload item/model" option. You will then have the option to add these new files on the upload screen.
 
 ## Downloading random items from the Workshop into the scene
 
