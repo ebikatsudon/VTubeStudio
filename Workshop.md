@@ -68,19 +68,20 @@ Downloaded content will follow a special naming pattern which identifies it as W
   * `<original-model-folder_name>`**\_workshop\_**`<workshop-id>`
   * Example: If the original model folder was `my_model`, it will become `my_model_workshop_1234567`, the number at the end being its Workshop ID
 * **Items**
-  * **\workshop\_**`<workshop-id>`**_**`<original-item-filename>`
+  * **workshop\_**`<workshop-id>`**_**`<original-item-filename>`
   * Example: If the original item file was `my_item.png`, it will become `workshop_7654321_my_item.png`, the number at the end being its Workshop ID
 
 ## Downloading random items from the Workshop into the scene
 
-You can use 
+You can set up hotkeys for your model that download a randomly selected item from the Steam Workshop directly into the scene. It goes without saying that it's not recommended to do that live on Stream.
 
 ## Making sure you don't accidentally share models
 
+Sharing models requires navigating through multiple menus and explicitly clicking "yes, I want to share this model" multiple times. It should be pretty much impossible to do it accidentally, but as an additional layer of security, there's a new switch that you can turn on that will prevent your model from being shared (will show "sharing this model is restricted" when you try).
 
+If you are a Live2D rigger, I would recommend turning this on for models you send to your clients just to be on the safe side.
 
-
-
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/workshop_vts_6.png]]
 
 
 
