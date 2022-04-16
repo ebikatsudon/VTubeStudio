@@ -2,6 +2,8 @@ VTube Studio lets you upload and download content using the **Steam Workshop**.
 
 Currently, you can upload models and [items](https://github.com/DenchiSoft/VTubeStudio/wiki/Item-System) to the [Workshop](https://steamcommunity.com/app/1325860/workshop/).
 
+You can upload/download/browse Workshop content directly from within VTube Studio. You can also browse it on the Steam website: https://steamcommunity.com/app/1325860/workshop/
+
 ## Workshop Rules
 
 You can share any content on the VTube Studio Steam Workshop as long as you follow these rules:
