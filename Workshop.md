@@ -24,13 +24,25 @@ If you want to share a model, **make sure that model is currently loaded**. If y
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/workshop_vts_1.png]]
 
-When sharing items, you can provide an artist. For models, you can provide a modeler and artist. They will both be shown when viewing the content in the Workshop search in VTube Studio. If you want people to always credit you when they use your content, please indicate that by setting the switch accordingly. All of this data can be changed later by updating the Workshop content.
+When sharing items, you can provide an artist. For models, you can provide a modeler and artist. They will both be shown when viewing the content in the Workshop search in VTube Studio.
+
+If you want people to always credit you when they use your content, please indicate that by setting the switch accordingly. All of this data can be changed later by updating the Workshop content.
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/workshop_vts_2.png]]
 
+Before the upload starts, you will see a list of files that will be uploaded. Please look through that list _carefully_ to make sure there's nothing in there that you don't want uploaded. VTube Studio will not upload any unrelated files that are not required for models/items to work (like .pdf and such).
+
+If you have any model/art source files in there (like .cmo3 or .psd), VTube Studio will warn you before the upload and ask if you really want to share them.
+
+After clicking "OK", the upload will start.
+
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/workshop_vts_3.png]]
+
+After the upload, it may take up to 5 minutes (usually takes around 2) for the content to be searchable in the Workshop within VTS. You can also add additional preview images to the Workshop content by opening the Steam Workshop page in a browser and adding them there. These additional preview images will also be visible from within VTube Studio.
+
 ## Updating previously shared content
 
-
+You can u
 
 ## Downloading random items from the Workshop into the scene
 
@@ -38,7 +50,6 @@ When sharing items, you can provide an artist. For models, you can provide a mod
 
 
 
-[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/workshop_vts_3.png]]
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/workshop_vts_4.png]]
 
