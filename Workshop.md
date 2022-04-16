@@ -64,6 +64,7 @@ After downloading models and items, they will be saved into the normal "Live2DMo
 
 * **Models**
   * `<original-model-folder_name>`**\_workshop\_**`<workshop-id>`
+  * Example: If the original model folder was `my_model`, it will become `my_model_workshop_1234567`, the number at the end being its Workshop ID
 
 ## Downloading random items from the Workshop into the scene
 
