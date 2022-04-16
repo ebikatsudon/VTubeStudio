@@ -46,14 +46,25 @@ You can update all data of previously shared content, including metadata (artist
 
 If you want to update the actual files, make sure you have the new files loaded when selecting the "Upload item/model" option. You will then have the option to add these new files on the upload screen.
 
-## Downloading random items from the Workshop into the scene
+## Downloading content
 
+You can use various filters and sorting methods when searching for items/models on the Workshop.
 
-
-
-
+There is also the option to search only for "verified" workshop content
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/workshop_vts_4.png]]
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/workshop_vts_5.png]]
+
+## Downloading random items from the Workshop into the scene
+
+## Making sure you don't accidentally share models
+
+
+
+
+
+
+
+
 
