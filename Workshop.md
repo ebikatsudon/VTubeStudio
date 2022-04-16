@@ -24,15 +24,19 @@ If you want to share a model, **make sure that model is currently loaded**. If y
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/workshop_vts_1.png]]
 
-You 
+When sharing items, you can provide an artist. For models, you can provide a modeler and artist. They will both be shown when viewing the content in the Workshop search in VTube Studio. If you want people to always credit you when they use your content, please indicate that by setting the switch accordingly. All of this data can be changed later by updating the Workshop content.
+
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/workshop_vts_2.png]]
 
 ## Updating previously shared content
+
+
 
 ## Downloading random items from the Workshop into the scene
 
 
 
-[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/workshop_vts_2.png]]
+
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/workshop_vts_3.png]]
 
