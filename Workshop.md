@@ -11,7 +11,7 @@ You can share any content on the VTube Studio Steam Workshop as long as you foll
 * Do not share content that you are not allowed to share. Only share things you either made yourself or things that the creator explicitly allowed you to share.
 * Do not share copyrighted content.
 * Do not re-share any content you've downloaded from the Workshop.
-* Do not use misleading content preview icons. Icons should not misrepresent the actual content.
+* Do not use misleading preview icons. Icons should not misrepresent the actual content.
 * Do not share any sexual content or content containing explicit nudity. If it can't be shown on Twitch, do not upload it to the Workshop.
 
 If your content breaks these rules, it may be banned from the Workshop.
