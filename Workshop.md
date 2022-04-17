@@ -30,7 +30,7 @@ When sharing items, you can provide an artist. For models, you can provide a mod
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/hint_top.png]]
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/bunny_point.png|alt="Important Point!!"|height=59px|width=189px]]<br/>
-If you put a **valid Twitter URL** in the "Artist" and/or "Modeler" fields (like `https://twitter.com/YourName`), it will be shown as clickable Twitter link (like `@YourName`) to people browsing the Workshop in VTube Studio.
+If you put a **valid Twitter URL** in the `Artist` and/or `Modeler` fields (like `https://twitter.com/YourName`), it will be shown as clickable Twitter link (like `@YourName`) to people browsing the Workshop in VTube Studio.
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/hint_bottom.png]]
 
