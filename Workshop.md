@@ -90,6 +90,8 @@ You can set up hotkeys for your model that download a randomly selected item fro
 
 Sharing models requires navigating through multiple menus and explicitly clicking **"yes, I want to share this model"** multiple times. It should be pretty much impossible to do it accidentally, but as an additional layer of security, there's a switch that you can turn on that will prevent your model from being shared (will show "sharing this model is restricted" when you try).
 
+For new models, this is **ON by default**, meaning you have to turn it off first before you can share them.
+
 **IMPORTANT: If you are a Live2D rigger, I would recommend turning this on for models you send to your clients just to be on the safe side.**
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/workshop_vts_6.png]]
