@@ -28,6 +28,13 @@ If you want to share a model, **make sure that model is currently loaded**. If y
 
 When sharing items, you can provide an artist. For models, you can provide a modeler and artist. They will both be shown when viewing the content in the Workshop search in VTube Studio.
 
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/hint_top.png]]
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/bunny_point.png|alt="Important Point!!"|height=59px|width=189px]]<br/>
+If you put a **valid Twitter URL** in the "Artist" and/or "Modeler" fields (like `https://twitter.com/YourName`), it will be shown as clickable Twitter link (like `@YourName`) to people browsing the Workshop in VTube Studio.
+
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/hint_bottom.png]]
+
+
 You also have to add an icon. The icon has to be a square and at least 200 pixels big in each dimension and under 1 MB in size. VTS auto-generates icons for items, but you can change the icon by clicking it and selecting a different file. For items, files in the **"WorkshopPreviews"** can be used and for models, files in the model folder can be used (PNG or JPG).
 
 If you want people to always credit you when they use your content, please indicate that by setting the switch accordingly. All of this data can be changed later by updating the Workshop content.
