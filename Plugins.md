@@ -22,6 +22,9 @@ For info on how to use those plugins, please check out the linked plugin website
 * **[Cheers Bot](https://cheers.hawk.bar/)**
   * By HawkBar
   * Trigger hotkeys, model changes and more based on Twitch stream events (donations, etc.)
+* **[ViewLink](https://kawaentertainment.itch.io/viewlink)**
+  * By Kawa Entertainment
+  * Are you a VTuber that wants to stream VR games, but only have a Live2D model? With ViewLink, you can have your Live2D avatar react to VR gameplay without any fancy setup or additional hardware!
 * **[VTS React](https://vts-react.fugi.tech)**
   * By Fugi and Iron Vertex
   * Easy to use web-based Twitch/YouTube integration for VTube Studio.
