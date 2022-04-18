@@ -92,7 +92,7 @@ Sharing models requires navigating through multiple menus and explicitly clickin
 
 For new models, this is **ON by default**, meaning you have to turn it off first before you can share them.
 
-**IMPORTANT: If you are a Live2D rigger, I would recommend turning this on for models you send to your clients just to be on the safe side.**
+**IMPORTANT: If you are a Live2D rigger, I would recommend making sure this is on for models you send to your clients just to be on the safe side.**
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/workshop_vts_6.png]]
 
