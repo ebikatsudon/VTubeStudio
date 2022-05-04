@@ -123,6 +123,10 @@ Windows supports all features. MacOS does not support transparent backgrounds wi
 
 Also, webcam tracking for macOS is highly experimental and will most likely stay that way. Please keep that in mind when using VTube Studio for macOS.
 
+## I hear some audio crackling in my headphones/recordings when running the app on Windows...
+
+Not sure what causes this. This has happened to some people in the past. Usually, updating their GPU drivers has fixed the issue.
+
 ## Why does the app lag? Why does it eat so much CPU/GPU?
 
 Lag is almost always caused by network issues. As a first thing to try, restart your router/switches, PC and smartphone. If the issues persist, check the chapter ["Connection Issues & Troubleshooting"](https://github.com/DenchiSoft/VTubeStudio/wiki/Connection-Issues-%26amp%3B-Troubleshooting).
