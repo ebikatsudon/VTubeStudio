@@ -23,7 +23,7 @@ For info on how to use those plugins, please check out the linked plugin website
   * By HawkBar
   * Trigger hotkeys, model changes and more based on Twitch stream events (donations, etc.)
 * **[Audiomimi](https://ko-fi.com/s/25d2b6bafa)**
-  * By Artemiz
+  * By Artemiz and Mokunine
   * Audiomimi is a VTube Studio plugin that allows you to use sound effects based on VTS parameter movement.
 * **[ViewLink](https://kawaentertainment.itch.io/viewlink)**
   * By Kawa Entertainment
