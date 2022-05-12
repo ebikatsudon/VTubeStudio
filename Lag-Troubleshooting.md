@@ -45,6 +45,10 @@ Make sure whatever game you're playing together with VTube Studio doesn't have t
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/fps_setting_nvidia_control_panel.png]]
 
+## Fix the FPS in your GPU driver
+
+For some reason, sometimes the FPS value set in VTube Studio is ignored, causing it to run uncapped. You can set a fixed FPS value in your GPU driver. If you have a NVIDIA GPU, right-click on your desktop and click on `Nvidia Control Panel` from the menu. From there, you can set a fixed FPS limit for applications (please use Google to find out how).
+
 ## Turn off "Hardware Accelerated GPU Scheduling"
 
 HAGS can cause issues when running a game and VTube Studio at the same time. Check Google (or for example [this page](https://www.tenforums.com/tutorials/150440-turn-off-hardware-accelerated-gpu-scheduling-windows-10-a.html)) for info on how to do that.
