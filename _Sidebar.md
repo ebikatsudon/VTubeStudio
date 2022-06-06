@@ -31,7 +31,7 @@ VTS Manual
 * [Connection Issues & Troubleshooting](https://github.com/DenchiSoft/VTubeStudio/wiki/Connection-Issues-&-Troubleshooting)
 * [[Taking/Sharing Screenshots]]
 * [[Item System]]
-* [[Live2D-Items]
+* [[Live2D-Items]]
 * [[Record Animations]]
 * [[Add Special ArtMesh Functionality]]
 * [Item Scenes & Item Hotkeys](https://github.com/DenchiSoft/VTubeStudio/wiki/Item-Scenes-and-Item-Hotkeys)
