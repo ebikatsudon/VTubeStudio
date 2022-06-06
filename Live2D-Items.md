@@ -40,5 +40,15 @@ Finally, you can adjust the **“Dragging Physics”**. Dragging physics will pu
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/configure_item_live2d.png]]
 
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/live2d_items_adjust_params_with_button.png]]
+
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/hint_top.png]]
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/bunny_point.png|alt="Important Point!!"|height=59px|width=189px]]<br/>
+Dragging physics can also be used for normal VTube Studio models. You can set that up in their physics settings tab.
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/hint_bottom.png]]
+
+
+
+
 
 
