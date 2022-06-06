@@ -12,7 +12,7 @@ You could for example have animated hats, guns that aim depending on your face a
   <img src="https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/pudding_head_gif.gif" />
 </p>
 
-When set up correctly, their physics setup will also react when they’re attached to your model and your model moves them.
+When set up correctly, their physics setup will also react when they're attached to your model and your model moves them.
 
 ## How do I load/use Live2D Items?
 
@@ -22,7 +22,7 @@ You load them like regular items. You can also filter the item list to only show
 
 When you flip a Live2D item, its X/Z axes will be inverted. That way, items like animal ears can easily be loaded into the scene twice, with one of them flipped, and they will rotate correctly.
 
-To flip an item that’s been loaded into the scene already, you can **[CTRL] + Click** it. 
+To flip an item that's been loaded into the scene already, you can **[CTRL] + Click** it. 
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/live2d_items_select.png]]
 
@@ -30,13 +30,13 @@ To flip an item that’s been loaded into the scene already, you can **[CTRL] + 
 
 Sometimes, items were made with models in mind that rotate more/less than your own model in the X/Y head direction. This can be important for assets like glasses.
 
-This can easily be fixed by selecting the item you want to configure and pressing the **“Configure/Finetune Live2D Item”**. From there, you can set multipliers for the “ParamAngleX/Y/Z” Live2D output parameters the Live2D item model uses. You can also finetune the smoothing values used by the respective parameters of the Live2D item here.
+This can easily be fixed by selecting the item you want to configure and pressing the **"Configure/Finetune Live2D Item"**. From there, you can set multipliers for the "ParamAngleX/Y/Z" Live2D output parameters the Live2D item model uses. You can also finetune the smoothing values used by the respective parameters of the Live2D item here.
 
-The **“Return to default when not pinned”** option will make the item return the “ParamAngleX/Y/Z”  parameter values to their default when the item is not pinned. That way, you could for example prevent glasses from rotating/deforming when they’re not actually pinned to your model. 
+The **"Return to default when not pinned"** option will make the item return the "ParamAngleX/Y/Z"  parameter values to their default when the item is not pinned. That way, you could for example prevent glasses from rotating/deforming when they're not actually pinned to your model. 
 
-If you activate **“Use normal hotkey triggers”**, the normal key combinations set to trigger hotkeys in the item’s VTS model can be used to actually trigger the hotkeys when the item is loaded.
+If you activate **"Use normal hotkey triggers"**, the normal key combinations set to trigger hotkeys in the item's VTS model can be used to actually trigger the hotkeys when the item is loaded.
 
-Finally, you can adjust the **“Dragging Physics”**. Dragging physics will push the physics inputs left/right when the item is being dragged or is moving because it is attached to the main model. 
+Finally, you can adjust the **"Dragging Physics"**. Dragging physics will push the physics inputs left/right when the item is being dragged or is moving because it is attached to the main model. 
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/configure_item_live2d.png]]
 
@@ -100,7 +100,7 @@ Setting "Screen" and "Multiply" overlays via normal Live2D parameters (_Live2D C
 
 Live2D items are essentially just normal VTube Studio models.
 
-First, load the VTube Studio model you want to set up as Live2D item. Then do all the normal setup that you would normally do for a VTube Studio model. When you’re happy with how it looks, open the item  menu and select the **"Load current model as Live2D Item"** option.
+First, load the VTube Studio model you want to set up as Live2D item. Then do all the normal setup that you would normally do for a VTube Studio model. When you're happy with how it looks, open the item  menu and select the **"Load current model as Live2D Item"** option.
 
 All this does is, it copies the currently loaded model's folder into the **"Items"** folder and loads it as Live2D item. You can then load another model and attach your new Live2D item to it. 
 
@@ -108,7 +108,7 @@ All this does is, it copies the currently loaded model's folder into the **"Item
 
 There are no limits to what a Live2D item can be, so you could even load fully modeled Live2D models or use this to load multiple instances of your main Live2D model. However, loading multiple big/complex models will definitely freeze the app for a couple seconds when loading and having many big models active in the scene may not work well unless you have a strong CPU.
 
-Generally, it’s recommended to only use simple Live2D models as Live2D items, such as glasses, drinks, ears, etc.
+Generally, it's recommended to only use simple Live2D models as Live2D items, such as glasses, drinks, ears, etc.
 
 Specifically, it is recommended to not use Live2D texture map resolutions higher than 1024 or 2048 for your Live2D items to ensure a smooth experience.
 
