@@ -1,6 +1,6 @@
 **Note:** If you want to learn how to use hotkeys to spawn items, check out [this page](https://github.com/DenchiSoft/VTubeStudio/wiki/Item-Scenes-and-Item-Hotkeys).
 
-For information about Live2D-Items in VTube Studio, check out [this other page](https://github.com/DenchiSoft/VTubeStudio/wiki/Live2D-Items).
+For information about **Live2D-Items** in VTube Studio, check out [this other page](https://github.com/DenchiSoft/VTubeStudio/wiki/Live2D-Items).
 
 ## Loading Items into the Scene
 
