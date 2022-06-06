@@ -8,7 +8,9 @@ In addition to [normal PNG, JPG and animated assets](https://github.com/DenchiSo
 
 You could for example have animated hats, guns that aim depending on your face angle and shoot when you click with your mouse or glasses that properly rotate with your head.
 
-<<<reminder to self to put a bunch of GIFs here when making the wiki page>>>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/pudding_head_gif.gif" />
+</p>
 
 When set up correctly, their physics setup will also react when they’re attached to your model and your model moves them.
 
