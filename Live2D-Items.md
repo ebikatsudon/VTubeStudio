@@ -95,3 +95,28 @@ Setting "Screen" and "Multiply" overlays via normal Live2D parameters (_Live2D C
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/live2d_item_recolor.png]]
 
+
+## How do I make my own Live2D Items?
+
+Live2D items are essentially just normal VTube Studio models.
+
+First, load the VTube Studio model you want to set up as Live2D item. Then do all the normal setup that you would normally do for a VTube Studio model. When you’re happy with how it looks, open the item  menu and select the **"Load current model as Live2D Item"** option.
+
+All this does is, it copies the currently loaded model's folder into the **"Items"** folder and loads it as Live2D item. You can then load another model and attach your new Live2D item to it. 
+
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/live2d_items_select.png]]
+
+There are no limits to what a Live2D item can be, so you could even load fully modeled Live2D models or use this to load multiple instances of your main Live2D model. However, loading multiple big/complex models will definitely freeze the app for a couple seconds when loading and having many big models active in the scene may not work well unless you have a strong CPU.
+
+Generally, it’s recommended to only use simple Live2D models as Live2D items, such as glasses, drinks, ears, etc.
+
+Specifically, it is recommended to not use Live2D texture map resolutions higher than 1024 or 2048 for your Live2D items to ensure a smooth experience.
+
+## VTube Studio says my models are using too many masks. What do I do?
+
+Live2D has certain limits for clipping masks. By default, 64 masks are allowed for all loaded models combined. This number can be increased by using the "Live2D Mask Config" in VTube Studio.
+
+If you increase the number of masks, make sure the resolution per mask is high enough, otherwise some bigger masks may have blurred outlines. The setting **"256 masks with 512x512 pixels per mask"** is recommended.
+
+
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/live2d_model_mask_config.png]]
