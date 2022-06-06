@@ -8,8 +8,8 @@ Wanna see some examples? Just search ["VTube Studio" on Twitter](https://twitter
 
 This online manual contains information about all features of VTube Studio, as well as a few tutorials. Please scroll down and choose a topic from the main menu.
 
-**This manual is also available in Chinese:** <br>
-**本手册也有中文版本，由@Elegetic 与 @genthz 翻译，详见：** <br><br>
+**This manual is also available in Chinese:**  <br>
+**本手册也有中文版本，由@Elegetic 与 @genthz 翻译，详见：**  <br><br>
 https://github.com/Elegetic/VTubeStudio/wiki
 
 [[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/screenshots/screenshots_all.png|alt="Screenshots"]]](https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/screenshots/screenshots_all.png)
