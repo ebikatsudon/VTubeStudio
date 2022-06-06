@@ -47,8 +47,34 @@ Finally, you can adjust the **“Dragging Physics”**. Dragging physics will pu
 Dragging physics can also be used for normal VTube Studio models. You can set that up in their physics settings tab.
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/hint_bottom.png]]
 
+## How do I trigger Hotkeys in my Live2D Items?
 
+### Option A: _Using normal hotkeys_
 
+If you have activated **"Use normal hotkey triggers"** for the Live2D item, you can use the normal keyboard trigger keys set up in the VTube Studio model of the item to trigger them, as long as they are related to expressions or animations.
 
+### Option B: _ Using "Item Actions" set up in your main model _
 
+You can trigger hotkeys that have been set up in the Live2D item via hotkeys of your main model. Only hotkeys that meet the following requirements can be triggered this way:
 
+1. Hotkey must be of type **"Expression"**, **"Remove Expressions"** or **"Animation (idle/normal)"**
+2. Hotkey must have a name set. The name cannot be empty.
+
+You can set up a hotkey in your model of type **"Live2D Item Action"**:
+
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/live2d_items_action_hotkey_1.png]]
+
+When you set up a hotkey of that type, it will show you a list of all hotkeys in all your Live2D items. So when you trigger that hotkey, it will trigger the selected hotkey in the selected item (but only if it is loaded).
+
+If you have multiple instances loaded of the same Live2D item, this will trigger the hotkey in all of them.
+
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/hint_top.png]]
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/bunny_point.png|alt="Important Point!!"|height=59px|width=189px]]<br/>
+Like normal items, Live2D items can be loaded/unloaded via **"Item Scene" hotkeys**.
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/hint_bottom.png]]
+
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/live2d_items_action_hotkey_2.png]]
+
+Alternatively, you can also select the options **"Hotkey 1/2/3/4 of last clicked Live2D Item"**. Using this hotkey lets you trigger the X-th (supported) hotkey in the last clicked loaded/clicked Live2D item.
+
+## Can I change the color of some parts of the Live2D Items (for example skin color)?
