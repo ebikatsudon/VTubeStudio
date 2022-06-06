@@ -1,5 +1,7 @@
 **Note:** If you want to learn how to use hotkeys to spawn items, check out [this page](https://github.com/DenchiSoft/VTubeStudio/wiki/Item-Scenes-and-Item-Hotkeys).
 
+For information about Live2D-Items in VTube Studio, check out [this other page](https://github.com/DenchiSoft/VTubeStudio/wiki/Live2D-Items).
+
 ## Loading Items into the Scene
 
 You can import your own props ("items" or "assets") directly into the scene and even attach them to your Live2D model.
@@ -63,6 +65,10 @@ You can `[Ctrl] + Click` items to flip them (only if not locked).
 Most of the free included items/props have been provided by **@catboymech** and **@7MDigital** on Twitter. They have many other great VTuber assets as well, so please make sure to follow and thank them!! \<3
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/hint_bottom.png]]
+
+## Using Live2D Models as Items
+
+You can also use Live2D models as items. For more info, see [this page](https://github.com/DenchiSoft/VTubeStudio/wiki/Live2D-Items).
 
 ## Item Drag & Drop
 
