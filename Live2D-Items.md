@@ -1,6 +1,6 @@
-For information about items/assets/props in _VTube Studio_ in general, check out [this other page](https://github.com/DenchiSoft/VTubeStudio/wiki/Item-System).
+**Note:** This page uses the words _"item"_, _"asset"_ and _"prop"_. They refer to the same thing. 
 
-**Note:** This page uses the words "item", "asset" and "prop". They refer to the same thing. 
+For information about items/assets/props in _VTube Studio_ in general, check out [this other page](https://github.com/DenchiSoft/VTubeStudio/wiki/Item-System).
 
 ## What are Live2D Items?
 
