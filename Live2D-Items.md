@@ -53,7 +53,7 @@ Dragging physics can also be used for normal VTube Studio models. You can set th
 
 If you have activated **"Use normal hotkey triggers"** for the Live2D item, you can use the normal keyboard trigger keys set up in the VTube Studio model of the item to trigger them, as long as they are related to expressions or animations.
 
-### Option B: _ Using "Item Actions" set up in your main model _
+### Option B: _Using "Item Actions" set up in your main model_
 
 You can trigger hotkeys that have been set up in the Live2D item via hotkeys of your main model. Only hotkeys that meet the following requirements can be triggered this way:
 
@@ -78,3 +78,20 @@ Like normal items, Live2D items can be loaded/unloaded via **"Item Scene" hotkey
 Alternatively, you can also select the options **"Hotkey 1/2/3/4 of last clicked Live2D Item"**. Using this hotkey lets you trigger the X-th (supported) hotkey in the last clicked loaded/clicked Live2D item.
 
 ## Can I change the color of some parts of the Live2D Items (for example skin color)?
+
+For some items, you may want to change the colors of certain parts. For example, you could change the skin color of assets that contain hands to match the skin color of your model. Other uses include re-coloring drinks, glasses and much more.
+
+To that, load the Live2D item you want to re-color using the **"Configure/Finetune Live2D Item"** button. After pressing **"Save"**, you will see this prompt:
+
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/live2d_item_recolor_yes_no.png]]
+
+From there, you can now configure a "multiply" and "screen" color per ArtMesh. When applying these settings, they will be saved into your model file so whenever you next load that item, it will have your color settings applied (including when you load the Live2D Item via Item Hotkeys).
+
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/hint_top.png]]
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/bunny_point.png|alt="Important Point!!"|height=59px|width=189px]]<br/>
+Setting "Screen" and "Multiply" overlays via normal Live2D parameters (_Live2D Cubism 4.2_ and up) will no longer work for the ArtMeshes you re-color using this menu.
+
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/hint_bottom.png]]
+
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/live2d_item_recolor.png]]
+
