@@ -112,6 +112,18 @@ Generally, it's recommended to only use simple Live2D models as Live2D items, su
 
 Specifically, it is recommended to not use Live2D texture map resolutions higher than 1024 or 2048 for your Live2D items to ensure a smooth experience.
 
+## I want to drag my Live2D Items but it's hard because I have to click exactly on the model
+
+This can happen for assets like glasses. You may want to drag them in the center, but there is no ArtMesh in the center of the glasses: the model is invisible there. Because of that, VTube Studio can only drag the model when you click on the lenses of the glasses.
+
+A simple fix is to add a **"hitbox"** ArtMesh to the Live2D model. That's an ArtMesh which is invisible and only used for click detection.
+
+To create one, choose _"Modeling"_ => _"ArtMesh"_ => _"Create ArtMesh for collision detection"_. You may then edit the created transparent ArtMesh into any shape you want. You can also create multiple **"hitbox"** ArtMeshes. Just make sure they are properly placed on the texture map when exporting the model from Live2D Cubism.
+
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/artmesh_coll_1.png]]
+
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/artmesh_coll_2.png]]
+
 ## VTube Studio says my models are using too many masks. What do I do?
 
 Live2D has certain limits for clipping masks. By default, 64 masks are allowed for all loaded models combined. This number can be increased by using the "Live2D Mask Config" in VTube Studio.
