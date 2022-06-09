@@ -79,6 +79,8 @@ Alternatively, you can also select the options **"Hotkey 1/2/3/4 of last clicked
 
 ## Can I change the color of some parts of the Live2D Items (for example skin color)?
 
+**IMPORTANT:** Many artists do not want their art to be modified and it can be considered rude to do so.If you re-color parts of your model and you didn't draw it yourself, please make sure you have the permission of your artist.
+
 For some items, you may want to change the colors of certain parts. For example, you could change the skin color of assets that contain hands to match the skin color of your model. Other uses include re-coloring drinks, glasses and much more.
 
 To that, load the Live2D item you want to re-color using the **"Configure/Finetune Live2D Item"** button. After pressing **"Save"**, you will see this prompt:
