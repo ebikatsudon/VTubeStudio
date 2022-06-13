@@ -11,6 +11,7 @@ The following functionality can be customized/added per ArtMesh for Live2D model
 * Exclude items from pinning to the ArtMesh.
 * Select ArtMeshes that delete items from the scene when you drop them on there.
 * Customize how the [Display Light Overlay System](https://github.com/DenchiSoft/VTubeStudio/wiki/Display-Light-Overlay) affects the ArtMesh.
+* Customize [multiply/screen color overlay](https://github.com/DenchiSoft/VTubeStudio/wiki/Recoloring-Models-and-Items) for ArtMeshes.
 
 This will be described in a bit more detail in the following sections.
 
@@ -31,3 +32,9 @@ With the [Display Light Overlay System](https://github.com/DenchiSoft/VTubeStudi
 You can customize how much this system affects parts of the model. Using this customization, you could for example make parts of your model (like the eyes) stand out more by making them "glow in the dark".
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/add_functionality_artmeshes_3.png|alt="Customize Lighting Overlay System"]]
+
+### Exclude items from pinning to the ArtMesh
+
+You can set a static multiply/screen color overlay for each ArtMesh and completely re-color your model that way, for example to change the hair or eye color.
+
+Please only ever do this after getting permission to do so from your artist. For more info on how to use this and also how to load recoloring presets using hotkeys, see [this page](https://github.com/DenchiSoft/VTubeStudio/wiki/Recoloring-Models-and-Items).
