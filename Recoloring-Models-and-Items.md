@@ -10,4 +10,8 @@
 
 You can recolor all ArtMeshes (parts of the model) in your main VTube Studio model and any [Live2D items](https://github.com/DenchiSoft/VTubeStudio/wiki/Live2D-Items) you load into the scene. You can also use hotkeys to save/load recoloring presets. **Please get permission from your artist first before doing this.**
 
-To recolor ArtMeshes of your currently loaded model, open the 
+To recolor ArtMeshes of your currently loaded model, open the model settings tab and click **"Customize Model"**. Then, choose **"Customize multiply/screen color for ArtMeshes"**.
+
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/add_functionality_artmeshes_1.png|alt="Adding functionality to ArtMeshes"]]
+
+
