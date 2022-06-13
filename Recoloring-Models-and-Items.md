@@ -14,4 +14,8 @@ To recolor ArtMeshes of your currently loaded model, open the model settings tab
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/add_functionality_artmeshes_1.png|alt="Adding functionality to ArtMeshes"]]
 
+This will let you set multiply and screen overlay colors for every ArtMesh. These color changes are saved with your model and loaded the next time you reload the model as well.
+
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/live2d_item_recolor.png|alt="Recoloring your model ArtMeshes"]]
+
 
