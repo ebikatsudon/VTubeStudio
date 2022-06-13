@@ -33,7 +33,7 @@ You can customize how much this system affects parts of the model. Using this cu
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/add_functionality_artmeshes_3.png|alt="Customize Lighting Overlay System"]]
 
-### Exclude items from pinning to the ArtMesh
+### Customize multiply/screen color overlay for ArtMeshes
 
 You can set a static multiply/screen color overlay for each ArtMesh and completely re-color your model that way, for example to change the hair or eye color.
 
