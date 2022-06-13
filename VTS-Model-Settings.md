@@ -173,6 +173,10 @@ Various actions can be triggered by hotkeys:
   * Toggles the specified Item Scene (has to be set up before). See also ["Item Scenes & Item Hotkeys"](https://github.com/DenchiSoft/VTubeStudio/wiki/Item-Scenes-and-Item-Hotkeys).
 * **Download random item from Steam Workshop into the scene**
   * Downloads a randomly selected item from the Steam Workshop into the scene. See also ["Steam Workshop"](https://github.com/DenchiSoft/VTubeStudio/wiki/Workshop).
+* **Live2D Item Action**
+  * Triggers a Hotkey in a loaded Live2D Item. For more info, see ["Live2D Items"](https://github.com/DenchiSoft/VTubeStudio/wiki/Live2D-Items).
+* **ArtMesh Color Preset**
+  * Loads a screen/multiply color preset for the model. Also works with Live2D Items. For more info, see ["Live2D Items"](https://github.com/DenchiSoft/VTubeStudio/wiki/Live2D-Items).
 
 For animations and expressions, there are a few extra settings you can use to customize fade times and animation playback behavior. For example, you can stop animations/expressions after a certain number of seconds or once the button is let go.
 
