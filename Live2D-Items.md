@@ -97,6 +97,11 @@ Setting "Screen" and "Multiply" overlays via normal Live2D parameters (_Live2D C
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/live2d_item_recolor.png]]
 
+You can also use **Hotkeys** to load these screen/multiply color presets for any model or Live2D item in the scene. To do that, prepare your model with the ArtMesh colors you want to register, then create a new hotkey of type **"ArtMesh Color Preset"**. Use the **"Record Settings"** button on the hotkey UI to record the current settings. This hotkey can then be used to load/unload that screen/multiply color preset.
+
+You can also create a hotkey of that type with empty settings to create a hotkey that removes the currently loaded color preset for that model.
+
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/live2d_item_recolor_hotkey.png]]
 
 ## How do I make my own Live2D Items?
 
