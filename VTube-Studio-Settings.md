@@ -50,7 +50,7 @@ When enabled ("Use microphone" switch), you will be able to use three additional
 
 When you speak, VTube Studio analyzes your speech and extracts the phonemes (**A, I, U, E, O, Other**) from your speech. You will see the squares at the bottom (see image above) turn dark when a specific phoneme is detected.
 
-You can click each phoneme to turn it **red (-)**, **green (+)** or **neutral**. Depending on that, when this specific phoneme is detected, it will push the **VoiceFrequency **parameter up or down (and with that also your mouth shape, if you use this parameter).
+You can click each phoneme to turn it **red (-)**, **green (+)** or **neutral**. Depending on that, when this specific phoneme is detected, it will push the **VoiceFrequency** parameter up or down (and with that also your mouth shape, if you use this parameter).
 
 <br/>
 <p align="center">
