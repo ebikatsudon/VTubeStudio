@@ -1,6 +1,20 @@
 VTube Studio is only available via Steam and all updates will distributed that way. However, once downloaded, **you can start VTube Studio without Steam**.
 
-You can even start VTube Studio multiple times using the "Start VTube Studio" button on the first config tab.
+Use the `start_without_steam.bat` file next to the main VTube Studio `.exe`. 
+
+<br/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/start_without_steam.png"/>
+</p>
+<br/>
+
+On macOS, it is located here: `~/Library/Application Support/Steam/steamapps/common/VTube Studio`. Since the "Library" folder is hidden on macOS, it can be a bit hard to access. Please take a look at this page for details on how to access it: https://forums.macrumors.com/threads/how-to-find-steam-apps-folder-location-on-mac.2303715/
+
+### Starting VTube Studio multiple times.
+
+Using the `start_without_steam` file, you can even start VTube Studio multiple times.
+
+If you have started VTube Studio once (with or without Steam), you can also start VTube Studio multiple times using the "Start VTube Studio" button on the first config tab.
 
 <br/>
 <p align="center">
@@ -9,14 +23,6 @@ You can even start VTube Studio multiple times using the "Start VTube Studio" bu
 <br/>
 
 When you start multiple instances of VTube Studio, the ports for the network server and API you selected will already be taken, so they will be started on the next available port.
-
-Alternatively, you can use the `start_without_steam.bat` file next to the main VTube Studio `.exe`. 
-
-<br/>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/start_without_steam.png"/>
-</p>
-<br/>
 
 Then you can use multiple webcams or multiple smartphones to control the models. You can also use one webcam to control multiple instances of VTube Studio.
 When you start VTube Studio multiple times, the windows will have different titles (Windows-only, not supported on macOS) so they can easily be captured separately by OBS.
