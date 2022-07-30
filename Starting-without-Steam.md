@@ -10,7 +10,7 @@ Use the `start_without_steam.bat` file next to the main VTube Studio `.exe`.
 
 On macOS, it is located here: `~/Library/Application Support/Steam/steamapps/common/VTube Studio`. Since the "Library" folder is hidden on macOS, it can be a bit hard to access. Please take a look at this page for details on how to access it: https://forums.macrumors.com/threads/how-to-find-steam-apps-folder-location-on-mac.2303715/
 
-### Starting VTube Studio multiple times.
+### Starting VTube Studio multiple times
 
 Using the `start_without_steam` file, you can even start VTube Studio multiple times.
 
