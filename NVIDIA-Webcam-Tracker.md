@@ -12,7 +12,11 @@ In addition to tracking using OpenSeeFace, VTube Studio now supports high-qualit
 
 (art by [@GiruteaCafe](https://twitter.com/GiruteaCafe))
 
+<br/>
+
 This tracker is using GPU-accelerated NVIDIA machine learning technology, which makes it really fast and performant. Even at 60 FPS, the tracker uses very few CPU/GPU resources, so it's able to run smoothly along any other game.
+
+<br/>
 
 <img src="https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/nvidia_tracker_example.gif" width="800" /> 
 
@@ -47,6 +51,8 @@ I do not have any plans to add blendshape customization or curve editors directl
 ## What CPU/GPU usage can I expect?
 
 It depends on your CPU/GPU, but it should be fairly minimal, even at high framerates. On my RTX 3080, running the tracker at 60 FPS, both CPU and GPU usage stay below 5%.
+
+A lot of the tracking system (but not all of it) can be executed on the machine-learning-optimized **tensor-cores** of your NVIDIA RTX GPU. They aren't used by most video games, so they don't interfere with your gaming.
 
 Will add more data here once more people test it with different GPUs.
 
