@@ -90,6 +90,8 @@ Up to you. The current OpenSeeFace tracker is already really good, so if that wo
 
 I would recommend waiting until the update is out and then check out the comparisons people will make. I think this new tracker is definitely a nice option to have available.
 
+Also, if you already use VTS iPhone tracking or VBridger and you're happy with it, there is probably not much of a reason to change your setup for now.
+
 ## When can I test this?
 
 This feature will be included in **VTube Studio 1.22.0**, which will be released in the **first week of October 2022**. There may be an open/closed beta before that, check the [Discord](https://discord.gg/VTubeStudio) for more info.
