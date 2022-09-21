@@ -5,6 +5,10 @@ In addition to tracking using OpenSeeFace, VTube Studio now supports high-qualit
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/nvidia_broadcast_logo_full.png]]
 
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/rtx_on_smol.png]]
+
+(art by [@GiruteaCafe](https://twitter.com/GiruteaCafe))
+
 This tracker is using GPU-accelerated NVIDIA machine learning technology, which makes it really fast and performant. Even at 60 FPS, the tracker uses very few CPU/GPU resources, so it's able to run smoothly along any other game.
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/nvidia_tracker_example.gif]]
