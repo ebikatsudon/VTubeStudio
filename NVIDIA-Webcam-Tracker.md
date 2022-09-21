@@ -39,7 +39,7 @@ Not having to use multiple devices is really nice though, so definitely give the
 
 For the initial release, probably not. But I'll definitely give the VBridger-team access to everything required to make VBridger work with the new tracker so they can add support after the initial release if they want. We'll have to figure out how that's going to work, but there are a couple good ways I think. Shouldn't be too hard.
 
-I do not currently have any plans to add blendshape customization or curve editors directly in VTube Studio.
+I do not have any plans to add blendshape customization or curve editors directly in VTube Studio.
 
 ## What CPU/GPU usage can I expect?
 
