@@ -60,9 +60,11 @@ Will add more data here once more people test it with different GPUs.
 
 The latest info I have from NVIDIA right now is that "virtual avatars and tracking" are a big priority for them right now, so it is likely that there will be improvements to this tracker (which is kind of a nice change seeing how Apple haven't ever updated their face tracking).
 
+So improvements in quality/speed are likely.
+
 ## What about hand tracking?
 
-That isn't currently supported with this tracker but I would not be surprised if it's added eventually.
+That isn't currently supported with this tracker but NVIDIA are experimenting with various tracking types, so I would not be surprised if it's added eventually. I don't have any info about it though.
 
 ## What do I need?
 
