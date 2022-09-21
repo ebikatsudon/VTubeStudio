@@ -37,7 +37,9 @@ Not having to use multiple devices is really nice though, so definitely give the
 
 ## What CPU/GPU usage can I expect?
 
-It depends on your CPU/GPU, but it should be fairly minimal, even at high framerates. On my RTX 3070, 
+It depends on your CPU/GPU, but it should be fairly minimal, even at high framerates. On my RTX 3080, running the tracker at 60 FPS, both CPU and GPU usage stay below 5%.
+
+Will add more data here once more people test it with different GPUs.
 
 ## Will the NVIDIA Broadcast face tracker be improved?
 
@@ -49,9 +51,27 @@ That isn't currently supported with this tracker but I would not be surprised if
 
 ## What do I need?
 
-The only requirement is a NVIDIA RTX Series GPU and a webcam. All RTX GPUs are supported, so any RTX 20-series, 30-series or (upcoming) 40-series card will do, including laptop GPUs. GTX GPUs or GPUs from other vendors are not supported. Current Steam surveys show that about 30% of users have RTX cards and that number is increasing with each new NVIDIA GPU generation.
+The only requirement is a NVIDIA RTX Series GPU and a webcam (any webcam will do). All RTX GPUs are supported, so any RTX 20-series, 30-series or (upcoming) 40-series card will do, including laptop GPUs. GTX GPUs or GPUs from other vendors are not supported. Current Steam surveys show that about 30% of users have RTX cards and that number is increasing with each new NVIDIA GPU generation.
 
 If you are not sure if you have an RTX GPU, please follow [this guide](https://www.tomsguide.com/how-to/what-graphics-card-do-i-have) to find out. If your GPU name starts with "NVIDIA GeForce RTX", you have a supported GPU.
+
+## Does this work with glasses?
+
+I've tried it with glasses and the eye-tracking and wink-tracking seems to work fairly well. Of course, it depends on the webcam placement and lighting too.
+
+## Is the normal webcam tracking (OpenSeeFace) still available?
+
+Of course! This is just another option you can try out.
+
+## Can I use my existing models or do I need to change anything?
+
+Parameter ranges/setups will be as close to iOS tracking as I can get them, so all your existing models should work without any changes (except cheek-puff and tongue-tracking since they are not available with this tracker for now).
+
+## Should I buy a RTX GPU for this?
+
+Up to you. The current OpenSeeFace tracker is already really good, so if that works for you, there's no need to update your GPU for now (unless you were going to do it anyway).
+
+I would recommend waiting until the update is out and then check out the comparisons people will make. I think this new tracker is definitely a nice option to have available.
 
 ## When can I test this?
 
