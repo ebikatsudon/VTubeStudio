@@ -13,6 +13,11 @@ This tracker is using GPU-accelerated NVIDIA machine learning technology, which 
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/nvidia_tracker_example.gif]]
 
+# FAQ
+
+## What do I need?
+
 The only requirement is a NVIDIA RTX Series GPU. All RTX GPUs are supported, so any RTX 20-series, 30-series or (upcoming) 40-series card will do, including laptop GPUs. GTX GPUs or GPUs from other vendors are not supported. Current Steam surveys show that about 30% of users have RTX cards.
 
-If you are not sure if you have an RTX GPU, please follow [this guide](https://www.tomsguide.com/how-to/what-graphics-card-do-i-have) to find out.
+If you are not sure if you have an RTX GPU, please follow [this guide](https://www.tomsguide.com/how-to/what-graphics-card-do-i-have) to find out. If your GPU name starts with "NVIDIA GeForce RTX", you have a supported GPU.
+
