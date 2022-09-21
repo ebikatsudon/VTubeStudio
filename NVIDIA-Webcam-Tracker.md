@@ -27,13 +27,19 @@ The face rotation range of the NVIDIA tracker is also very big so it's unlikely 
 
 It supports the same parameters you have with iOS tracking, including **"Mouth X"** and **individual brow tracking**, but it **DOES NOT** currently support **cheek puff** and **tongue-tracking**. The tracker is in active development, so it is likely that those will be added eventually.
 
-### So why would I still want an iPhone?
+## So why would I still want an iPhone?
 
 With the iPhone, all tracking is done entirely on the phone, so VTube Studio in your PC will run with minimal CPU/GPU usage. This new NVIDIA tracker is very performant, but there is still some CPU/GPU usage.
 
 If you already have an iPhone and you're fine with the tracking and setup, I would recommend sticking with that.
 
 Not having to use multiple devices is really nice though, so definitely give the new tracker a try as well, maybe it could be a good alternative for you.
+
+## Is VBridger supported?
+
+For the initial release, probably not. But I'll definitely give the VBridger-team access to everything required to make VBridger work with the new tracker so they can add support after the initial release if they want. We'll have to figure out how that's going to work, but there are a couple good ways I think. Shouldn't be too hard.
+
+I do not currently have any plans to add blendshape customization or curve editors directly in VTube Studio.
 
 ## What CPU/GPU usage can I expect?
 
