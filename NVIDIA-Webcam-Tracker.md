@@ -82,7 +82,7 @@ Of course! This is just another option you can try out.
 
 Parameter ranges/setups will be as close to iOS tracking as I can get them, so all your existing models should work without any changes (except cheek-puff and tongue-tracking since they are not available with this tracker for now).
 
-## Should I buy a RTX GPU for this?
+## Should I buy an RTX GPU for this?
 
 Up to you. The current OpenSeeFace tracker is already really good, so if that works for you, there's no need to update your GPU for now (unless you were going to do it anyway).
 
