@@ -15,17 +15,47 @@ This tracker is using GPU-accelerated NVIDIA machine learning technology, which 
 
 # FAQ
 
+## Will this be free?
+
+It will be free (with the watermark) just like the regular webcam tracking. No additional purchase needed.
+
 ## How does this compare to iPhone/iPad tracking?
 
-## Will this be free?
+In terms of tracking quality, it's very similar. Mouth-tracking is very accurate and so is eye-tracking. Blink-tracking works well. Wink-tracking is fine too, but as always, depending on your eye shape/size it may work better or worse. You'll just have to try it out and see for yourself.
+
+The face rotation range of the NVIDIA tracker is also very big so it's unlikely to lose tracking in most situations, even with fast face movement. I tried shaking my head really fast until I got a headache and never managed to make it lose tracking.
+
+It supports the same parameters you have with iOS tracking, including **"Mouth X"** and **individual brow tracking**, but it **DOES NOT** currently support **cheek puff** and **tongue-tracking**. The tracker is in active development, so it is likely that those will be added eventually.
+
+### So why would I still want an iPhone?
+
+With the iPhone, all tracking is done entirely on the phone, so VTube Studio in your PC will run with minimal CPU/GPU usage. This new NVIDIA tracker is very performant, but there is still some CPU/GPU usage.
+
+If you already have an iPhone and you're fine with the tracking and setup, I would recommend sticking with that.
+
+Not having to use multiple devices is really nice though, so definitely give the new tracker a try as well, maybe it could be a good alternative for you.
+
+## What CPU/GPU usage can I expect?
+
+It depends on your CPU/GPU, but it should be fairly minimal, even at high framerates. On my RTX 3070, 
+
+## Will the NVIDIA Broadcast face tracker be improved?
+
+The latest info I have from NVIDIA right now is that "virtual avatars and tracking" are a big priority for them right now, so it is likely that there will be improvements to this tracker (which is kind of a nice change seeing how Apple haven't ever updated their face tracking).
+
+## What about hand tracking?
+
+That isn't currently supported with this tracker but I would not be surprised if it's added eventually.
 
 ## What do I need?
 
-The only requirement is a NVIDIA RTX Series GPU. All RTX GPUs are supported, so any RTX 20-series, 30-series or (upcoming) 40-series card will do, including laptop GPUs. GTX GPUs or GPUs from other vendors are not supported. Current Steam surveys show that about 30% of users have RTX cards and that number is increasing with each new NVIDIA GPU generation.
+The only requirement is a NVIDIA RTX Series GPU and a webcam. All RTX GPUs are supported, so any RTX 20-series, 30-series or (upcoming) 40-series card will do, including laptop GPUs. GTX GPUs or GPUs from other vendors are not supported. Current Steam surveys show that about 30% of users have RTX cards and that number is increasing with each new NVIDIA GPU generation.
 
 If you are not sure if you have an RTX GPU, please follow [this guide](https://www.tomsguide.com/how-to/what-graphics-card-do-i-have) to find out. If your GPU name starts with "NVIDIA GeForce RTX", you have a supported GPU.
 
+## When can I test this?
 
+This feature will be included in **VTube Studio 1.22.0**, which will be released in the **first week of October 2022**. There may be an open/closed beta before that, check the [Discord](https://discord.gg/VTubeStudio) for more info.
 
 
 
