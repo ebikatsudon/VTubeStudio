@@ -26,7 +26,7 @@ VTS Manual
 * [[Streaming to Mac/PC]]
 * [[Starting without Steam]]
 * [[Starting as Admin]]
-* [NVIDIA Broadcast Tracker](https://github.com/DenchiSoft/VTubeStudio/wiki/NVIDIA-Webcam-Tracker)
+* [NVIDIA Broadcast Face Tracker](https://github.com/DenchiSoft/VTubeStudio/wiki/NVIDIA-Webcam-Tracker)
 * [[Hand-Tracking]]
 * [[Controlling multiple models with one Webcam or iPhone/Android device]]
 * [Connection Issues & Troubleshooting](https://github.com/DenchiSoft/VTubeStudio/wiki/Connection-Issues-&-Troubleshooting)
