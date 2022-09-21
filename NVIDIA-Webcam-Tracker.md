@@ -50,7 +50,7 @@ I do not have any plans to add blendshape customization or curve editors directl
 
 ## What CPU/GPU usage can I expect?
 
-It depends on your CPU/GPU, but it should be fairly minimal, even at high framerates. On my RTX 3080, running the tracker at 60 FPS, both CPU and GPU usage stay below 5%.
+It depends on your CPU/GPU, but it should be fairly minimal, even at high framerates. On my RTX 3080, running the tracker at 60 FPS and at 1920x1080 webcam resolution, both CPU and GPU usage stay below 5%.
 
 A lot of the tracking system (but not all of it) can be executed on the machine-learning-optimized **tensor-cores** of your NVIDIA RTX GPU. They aren't used by most video games, so they don't interfere with your gaming.
 
