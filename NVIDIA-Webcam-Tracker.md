@@ -20,6 +20,10 @@ This tracker is using GPU-accelerated NVIDIA machine learning technology, which 
 
 <img src="https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/nvidia_tracker_example.gif" width="800" /> 
 
+# How to use this?
+
+asdf
+
 # FAQ
 
 ## Will this be free?
