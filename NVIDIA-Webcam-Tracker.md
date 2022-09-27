@@ -22,7 +22,16 @@ This tracker is using GPU-accelerated NVIDIA machine learning technology, which 
 
 # How to use this?
 
+The NVIDIA Broadcast tracker can be started just like the regular OpenSeeFace webcam tracker. Just select **"RTX - NVIDIA Broadcast"** after clicking the **"Tracking Type"** button (see 1). This will only be available if you actually have a RTX-supported GPU.
+
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/rtx_ui_explanation.png]]
+
+1. a
+2. a
+3. a
+4. a
+5. a
+6. a
 
 
 # FAQ
