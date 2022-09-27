@@ -26,12 +26,12 @@ The NVIDIA Broadcast tracker can be started just like the regular OpenSeeFace we
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/rtx_ui_explanation.png]]
 
-1. a
-2. a
-3. a
-4. a
-5. a
-6. a
+1. Click this button to select the new NVIDIA Broadcast tracker. Will not be available if your GPU is not supported.
+2. The tracking type. Only "Face Tracking" will be available here if you use the NVIDIA Broadcast tracker. Hand tracking is currently not supported when using the NVIDIA Broadcast tracker.
+3. By activating **"Legacy Webcam Mode"**, you will use the old **DirectShow Windows API** to access the webcam instead of the new **Microsoft Media Foundation API**. This is not recommended, but depending on your webcam, webcam driver and Windows version, this can be more performant and use less CPU/GPU resources so feel free to give it a try!
+4. Click this once after the tracking has initialized. Click while looking at the camera to set a neutral face pose and neutral blendshapes.
+5. Click this to turn the external tracking preview window with the creepy face on or off (see 6).
+6. The external tracking preview window. Can be useful for checking if the blendshapes are properly calibrated. Rendering the 3D face takes some CPU/GPU resources, so you should have it off most of the time if you don't need it. You can also close this window with the normal **"X button"** to turn it off.
 
 
 # FAQ
@@ -39,6 +39,10 @@ The NVIDIA Broadcast tracker can be started just like the regular OpenSeeFace we
 ## Will this be free?
 
 It will be free (with the watermark) just like the regular webcam tracking. No additional purchase needed.
+
+## Why does the tracker take 15 seconds to start!?
+
+This seems to be happening for some people. Not sure why, I hope to fix that in the future.
 
 ## How does this compare to iPhone/iPad tracking?
 
