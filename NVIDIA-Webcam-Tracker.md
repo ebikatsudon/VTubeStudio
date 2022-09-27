@@ -22,7 +22,8 @@ This tracker is using GPU-accelerated NVIDIA machine learning technology, which 
 
 # How to use this?
 
-asdf
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/rtx_ui_explanation.png]]
+
 
 # FAQ
 
