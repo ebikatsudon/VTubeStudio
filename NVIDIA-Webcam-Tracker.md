@@ -46,9 +46,9 @@ The NVIDIA Broadcast tracker can be started just like the regular OpenSeeFace we
 
 It will be free (with the watermark) just like the regular webcam tracking. No additional purchase needed.
 
-## Why does the tracker take 15 seconds to start!?
+## Why am I not getting my full webcam FPS?
 
-This seems to be happening for some people. Not sure why, I hope to fix that in the future.
+-----
 
 ## How does this compare to iPhone/iPad tracking?
 
@@ -102,7 +102,7 @@ I've tried it with glasses and the eye-tracking and wink-tracking seems to work 
 
 ## Is the normal webcam tracking (OpenSeeFace) still available?
 
-Of course! This is just another option you can try out.
+Of course! It is available and will always stay available. This is just another option you can try out.
 
 ## Can I use my existing models or do I need to change anything?
 
