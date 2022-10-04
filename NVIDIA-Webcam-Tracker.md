@@ -48,9 +48,9 @@ It will be free (with the watermark) just like the regular webcam tracking. No a
 
 ## Why am I not getting my full webcam FPS?
 
-VTube Studio will interpolate tracking data to 60 FPS (or whatever VTS is running at), so even low-FPS webcam tracking data will look smooth. There is very little difference between your webcam running at 30 FPS vs. 60 FPS, so if you're not getting the full framerate, it shouldn't be a big issue.
+VTube Studio will interpolate tracking data to 60 FPS (or whatever VTS is running at), so even low-FPS webcam tracking data will look smooth. There is very little visible difference between your webcam running at 30 FPS vs. 60 FPS, so if you're not getting the full framerate, it shouldn't be a big issue.
 
-However, the tracker should be able to run at the full FPS supported by your webcam (up to 60 FPS at least). If that is not the case for you, you can try the following:
+However, technically the tracker should be able to run at the full FPS supported by your webcam (up to 60 FPS at least). If that is not the case for you, you can try the following:
 
 
 ### 1) Install the newest NVIDIA GPU driver
