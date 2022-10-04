@@ -95,6 +95,10 @@ Some older USB ports are not fast enough to support full 60 FPS streaming at hig
 
 Sometimes it can help to start VTube Studio as admin. Check [this page](https://github.com/DenchiSoft/VTubeStudio/wiki/Starting-as-Admin) for more info.
 
+### 10) Check your camera in OBS
+
+Open your webcam in OBS and check if it's actually giving you the expected FPS there. 
+
 ## How does this compare to iPhone/iPad tracking?
 
 In terms of tracking quality, it's very similar. Mouth-tracking is very accurate and so is eye-tracking. Blink-tracking works well. Wink-tracking is fine too, but as always, depending on your eye shape/size it may work better or worse. You'll just have to try it out and see for yourself.
