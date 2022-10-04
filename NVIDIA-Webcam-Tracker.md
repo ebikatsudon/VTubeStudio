@@ -22,7 +22,9 @@ This tracker is using GPU-accelerated NVIDIA machine learning technology, which 
 
 # How do I get the tracker?
 
-This is currently only available on the beta branch.
+This is currently only available on the beta branch. To get on the beta branch for VTube Studio, right-click VTube Studio in your Steam games list, click **"Properties"** go to the **"Betas"** branch and enter the password `broadcast1234`. This will unlock the beta branch "vts_nvidia_beta".
+
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/rtx_beta_explanation.png]]
 
 # How to use this?
 
