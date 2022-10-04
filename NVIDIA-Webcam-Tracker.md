@@ -167,9 +167,7 @@ Also, if you already use VTS iPhone tracking or VBridger and you're happy with i
 
 ## When can I test this?
 
-This feature will be included in **VTube Studio 1.22.0**, which will be released in the **first week of October 2022**. There may be an open/closed beta before that, check the [Discord](https://discord.gg/VTubeStudio) for more info.
-
-
+This feature will be included in **VTube Studio 1.22.0**, which will be released in **early October 2022**. If you want to test it before that, join the open beta (see above).
 
 
 
