@@ -1,4 +1,4 @@
-### IMPORTANT: THIS FEATURE IS NOT YET AVAILABLE. IT WILL BE RELEASED IN THE FIRST WEEK OF OCTOBER. THIS PAGE IS CURRENTLY UNDER CONSTRUCTION!!
+### IMPORTANT: THIS FEATURE IS IN BETA. CURRENTLY IT CAN ONLY BE USED ON THE BETA BRANCH.
 
 <br/>
 
@@ -19,6 +19,10 @@ This tracker is using GPU-accelerated NVIDIA machine learning technology, which 
 <br/>
 
 <img src="https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/nvidia_tracker_example.gif" width="800" /> 
+
+# How do I get the tracker?
+
+This is currently only available on the beta branch.
 
 # How to use this?
 
