@@ -52,7 +52,12 @@ VTube Studio will interpolate tracking data to 60 FPS (or whatever VTS is runnin
 
 However, the tracker should be able to run at the full FPS supported by your webcam (up to 60 FPS at least). If that is not the case for you, you can try the following:
 
-### 1) Make sure "Low-Light Compensation" is turned off
+
+### 1) Install the newest NVIDIA GPU driver
+
+Make sure your GPU driver is up to date. You can do that via [GeForce Experience](https://www.nvidia.com/de-de/geforce/geforce-experience/) or directly download the newest driver for your GPU from here: https://www.nvidia.com/download/index.aspx
+
+### 2) Make sure "Low-Light Compensation" is turned off
 
 If your camera has a "low-light compensation" mode, make sure it is turned off. Otherwise your camera may reduce the framerate get better lighting. This could of course decrease the webcam video quality, so be careful. For more info, check this video: https://www.youtube.com/watch?v=g02DBKjFXzs
 
@@ -60,33 +65,33 @@ Quick guide on how to turn it off: First, start OBS and set up a webcam source f
 
 <img src="https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/low_fps_low_light_compensation.png" width="578" /> 
 
-### 2) Make sure "Anti-Flicker" is set to 60 Hz
+### 3) Make sure "Anti-Flicker" is set to 60 Hz
 
 If "Anti-Flicker" is set to 50 Hz, your camera framerate will be capped at 50 FPS.
 
 <img src="https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/low_fps_anti_flicker.png" width="578" /> 
 
-### 3) Install newest camera driver
+### 4) Install newest camera driver
 
 If your camera has a special driver or software, download and install it. For Logitech cameras for example, that would be Logitech G HUB.
 
-### 4) Make sure your camera actually supports that FPS
+### 5) Make sure your camera actually supports that FPS
 
 Double-check in VTube Studio that your camera actually has that FPS setting available. If it's not in the listed settings, your camera doesn't support it.
 
-### 5) Make sure you don't have the FPS limit slider set to something low in VTube Studio
+### 6) Make sure you don't have the FPS limit slider set to something low in VTube Studio
 
 You can further limit FPS with the "Camera FPS Limit" slider on the webcam selection screen in VTube Studio. Make sure you have no low limit set there.
 
-### 6) Try other video formats and resolutions.
+### 7) Try other video formats and resolutions.
 
 If your camera supports multiple video formats, try the other ones. MJPEG for example can be a bit slow. You can also try lowering the resolution. There is very little to no tracking quality difference between 1080p and 720p.
 
-### 7) Try a different USB port
+### 8) Try a different USB port
 
 Some older USB ports are not fast enough to support full 60 FPS streaming at high resolutions since that can be a lot of data. Make sure you're not using a USB extension cord or USB hub and the camera is directly connected to your PC's USB ports at the back.
 
-### 8) Run VTube Studio as admin
+### 9) Run VTube Studio as admin
 
 Sometimes it can help to start VTube Studio as admin. Check [this page](https://github.com/DenchiSoft/VTubeStudio/wiki/Starting-as-Admin) for more info.
 
