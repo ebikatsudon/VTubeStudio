@@ -50,27 +50,27 @@ It will be free (with the watermark) just like the regular webcam tracking. No a
 
 Up to 60 FPS, the tracker should be able to run at the full FPS supported by your webcam. If that is not the case for you, you can try the following:
 
-### Make sure "Low-Light Compensation" is turned off
+### 1) Make sure "Low-Light Compensation" is turned off
 
 aaa
 
-### Make sure "Anti-Flicker" is set to 60 Hz
+### 2) Make sure "Anti-Flicker" is set to 60 Hz
 
 aaa
 
-### Make sure your camera actually supports that FPS
+### 3) Make sure your camera actually supports that FPS
 
 aaa
 
-### Make sure you don't have the FPS limit slider set to something low in VTube Studio
+### 4) Make sure you don't have the FPS limit slider set to something low in VTube Studio
 
 aaa
 
-### Try other video formats
+### 5) Try other video formats
 
 aaa
 
-### Run VTube Studio as admin
+### 6) Run VTube Studio as admin
 
 aaa
 
