@@ -58,13 +58,13 @@ If your camera has a "low-light compensation" mode, make sure it is turned off. 
 
 Quick guide on how to turn it off: First, start OBS and set up a webcam source for that webcam. Right-click it, click "Properties", and then "Configure Video". This will bring up the screen for modifying webcam settings.
 
-[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/low_fps_low_light_compensation.png]]
+<img src="https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/low_fps_low_light_compensation.png" width="500" /> 
 
 ### 2) Make sure "Anti-Flicker" is set to 60 Hz
 
 If "Anti-Flicker" is set to 50 Hz, your camera framerate will be capped at 50 FPS.
 
-[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/low_fps_anti_flicker.png]]
+<img src="https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/low_fps_anti_flicker.png" width="500" /> 
 
 ### 3) Install newest camera driver
 
