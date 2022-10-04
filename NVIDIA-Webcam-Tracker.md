@@ -48,7 +48,14 @@ It will be free (with the watermark) just like the regular webcam tracking. No a
 
 ## Why am I not getting my full webcam FPS?
 
------
+TODO: Write this
+
+* CPU/GPU usage
+* Anti-flicker
+* FPS limit in VTS
+* Other format than MJPEG
+* Run as admin
+* Turn off Low-Light Compensation
 
 ## How does this compare to iPhone/iPad tracking?
 
