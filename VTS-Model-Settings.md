@@ -177,6 +177,8 @@ Various actions can be triggered by hotkeys:
   * Triggers a Hotkey in a loaded Live2D Item. For more info, see ["Live2D Items"](https://github.com/DenchiSoft/VTubeStudio/wiki/Live2D-Items).
 * **ArtMesh Color Preset**
   * Loads a screen/multiply color preset for the model. Also works with Live2D Items. For more info, see ["Live2D Items"](https://github.com/DenchiSoft/VTubeStudio/wiki/Live2D-Items).
+* **Toggle Tracker On/Off**
+  * Only available on Windows/MacOS. Toggles the selected tracker on/off. Tracker can be WiFi/USB (connected smartphone) or webcam.
 
 For animations and expressions, there are a few extra settings you can use to customize fade times and animation playback behavior. For example, you can stop animations/expressions after a certain number of seconds or once the button is let go.
 
