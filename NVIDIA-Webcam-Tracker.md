@@ -28,7 +28,11 @@ To use it, please download the **free NVIDIA Broadcast Tracker DLC** from here: 
 
 [[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/rtx_dlc_download.png]]](https://store.steampowered.com/app/2178540/VTube_Studio__NVIDIA_Broadcast_Tracker)
 
-Please keep in mind that the tracker files are relatively big (~2 GB), so make sure you have enough space on your hard drive. 
+Please keep in mind that the tracker files are relatively big (~2 GB), so make sure you have enough space on your hard drive.
+
+Make sure the DLC is **DOWNLOADED** and **INSTALLED** before starting VTube Studio (checkmark set in the DLC window):
+
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/rtx_tracker_dlc_installed.png]]
 
 # How to use this?
 
