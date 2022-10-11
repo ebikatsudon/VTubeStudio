@@ -36,11 +36,12 @@ The NVIDIA Broadcast tracker can be started just like the regular OpenSeeFace we
 
 1. Click this button to select the new NVIDIA Broadcast tracker. Will not be available if your GPU is not supported.
 2. The tracking type. Only "Face Tracking" will be available here if you use the NVIDIA Broadcast tracker. Hand tracking is currently not supported when using the NVIDIA Broadcast tracker.
-3. By activating **"Legacy Webcam Mode"**, you will use the old **DirectShow Windows API** to access the webcam instead of the new **Microsoft Media Foundation API**. This is not recommended, but depending on your webcam, webcam driver and Windows version, this can be more performant and use less CPU/GPU resources so feel free to give it a try!
+3. If you want to limit the tracking FPS, do it using this slider. Since VTube Studio interpolates the tracking data to 60 FPS, running the tracking above 30 FPS does not add much in terms of model movement quality.
 4. Click this once after the tracking has initialized. Click while looking at the camera to set a neutral face pose and neutral blendshapes.
 5. Click this to turn the external tracking preview window with the creepy face on or off (see 6).
 6. The external tracking preview window. Can be useful for checking if the blendshapes are properly calibrated. Rendering the 3D face takes some CPU/GPU resources, so you should have it off most of the time if you don't need it. You can also close this window with the normal **"X button"** to turn it off.
 
+Once the tracker has initialized and tracking has started, you can click the gray gear icon in the tracking preview screen (bottom right) to show the Windows webcam config window.
 
 # FAQ
 
@@ -63,7 +64,11 @@ Make sure your GPU driver is up to date. You can do that via [GeForce Experience
 
 If your camera has a "low-light compensation" mode, make sure it is turned off. Otherwise your camera may reduce the framerate get better lighting. This could of course decrease the webcam video quality, so be careful. For more info, check this video: https://www.youtube.com/watch?v=g02DBKjFXzs
 
-Quick guide on how to turn it off: First, start OBS and set up a webcam source for that webcam. Right-click it, click "Properties", and then "Configure Video". This will bring up the screen for modifying webcam settings.
+You can open the camera settings window by clicking the small gear icon in the bottom right of the tracking preview window in VTube Studio.
+
+<img src="https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/tracker_webcam_config_win.png" width="490" /> 
+
+This will open the following window:
 
 <img src="https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/low_fps_low_light_compensation.png" width="578" /> 
 
