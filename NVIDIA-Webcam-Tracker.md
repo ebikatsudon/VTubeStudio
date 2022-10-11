@@ -1,5 +1,3 @@
-### IMPORTANT: THIS FEATURE IS IN BETA. CURRENTLY IT CAN ONLY BE USED ON THE BETA BRANCH. SEE BELOW FOR MORE INFO.
-
 <br/>
 
 In addition to tracking using OpenSeeFace, VTube Studio now supports high-quality, high-performance webcam tracking using the new **NVIDIA Broadcast Expression Tracker** for RTX GPUs.
@@ -22,9 +20,11 @@ This tracker is using GPU-accelerated NVIDIA machine learning technology, which 
 
 # How do I get the tracker?
 
-This is currently only available on the beta branch. To get on the beta branch for VTube Studio, right-click VTube Studio in your Steam games list, click **"Properties"** go to the **"Betas"** branch and enter the password `broadcast1234`. This will unlock the beta branch "vts_nvidia_beta".
+The tracker is only available for Windows and only works with NVIDIA RTX GPUs.
 
-[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/rtx_beta_explanation.png]]
+To use it, please download the **free NVIDIA Broadcast Tracker DLC** from here: https://store.steampowered.com/app/2178540/VTube_Studio__NVIDIA_Broadcast_Tracker
+
+Please keep in mind that the tracker files are relatively big (~2 GB), so make sure you have enough space on your hard drive. 
 
 # How to use this?
 
