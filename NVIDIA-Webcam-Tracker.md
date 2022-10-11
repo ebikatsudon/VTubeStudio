@@ -47,7 +47,7 @@ Once the tracker has initialized and tracking has started, you can click the gra
 
 # FAQ
 
-## Is this be free?
+## Is this free?
 
 It is free (with the watermark) just like the regular webcam tracking. No additional purchase needed.
 
