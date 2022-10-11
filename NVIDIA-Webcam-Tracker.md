@@ -68,7 +68,7 @@ You can open the camera settings window by clicking the small gear icon in the b
 
 <img src="https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/tracker_webcam_config_win.png" width="490" /> 
 
-This will open the following window:
+This will open the following window: (make sure low-light compensation is off)
 
 <img src="https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/low_fps_low_light_compensation.png" width="578" /> 
 
