@@ -130,11 +130,9 @@ I do not have any plans to add blendshape customization or curve editors directl
 
 ## What CPU/GPU usage can I expect?
 
-It depends on your CPU/GPU, but it should be fairly minimal, even at high framerates. On my RTX 3080, running the tracker at 60 FPS and at 1920x1080 webcam resolution, both CPU and GPU usage stay below 5%.
+It depends on your CPU/GPU, but it should be fairly minimal, even at high framerates. On my RTX 3080, running the tracker at 60 FPS and at 1920x1080 webcam resolution, both CPU and GPU usage stay below 10%.
 
 A lot of the tracking system (but not all of it) can be executed on the machine-learning-optimized **tensor-cores** of your NVIDIA RTX GPU. They aren't used by most video games, so they don't interfere with your gaming.
-
-Will add more data here once more people test it with different GPUs.
 
 ## Will the NVIDIA Broadcast face tracker be improved?
 
@@ -158,7 +156,7 @@ I've tried it with glasses and the eye-tracking and wink-tracking seems to work 
 
 ## Is the normal webcam tracking (OpenSeeFace) still available?
 
-Of course! It is available and will always stay available. This is just another option you can try out.
+Of course! It is available and will always stay available as the main webcam tracker. This is just another option you can try out.
 
 ## Can I use my existing models or do I need to change anything?
 
@@ -171,10 +169,5 @@ Up to you. The current OpenSeeFace tracker is already really good, so if that wo
 I would recommend waiting until the update is out and then check out the comparisons people will make. I think this new tracker is definitely a nice option to have available.
 
 Also, if you already use VTS iPhone tracking or VBridger and you're happy with it, there is probably not much of a reason to change your setup for now.
-
-## When can I test this?
-
-This feature will be included in **VTube Studio 1.22.0**, which will be released in **early October 2022**. If you want to test it before that, join the open beta (see above).
-
 
 
