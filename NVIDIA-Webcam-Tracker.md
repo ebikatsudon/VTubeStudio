@@ -47,9 +47,9 @@ Once the tracker has initialized and tracking has started, you can click the gra
 
 # FAQ
 
-## Will this be free?
+## Is this be free?
 
-It will be free (with the watermark) just like the regular webcam tracking. No additional purchase needed.
+It is free (with the watermark) just like the regular webcam tracking. No additional purchase needed.
 
 ## Why am I not getting my full webcam FPS?
 
