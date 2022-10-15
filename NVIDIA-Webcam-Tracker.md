@@ -1,3 +1,5 @@
+# THIS IS NOT YET RELEASED - CURRENTLY IN BETA - COMING SOON
+
 <br/>
 
 In addition to tracking using OpenSeeFace, VTube Studio now supports high-quality, high-performance webcam tracking using the new **NVIDIA Broadcast Expression Tracker** for RTX GPUs.
