@@ -116,6 +116,14 @@ Sometimes it can help to start VTube Studio as admin. Check [this page](https://
 
 Open your webcam in OBS and check if it's actually giving you the expected FPS there. 
 
+## Why does the tracker not start up even though my webcam light is turning on?
+
+The tracker sends the tracking data to VTube Studio via your local network, so your Windows firewall may be blocking it. Make sure `"ExpressionApp.exe"` is added as firewall exception.
+
+The file can be found in the `MXTracker` folder next to the `Live2DModels` folder. If it already is added, **try re-adding it**. Sometimes Windows invalidates these entries when the .exe file is modified by an update.
+
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/firewall_config.png]]
+
 ## How does this compare to iPhone/iPad tracking?
 
 In terms of tracking quality, it's very similar. Mouth-tracking is very accurate and so is eye-tracking. Blink-tracking works well. Wink-tracking is fine too, but as always, depending on your eye shape/size it may work better or worse. You'll just have to try it out and see for yourself.
