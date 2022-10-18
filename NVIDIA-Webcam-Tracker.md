@@ -122,6 +122,8 @@ The tracker sends the tracking data to VTube Studio via your local network, so y
 
 The file can be found in the `MXTracker` folder next to the `Live2DModels` folder. If it already is added, **try re-adding it**. Sometimes Windows invalidates these entries when the .exe file is modified by an update.
 
+You can add it like this: (just an example, replace `"vtube studio.exe"` with `"ExpressionApp.exe"`)
+
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/firewall_config.png]]
 
 ## How does this compare to iPhone/iPad tracking?
