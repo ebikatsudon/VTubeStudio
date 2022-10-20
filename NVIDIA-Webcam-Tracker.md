@@ -1,4 +1,3 @@
-# THIS IS NOT YET RELEASED - CURRENTLY IN BETA - COMING SOON
 
 <br/>
 
@@ -8,7 +7,7 @@ Download for free here: https://store.steampowered.com/app/2178540/VTube_Studio_
 
 <br/>
 
-# THIS IS NOT YET RELEASED - CURRENTLY IN BETA - COMING SOON
+
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/nvidia_broadcast_logo_full.png]]
 
