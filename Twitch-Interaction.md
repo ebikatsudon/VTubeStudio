@@ -21,7 +21,7 @@ You can revoke authorization from VTube Studio in your Twitch settings at any ti
 
 For now, only one thing is supported (but more will be added): dropping emotes posted in your Twitch chat onto your model. You can activate that by clicking the "Config" button. Various cooldown settings can be set from there as well.
 
-[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/asd.png]]
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/twitch_emote_drop_ex_1.png]]
 
 
 
