@@ -9,3 +9,6 @@ This will not include functionality like triggering hotkeys, etc. but will be fo
 
 ## How to use this?
 
+On the first settings tab, scroll all the way down. 
+
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/twitch_connect_screen.png]]
