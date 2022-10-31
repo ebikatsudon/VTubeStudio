@@ -13,4 +13,15 @@ On the first settings tab, scroll all the way down and click "Connect Account". 
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/twitch_connect_screen.png]]
 
-After you've authorized VTube Studio, your account should show up in the app with your profile picture. You can now connect/disconnect using the 
+After you've authorized VTube Studio, your account should show up in the app with your profile picture. You can now connect/disconnect using the "Log in and activate" toggle.
+
+You can revoke authorization from VTube Studio in your Twitch settings at any time.
+
+## What can I do with this?
+
+For now, only one thing is supported (but more will be added): dropping emotes posted in your Twitch chat onto your model. You can activate that by clicking the "Config" button. Various cooldown settings can be set from there as well.
+
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/asd.png]]
+
+
+
