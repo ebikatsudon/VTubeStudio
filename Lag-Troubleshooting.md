@@ -53,6 +53,8 @@ For some reason, sometimes the FPS value set in VTube Studio is ignored, causing
 
 HAGS can cause issues when running a game and VTube Studio at the same time. Check Google (or for example [this page](https://www.tenforums.com/tutorials/150440-turn-off-hardware-accelerated-gpu-scheduling-windows-10-a.html)) for info on how to do that.
 
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/gpu_scheduling_off.png]]
+
 ## Check the framerate in VTube Studio
 
 VTube Studio will show the actual render FPS when you open the logs in the app (orange "Log" button in the main menu).
