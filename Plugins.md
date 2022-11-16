@@ -22,6 +22,10 @@ For info on how to use those plugins, please check out the linked plugin website
 * **[Cheers Bot](https://cheers.hawk.bar/)**
   * By HawkBar
   * Trigger hotkeys, model changes and more based on Twitch stream events (donations, etc.)
+* **[VTS P.O.G](https://eruben.itch.io/vts-pog/)**
+  * By Eruben
+  * Easily add chat/bit/sub triggered TTS messages to your Twitch-streams and have your models (for example a mascot model) read them.
+Image
 * **[Audiomimi](https://ko-fi.com/s/25d2b6bafa)**
   * By Artemiz and Mokunine
   * Audiomimi is a VTube Studio plugin that allows you to use sound effects based on VTS parameter movement.
