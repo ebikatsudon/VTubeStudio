@@ -8,7 +8,7 @@ Other formats like VRoid/VRM are not supported. VTube Studio **DOES NOT support 
 
 # Where can I get Live2D models? Or how can I make them?
 
-Generally, Live2D models aren't free. You have to commission an artist to draw the art for your model and then you have to commission a Live2D rigger to create the model using that art. This process typically takes weeks to months and full models can cost anywhere between a few hundred to a few 1000 USD since they are made from scratch by skilled artists based on your requests.
+Generally, Live2D models aren't free. You have to commission an artist to draw the art for your model and then you have to commission a Live2D rigger to create the model using that art. This process typically takes weeks to months and full models can cost anywhere between a few 100 to a few 1000 USD since they are made from scratch by skilled artists based on your requests.
 
 VTube Studio **DOES NOT** have a built-in model creator.
 
