@@ -13,6 +13,7 @@ VTS Manual
 
 ### [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/usagi_icon_small_w.png|height=36px|width=30px]] Documentation
 * [Introduction & Requirements](https://github.com/DenchiSoft/VTubeStudio/wiki/Introduction-&-Requirements)
+* [Where to get models?](https://github.com/DenchiSoft/VTubeStudio/wiki/Models)
 * [[Android vs. iPhone vs. Webcam]]
 * [[Getting Started]]
 * [[Loading your own Models]]
