@@ -14,6 +14,20 @@ Click the orange "Log" button in the main menu in VTube Studio. Are there any er
 
 Sometimes something will break in VTS and spam the logs with errors every frame, causing the app to slow down a lot. If that is the case for you, please bring it up in the [VTube Studio Discord](https://discord.gg/VTubeStudio).
 
+## Turn of all "performance improvement" apps (MSI AfterBurner, Norton, BullGuard, etc.)
+
+Apps like `"MSI AfterBurner"` that improve game performance may actually cause performance/framerate issues in some cases. Turn them all off and see if that helps. If it does, check if you can add VTube Studio as an exception to those apps (they usually allow that somehow).
+
+Another app that can cause lag is `"RTSS Rivatuner"`, so please be careful with that one as well.
+
+If you have Norton/BullGuard installed, make sure the "Game Optimizer" settings are off.
+
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/norton_game_optimizer.png]]
+
+## Check your security/anti-malware software
+
+If you're running antivirus- or other security-software, make sure VTS is added as an exception. One anti-malware app that is known to cause issues for VTS is "IObit Malware Fighter". Some anti-malware apps can cause VTS to run very slowly, so try deactivating them temporarily and see if that helps.
+
 ## Check the Windows Task Manager for performance issues (CPU/GPU usage)
 
 Check the actual CPU/GPU usage in the task manager. If the total CPU or GPU usage is near 100% your PC, check which apps use most of it. If it's not VTube Studio but a game you're running at the same time, it's possible you'll have to adjust the settings of the game so your PC can handle running it and VTube Studio at the same time.
@@ -92,16 +106,6 @@ Many laptops have a on-chip GPU (included in the CPU) and a dedicated GPU, which
 ## Check the "Power Saving Mode"
 
 Many laptops and some desktop PCs have "power saving modes". Having those on can greatly decrease performance. Make sure you don't have any mode like that active. If you're using a laptop, also make sure it's charging and not running on battery, as this sometimes also activates power-saving modes.
-
-## Check your security/anti-malware software
-
-If you're running antivirus- or other security-software, make sure VTS is added as an exception. One anti-malware app that is known to cause issues for VTS is "IObit Malware Fighter". Some anti-malware apps can cause VTS to run very slowly, so try deactivating them temporarily and see if that helps.
-
-## Turn of all "performance improvement" apps (MSI AfterBurner, etc.)
-
-Apps like `"MSI AfterBurner"` that improve game performance may actually cause performance/framerate issues in some cases. Turn them all off and see if that helps. If it does, check if you can add VTube Studio as an exception to those apps (they usually allow that somehow).
-
-Another app that can cause lag is `"RTSS Rivatuner"`, so please be careful with that one as well.
 
 ## Make sure all software is up to date
 
