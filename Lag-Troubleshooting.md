@@ -28,6 +28,8 @@ If you have Norton/BullGuard installed, make sure the "Game Optimizer" settings 
 
 If you're running antivirus- or other security-software, make sure VTS is added as an exception. One anti-malware app that is known to cause issues for VTS is "IObit Malware Fighter". Some anti-malware apps can cause VTS to run very slowly, so try deactivating them temporarily and see if that helps.
 
+If you are running `"FS Protection"` or `"F-Secure"`, make sure to add _VTube Studio_ as an exception. These antivirus-apps have been shown to crash PCs entirely when VTube Studio is started.
+
 ## Check the Windows Task Manager for performance issues (CPU/GPU usage)
 
 Check the actual CPU/GPU usage in the task manager. If the total CPU or GPU usage is near 100% your PC, check which apps use most of it. If it's not VTube Studio but a game you're running at the same time, it's possible you'll have to adjust the settings of the game so your PC can handle running it and VTube Studio at the same time.
