@@ -35,9 +35,12 @@ Image
 * **[VTS React](https://vts-react.fugi.tech)**
   * By Fugi and Iron Vertex
   * Easy to use web-based Twitch/YouTube integration for VTube Studio.
+* **[VTS Desktop Audio](https://lualucky.itch.io/vts-desktop-audio-plugin)**
+  * By Fugi and Iron Vertex
+  * Easy to use web-based Twitch/YouTube integration for VTube Studio.
 * **[VBridger](https://store.steampowered.com/app/1898830/VBridger)**
-  * By PiPuProductions and Serp
-  * VBridger is a face tracking plugin designed for VTube Studio and Live2D, which allows the user to make better use of iPhone ARKit tracking. 
+  * By Lua Lucky
+  * A plugin for using desktop audio as input parameters in VTS.
 * **[Mix It Up Streaming Bot](https://mixitupapp.com/)**
   * A versatile streaming bot that also supports VTS integration, including activating hotkeys on stream events such as donations, etc.
 * **[VTChaos](https://github.com/Raelice/VTchaos)**
