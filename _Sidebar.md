@@ -27,7 +27,7 @@ VTS Manual
 * [[Streaming to Mac/PC]]
 * [[Starting without Steam]]
 * [[Starting as Admin]]
-* [Tobii Eye-Tracker]]
+* [[Tobii Eye-Tracker]]
 * [[NVIDIA Broadcast Face Tracker](https://github.com/DenchiSoft/VTubeStudio/wiki/NVIDIA-Webcam-Tracker)
 * [[Hand-Tracking]]
 * [[Controlling multiple models with one Webcam or iPhone/Android device]]
