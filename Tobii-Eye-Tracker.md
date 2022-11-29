@@ -21,6 +21,8 @@ VTube Studio can use the Tobii tracker to improve the head-tracking and eye-trac
 * **Overwrite iPhone/webcam eye X/Y** as long as the Tobii tracker detects the eyes.
   * If this is turned on, VTube Studio will also make sure the eyes will never fully close as long as the Tobii-tracker still detects your eyes. This solves the problem of eyes closing when you look down, for example on your keyboard or drawing tablet. This works well because the Tobii tracker is below your screen and very accurate, so it will be able to tell if the eyes are still open.
 
+You can also visualize the gaze position. This position will be shown as white bubble/circle in the VTube Studio window. The coordinates for the gaze circle are the X/Y gaze coordinates within the screen the tracker is installed on, so the shown position will only be accurate if VTube Studio is on that screen and in fullscreen mode.
+
 
 
 
