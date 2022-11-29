@@ -16,10 +16,10 @@ Make sure your Tobii eye-tracker is connected to your PC and works (outside of V
 
 VTube Studio can use the Tobii tracker to improve the head-tracking and eye-tracking. Depending on the options you've turned on, it does the following:
 
-* Overwrite iPhone/webcam head X/Y/Z position and rotation as long as the Tobii tracker detects the head.
-  * This position/rotation is very smooth and accurate. Most importantly, it does NOT have that annoying head-nod when you blink.
-* Overwrite iPhone/webcam eye X/Y as long as the Tobii tracker detects the eyes.
-  * If this is turned on, VTube Studio will also make sure the eyes will never fully close as long as the Tobii-tracker still detects the eyes. This solves the problem of eyes closing when you look down, for example on your keyboard: because the Tobii tracker is below your screen and very accurate, it will be able to tell if the eyes are still open.
+* **Overwrite iPhone/webcam head X/Y/Z position and rotation** as long as the Tobii tracker detects the head.
+  * This position/rotation is very smooth and accurate. Most importantly, it does **NOT** have that annoying head-nod when you blink.
+* **Overwrite iPhone/webcam eye X/Y** as long as the Tobii tracker detects the eyes.
+  * If this is turned on, VTube Studio will also make sure the eyes will never fully close as long as the Tobii-tracker still detects your eyes. This solves the problem of eyes closing when you look down, for example on your keyboard or drawing tablet. This works well because the Tobii tracker is below your screen and very accurate, so it will be able to tell if the eyes are still open.
 
 
 
