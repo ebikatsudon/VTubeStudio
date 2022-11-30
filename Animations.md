@@ -11,3 +11,8 @@ In VTube Studio, you can also use various settings for animation playback, such 
 * Ending animation after X seconds.
 * Holding animation on last frame
 * ...
+
+### Recording Animations
+
+You can also record animations in VTube Studio based on tracking. For more info, check the ["Record Animation"](https://github.com/DenchiSoft/VTubeStudio/wiki/Record-Animations) page.
+
