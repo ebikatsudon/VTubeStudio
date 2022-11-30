@@ -1,5 +1,7 @@
 You can record animations in VTube Studio (`.motion3.json` files). These animations can then be used directly in your model or even re-imported into _Live2D Cubism_ to be used in the _Live2D Cubism Animator_ or the _Live2D Cubism Physics Editor_.
 
+For general information about animations, please check the "[Animations](https://github.com/DenchiSoft/VTubeStudio/wiki/Animations)" page.
+
 ## Recording animations
 
 Scroll down in the camera settings tab to "Record Live2D Animation". This is available on all platforms, including mobile. You can choose to record or exclude the physics output parameters as well. Keep in mind that if you save and play the recorded animation later in VTube Studio, physics parameters that are set by an animation will be ignored because they will be overwritten by the physics system.
