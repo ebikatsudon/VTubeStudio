@@ -12,6 +12,22 @@ You can set if up on the following screen, only shown on Windows:
 
 Make sure your Tobii eye-tracker is connected to your PC and works (outside of VTube Studio). To make sure that is the case, follow the setup guide provided by Tobii for the tracker, including **installing all required drivers/software** and properly **calibrating the Tobii tracker**.
 
+### For Tobii Eye Tracker 5
+
+1. Go to https://gaming.tobii.com/getstarted/
+2. Select `"Tobii Eyetracking"`
+3. Select `"Tobii Eye Tracker 5"`
+4. Click `"Download Driver"` and install it to install `"Tobii Experience"`.
+5. Run `"Tobii Experience"` to make sure it works well with your device and calibrate it.
+
+### For Tobii Eye Tracker 4C
+
+1. Go to https://gaming.tobii.com/getstarted/
+2. Select `"Tobii Eyetracking"`
+3. Select `"Tobii Eye Tracker 4C"`
+4. Select `"Tobii Experience - beta only"`, then click `"Download Driver"` and install it to install `"Tobii Experience"`.
+5. Run `"Tobii Experience"` to make sure it works well with your device and calibrate it.
+
 ## What can I do with it in VTube Studio?
 
 VTube Studio can use the Tobii tracker to improve the head-tracking and eye-tracking. Depending on the options you've turned on, it does the following:
