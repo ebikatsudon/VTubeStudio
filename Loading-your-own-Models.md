@@ -2,6 +2,10 @@ VTube Studio comes with a few default models. Most of them belong to Live2D Inc.
 
 This chapter covers how to load your own Live2D models into VTube Studio. It will be assumed that you already have your Live2D model finished and have a basic understanding what Live2D is and how it works (Live2D parameters, etc.)
 
+## Where do I get models?
+
+If you're wondering how to get (or make) models for VTube Studio, please check this page: https://github.com/DenchiSoft/VTubeStudio/wiki/Models
+
 ## Preparing your Live2D model for VTube Studio
 
 There isn’t really any specific special preparation you need to do with your Live2D model so it works with VTube Studio. As explained later in the chapter **"VTube Studio Settings"**, you can map any face tracking parameter to any Live2D parameter, so you could theoretically choose parameter IDs and ranges however you want.
