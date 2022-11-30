@@ -1,10 +1,10 @@
-### Recording Animations
+## Recording Animations
 
 You can record animations in VTube Studio based on tracking. For more info, check the ["Record Animation"](https://github.com/DenchiSoft/VTubeStudio/wiki/Record-Animations) page.
 
 However, normally you would create animations in the **Live2D Cubism Animator**.
 
-### Loading Animations
+## Loading Animations
 
 Animations can be created with the **Animator** in the **Live2D Cubism Editor**. Once your animation is done, select **File → Export for Runtime → Export motion file**.
 
