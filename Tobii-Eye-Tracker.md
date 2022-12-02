@@ -10,11 +10,11 @@ These are special trackers you can attach to the bottom of your screen. They don
 
 _**IMPORTANT:**_ If you use a **Tobii 4C Tracker**, you need to install the special beta driver version of **Tobii Experience**. For more info, check [this page](https://help.tobii.com/hc/en-us/articles/4408130344337-Head-tracking-is-no-longer-working-for-those-using-Tobii-Core). This will also be described in more detail below.
 
-You can set if up on the following screen, only shown on Windows:
+## How do I use it?
+
+You can set up Tobii eye- and head-tracking on the following screen, only shown on Windows:
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/tobii_basic.png|alt="Tobii Eye Tracker Setup"]]
-
-## How do I use it?
 
 Make sure your Tobii eye-tracker is connected to your PC and works (outside of VTube Studio). To make sure that is the case, follow the setup guide provided by Tobii for the tracker, including **installing all required drivers/software** and properly **calibrating the Tobii tracker**.
 
