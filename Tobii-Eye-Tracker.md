@@ -8,7 +8,7 @@ These are special trackers you can attach to the bottom of your screen. They don
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/tobii_tracker_img.png|alt="Tobii Eye Tracker 5"]]
 
-_**IMPORTANT:**_ If you use a **Tobii 4C Tracker**, you need to install the special beta driver version of **Tobii Experience**. For more info, check [this page](https://help.tobii.com/hc/en-us/articles/4408130344337-Head-tracking-is-no-longer-working-for-those-using-Tobii-Core). This will also be described in more detail below.
+_**IMPORTANT:**_ If you use a **Tobii 4C Tracker**, you need to install the special beta driver version of **Tobii Experience** if you want to use head-tracking in addition to eye-tracking. For more info, check [this page](https://help.tobii.com/hc/en-us/articles/4408130344337-Head-tracking-is-no-longer-working-for-those-using-Tobii-Core). This will also be described in more detail below.
 
 ## How do I use it?
 
@@ -28,10 +28,14 @@ Make sure your Tobii eye-tracker is connected to your PC and works (outside of V
 
 ### For Tobii Eye Tracker 4C
 
+For the Tobii 4C, **head-tracking is not supported unless you use the beta driver**. If you do that, you may lose some of the Tobii-Windows-Accessibility features.
+
+If you don't use the beta driver, you will only have eye-tracking available in VTube Studio.
+
 1. Go to https://gaming.tobii.com/getstarted/
 2. Select `"Tobii Eyetracking"`
 3. Select `"Tobii Eye Tracker 4C"`
-4. Select `"Tobii Experience - beta only"`, then click `"Download Driver"` and install it to install `"Tobii Experience"`.
+4. Select `"Tobii Experience - beta only"`, then click `"Download Driver"` and install it to install `"Tobii Experience"`. If you don't want to install the beta driver, select `"Tobii Eye Tracking Core Software"` instead (but then you will not have head-tracking).
 5. Run `"Tobii Experience"` to make sure it works well with your device and calibrate it.
 
 ## What can I do with it in VTube Studio?
