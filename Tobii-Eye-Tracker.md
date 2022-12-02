@@ -34,7 +34,7 @@ Make sure your Tobii eye-tracker is connected to your PC and works (outside of V
 
 ## What can I do with it in VTube Studio?
 
-VTube Studio can use the Tobii tracker to improve the head-tracking and eye-tracking. Depending on the options you've turned on, it does the following:
+VTube Studio can use the Tobii tracker to **improve** the head-tracking and eye-tracking coming from your webcam or iOS/Android device. Depending on the options you've turned on, it does the following:
 
 * **Overwrite iPhone/webcam head X/Y/Z position and rotation** as long as the Tobii tracker detects the head.
   * This position/rotation is very smooth and accurate. Most importantly, it does **NOT** have that annoying head-nod when you blink.
@@ -43,8 +43,9 @@ VTube Studio can use the Tobii tracker to improve the head-tracking and eye-trac
 
 You can also visualize the gaze position. This position will be shown as white bubble/circle in the VTube Studio window. The coordinates for the gaze circle are the X/Y gaze coordinates within the screen the tracker is installed on, so the shown position will only be accurate if VTube Studio is on that screen and in fullscreen mode.
 
+## Can I use the Tobii tracker by itself without any other webcam/phone tracking?
 
-
+That's possible, **but not recommended**. The Tobii tracker does not support things like brow/mouth/etc. tracking so if you use the Tobii tracker by itself, you're probably not going to get the general tracking quality you're looking for.
 
 
 
