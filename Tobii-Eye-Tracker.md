@@ -8,7 +8,7 @@ These are special trackers you can attach to the bottom of your screen. They don
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/tobii_tracker_img.png|alt="Tobii Eye Tracker 5"]]
 
-_**IMPORTANT:**_ If you use a **Tobii 4C Tracker**, you need to install the special beta driver version of **Tobii Experience**. For more info, check [this page](https://help.tobii.com/hc/en-us/articles/4408130344337-Head-tracking-is-no-longer-working-for-those-using-Tobii-Core). This is described below.
+_**IMPORTANT:**_ If you use a **Tobii 4C Tracker**, you need to install the special beta driver version of **Tobii Experience**. For more info, check [this page](https://help.tobii.com/hc/en-us/articles/4408130344337-Head-tracking-is-no-longer-working-for-those-using-Tobii-Core). This will also be described in more detail below.
 
 You can set if up on the following screen, only shown on Windows:
 
