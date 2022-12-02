@@ -2,7 +2,7 @@
 
 On **Windows**, you can use a [Tobii Eye Tracker 5 or 4C](https://gaming.tobii.com/product/eye-tracker-5/) to improve your eye- and head-tracking data.
 
-Other Tobii trackers are **NOT SUPPORTED**.
+Other Tobii trackers are **NOT OFFICIALLY SUPPORTED**.
 
 These are special trackers you can attach to the bottom of your screen. They don't do any facial feature tracking (like mouth, brows, etc.) but they can provide **very accurate tracking** of your **head-position/rotation** and **eye-gaze-position** on your screen. 
 
