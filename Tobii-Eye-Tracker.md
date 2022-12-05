@@ -53,6 +53,13 @@ You can also visualize the gaze position. This position will be shown as white b
 
 That's possible, **but not recommended**. The Tobii tracker does not support things like brow/mouth/etc. tracking so if you use the Tobii tracker by itself, you're probably not going to get the general tracking quality you're looking for.
 
+## I've got issues blinking/winking with my Tobii tracker
+
+Make sure you haven't accidentally set the tracker to only track one eye. You can do that in the **Tobii Experience** app.
+
+
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/tobii_experience_eyes_on.png|alt="Tobii Eye Tracker Settings: Only track one eye"]]
+
 
 
 
