@@ -8,6 +8,15 @@ On Windows, start VTube Studio as admin. VTube Studio can set its GPU priority t
 
 For info on how to start VTube Studio as admin, see [this page](https://github.com/DenchiSoft/VTubeStudio/wiki/Starting-as-Admin).
 
+
+## Use the "GPU Priority" button
+
+**NVIDIA ONLY!!**
+
+You can set VTube Studio to have GPU priority if you have a NVIDIA GPU. That can help if you're playing a game at the same time and the game eats all the GPU resources. In the future this will happen automatically, but for now you have to press this button every time you start VTube Studio if you want it to have GPU priority:
+
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/nvidia_gpu_priority_mode.png]]
+
 ## Check your logs
 
 Click the orange "Log" button in the main menu in VTube Studio. Are there any errors? You can also see the full logs by checking the text files in the "Logs" folder next to your "Live2DModels" folder.
