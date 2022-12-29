@@ -84,6 +84,10 @@ When using Discord for example, just have everyone use the Virtual Webcam featur
 
 **Note (experimental):** It is also possible to use VTS over the internet using LAN-Over-Internet tools like _Zero Tier One_ or _Hamachi_ (free up to 5 participants). You could start multiple instances of VTube Studio on the “host” PC and then have people connect to them. Just remember to use different ports for each instance! Disclaimer: I have not personally tested this method, but users have reported that it works. Of course, there may be network delay.
 
+## The iOS app starts but only shows a gray screen as camera preview or shows the camera image without the tracking mask over my face. What do I do?
+
+First, close and restart VTube Studio. Then, restart your iPhone. If that doesn't help, delete VTube Studio from your iPhone entirely and re-install it. That should fix it. If not, please open a thread in the VTube Studio Discord. 
+
 ## Can I use USB instead of WiFi to connect my smartphone?
 
 You can if you use an iPhone/iPad for face tracking. Direct face tracking data USB connection is not supported on Android. USB is very stable so this is the recommended way to send face tracking data.
