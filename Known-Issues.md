@@ -10,7 +10,7 @@ When running the app on certain devices, the model textures show up all black, e
 * There is no indication in the logs showing anything going wrong.
 * Bug tracking: **https://trello.com/c/T4A77kLC**
 
-This may be happening due to the model using an unsupported texture type. Look into this further and provide sample builds with other texture types to the people experiencing this issue.
+Possible solution: This may be happening due to the model using an unsupported texture type. Look into this further and provide sample builds with other texture types to the people experiencing this issue.
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/bugs/broken_textures_s23.jpg]]
 
