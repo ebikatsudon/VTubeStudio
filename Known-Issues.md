@@ -11,6 +11,7 @@ When running the app on certain devices, the model textures show up all black, e
 * Bug tracking: **https://trello.com/c/T4A77kLC**
 
 **Possible solution:** This may be happening due to the model using an unsupported texture type. Look into this further and provide sample builds with other texture types to the people experiencing this issue.
+May be related to depth-buffer: https://stackoverflow.com/questions/72587842/rendertexture-in-unity-is-black-on-android-but-works-fine-in-editor
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/bugs/broken_textures_s23.jpg]]
 
