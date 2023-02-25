@@ -15,5 +15,3 @@ May be related to depth-buffer: https://stackoverflow.com/questions/72587842/ren
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/bugs/broken_textures_s23.jpg]]
 
-# Unsupported macOS versions/devices
-
