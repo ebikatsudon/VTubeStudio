@@ -13,3 +13,6 @@ When running the app on certain devices, the model textures show up all black, e
 This may be happening due to the model using an unsupported texture type. Look into this further and provide sample builds with other texture types to the people experiencing this issue.
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/bugs/broken_textures_s23.jpg]]
+
+# Unsupported macOS versions/devices
+
