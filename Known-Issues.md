@@ -8,6 +8,7 @@ When running the app on certain devices, the model textures show up all black, e
 * Confirmed OS: **Android 13**
 * More details in VTS Discord thread: **https://discord.com/channels/652602255748497449/1076263423203086426**
 * There is no indication in the logs showing anything going wrong.
+* Bug tracking: **https://trello.com/c/T4A77kLC**
 
 This may be happening due to the model using an unsupported texture type. Look into this further and provide sample builds with other texture types to the people experiencing this issue.
 
