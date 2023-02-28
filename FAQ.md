@@ -96,6 +96,12 @@ On Android, as an alternative you could connect your smartphone via USB and the 
 
 **IMPORTANT:** This is unrelated to VTube Studio, but when you connect an iPhone to a PC/Mac via USB and you have a **Personal Hotspot** active, your PC will automatically try to use the iPhone mobile data connection to access the internet. See this for example: https://apple.stackexchange.com/questions/224069/iphone-prevent-automatic-hotspot-tethering-when-connecting-to-computer
 
+## My Windows-PC freezes when I try to connect my iPhone via USB or runs at 1-2 FPS
+
+Restart VTube Studio, restart your PC and try starting iTunes. If that doesn't fix the issue, close iTunes and VTube Studio again.
+
+Then, open an Explorer and type `%ProgramData%\Apple\Lockdown` in the folder navigation field. Delete everything in that folder, then try starting iTunes and VTube Studio again.
+
 ## What is the "Virtual Webcam" feature?
 
 **"Virtual Webcam"** (available on Windows only) allows you to record the VTube Studio window (without the UI) and directly make it available as a webcam stream, making it easy to use it in Discord, Zoom, etc.
