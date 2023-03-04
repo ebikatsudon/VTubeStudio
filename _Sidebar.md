@@ -26,7 +26,7 @@ VTS Manual
 * [[Animations]]
 * [[Interaction between Animations, Tracking, Physics, etc.]]
 * [[Streaming to Mac/PC]]
-* [[Using Spout2 to record/stream VTS in OBS]]
+* [[Recording/Streaming with OBS]]
 * [[Starting without Steam]]
 * [[Starting as Admin]]
 * [NVIDIA Broadcast Face Tracker](https://github.com/DenchiSoft/VTubeStudio/wiki/NVIDIA-Webcam-Tracker)
