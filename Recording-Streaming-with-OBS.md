@@ -11,7 +11,7 @@
 * It is fast (almost no CPU usage).
 * The video is high-quality and supports transparency (no green-screen needed).
 * It does not capture the VTube Studio UI.
-* It supports any number of VTube Studio windows at the same time.
+* It supports any number of VTube Studio windows at the same time (see [here](https://github.com/DenchiSoft/VTubeStudio/wiki/Starting-without-Steam) for info on how to start VTube Studio multiple times).
 
 To be able to use this, you must first install the Spout2 plugin for OBS. You can find it here: https://docs.offworld.live/#/obs-spout-plugin/README
 
@@ -20,6 +20,8 @@ Then, turn on Spout2 in VTube Studio.
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/turn_on_spout2.png]]
 
 Finally, create a Spout2 source in OBS like this.
+
+*Note:* Instead of "First available sender", you can also directly choose **"VTubeStudioSpout"**, here. If you have multiple VTube Studio windows active, they will show up as **"VTubeStudioSpout2"**, **"VTubeStudioSpout3"**, ...
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/obs_spout2_settings.png]]
 
