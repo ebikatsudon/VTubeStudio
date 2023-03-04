@@ -1,8 +1,31 @@
 ## Important!! Read this first.
 
 * You should never use green-screen. VTube Studio supports *transparency* using various capture methods.
-* On Windows, using Spout2 is recommended (see bottom of this page). It is fast and does not capture the VTube Studio UI.
+* On Windows, using **Spout2** is recommended. It is fast and does not capture the VTube Studio UI. See the next section for more details.
 * On macOS, use a normal game capture or NDI, which supports transparent video streaming as well. However, NDI may not be very performant.
+
+## Using Spout2 for streaming to OBS with invisible UI (transparent background)
+
+**ONLY AVAILABLE ON WINDOWS**. This is the **recommended** OBS capture method in VTube Studio, because:
+
+* It is fast (almost no CPU usage).
+* The video is high-quality and supports transparency (no green-screen needed).
+* It does not capture the VTube Studio UI.
+* It supports any number of VTube Studio windows at the same time.
+
+To be able to use this, you must first install the Spout2 plugin for OBS. You can find it here: https://docs.offworld.live/#/obs-spout-plugin/README
+
+Then, turn on Spout2 in VTube Studio.
+
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/turn_on_spout2.png]]
+
+Finally, create a Spout2 source in OBS like this.
+
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/obs_spout2_settings.png]]
+
+If you want to use transparency (YOU SHOULD), make sure you have selected the "Color Picker Background" in VTube Studio and "Transparent in capture" is on.
+
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/obs_2.png|width=526px]]
 
 ## Recording with OBS (transparent background)
 
@@ -53,9 +76,3 @@ This works similar to NDI. Just **activate the Virtual Webcam in the VTube Studi
 In OBS, you should now see a webcam called **"VTubeStudioCam"**. Add it to your scene with the following settings (except the resolution):
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/obs_virtual_webcam_settings.png]]
-
-## Using Spout2 for streaming to OBS with invisible UI (transparent background)
-
-[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/obs_spout_settings.png]]
-
-https://docs.offworld.live/#/obs-spout-plugin/README
