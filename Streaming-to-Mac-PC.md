@@ -119,4 +119,4 @@ In OBS, you should now see a webcam called **"VTubeStudioCam"**. Add it to your 
 ## Using Spout2 for streaming to OBS with invisible UI (transparent background)
 
 
-
+https://docs.offworld.live/#/obs-spout-plugin/README
