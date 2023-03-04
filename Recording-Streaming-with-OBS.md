@@ -1,4 +1,4 @@
-## Important!! Read this first.
+## Important!! Read this first: How should I record/stream with OBS?
 
 * You should never use green-screen. VTube Studio supports *transparency* using various capture methods.
 * On Windows, using **Spout2** is recommended. It is fast and does not capture the VTube Studio UI. See the next section for more details.
