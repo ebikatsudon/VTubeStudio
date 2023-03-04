@@ -116,3 +116,7 @@ In OBS, you should now see a webcam called **"VTubeStudioCam"**. Add it to your 
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/obs_virtual_webcam_settings.png]]
 
+## Using Spout2 for streaming to OBS with invisible UI (transparent background)
+
+
+
