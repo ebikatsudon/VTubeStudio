@@ -1,3 +1,8 @@
+## Important!! Read this first.
+
+* You should never use green-screen. VTube Studio supports *transparency* using various capture methods.
+* On Windows, using Spout2 is recommended (see bottom of this page). It is fast and does not capture the VTube Studio UI.
+* On macOS, use a normal game capture or NDI, which supports transparent video streaming as well. However, NDI may not be very performant.
 
 ## Recording with OBS (transparent background)
 
