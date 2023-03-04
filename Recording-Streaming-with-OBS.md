@@ -29,7 +29,7 @@ If you want to use transparency (YOU SHOULD), make sure you have selected the "C
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/obs_2.png|width=526px]]
 
-## Recording with OBS (transparent background)
+## Recording with OBS using normal Game Capture (transparent background)
 
 On your PC in VTube Studio, choose the **Color Picker background**. On Windows, you can use the "Transparent in capture" option here, which will make the window background transparent when the window is recorded in OBS **so you don’t need to use greenscreen/chroma keying**.
 
