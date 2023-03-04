@@ -1,4 +1,6 @@
-The main use-case of VTube Studio is to use your smartphone for face tracking, render your model in the Mac/PC app and then use OBS (or recording similar software) to stream to YouTube or Twitch. Any Windows/Mac recording software should work with VTube Studio. 
+The main use-case of VTube Studio is to use your smartphone for face tracking, render your model in the Mac/PC app and then use OBS (or recording similar software) to stream to YouTube or Twitch. Any Windows/Mac recording software should work with VTube Studio.
+
+For info on how to use OBS (or other recording/streaming software) with VTube Studio, check out the page ["Recording Streaming with OBS"](https://github.com/DenchiSoft/VTubeStudio/wiki/Recording-Streaming-with-OBS).
 
 If you use an iPhone/iPad for tracking, you can use WiFi or USB to stream the face tracking data to the PC app. On Android, you can only use WiFi.
 
