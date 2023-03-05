@@ -102,6 +102,12 @@ Try starting VTube Studio outside of Steam using the `start_without_steam.bat` f
 
 Also, try starting VTube Studio as admin and see if that helps. You can do that by right, clicking the VTube Studio `.exe` file, clicking `Properties` and checking `Run this program as an administrator` on the `Compatibility` tab. Then, you start it normally using Steam or using the `start_without_steam.bat` as described above.
 
+## If using USB to connect your iPhone, restart iTunes and clear the iTunes temporary files
+
+Close iTunes (if you have it running for some reason) and VTube Studio.
+
+Then, open an Explorer and type %ProgramData%\Apple\Lockdown in the folder navigation field. Delete everything in that folder, then try starting iTunes and VTube Studio again and check if the lag still happens.
+
 ## Set process priority and GPU priority for VTube Studio
 
 Open the Windows Task Manager, go to the `Details` tab, right click `VTube Studio.exe` and select `High` or `Realtime` under the option `Set prioroty`.
