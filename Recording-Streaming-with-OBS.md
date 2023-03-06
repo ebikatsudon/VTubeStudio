@@ -15,6 +15,8 @@
 
 To be able to use this, you must first install the Spout2 plugin for OBS. You can find it here: https://docs.offworld.live/#/obs-spout-plugin/README
 
+**IF IT FAILS TO INSTALL, ** try using the other installer (they have two, one "manual" and one "automatic"). Also, try running the installer as admin.
+
 Then, turn on Spout2 in VTube Studio.
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/turn_on_spout2.png]]
