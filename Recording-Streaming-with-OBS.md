@@ -13,7 +13,11 @@
 * It does not capture the VTube Studio UI.
 * It supports any number of VTube Studio windows at the same time (see [here](https://github.com/DenchiSoft/VTubeStudio/wiki/Starting-without-Steam) for info on how to start VTube Studio multiple times).
 
-To be able to use this, you must first install the Spout2 plugin for OBS. You can find it here: https://docs.offworld.live/#/obs-spout-plugin/README
+To be able to use this, you must first install the Spout2 plugin for OBS.
+
+### IMPORTANT: The following following installation guide mentions "Resize Output (source size)". DO NOT FOLLOW THIS STEP AS IT MAY BREAK YOUR OBS SCENES!!!!!
+
+You can find it here: https://docs.offworld.live/#/obs-spout-plugin/README
 
 **IF IT FAILS TO INSTALL,** try using the other installer (they have two, one "manual" and one "automatic"). Also, try running the installer as admin.
 
