@@ -1,8 +1,8 @@
 The following are instructions on making **VTube Studio** run with **OpenSeeFace** face tracking on Linux (specifically Arch Linux). This will require some technical knowledge about Linux and is not recommended for beginners, but if you're reading this I'm sure you're already aware of that.
 
-Thanks to Ruyi#0110 for making this guide.
+Thanks to **Ruyi#0110** for making this guide.
 
-## aaaaaaaaaaaaa
+# Guide: Running VTube Studio using OpenSeeFace webcam tracking on Linux
 
 Used distro: Arch Linux. The dollar sign represents the start of the command line, don't include that.
 
