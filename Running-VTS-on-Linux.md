@@ -6,7 +6,7 @@ Thanks to **Ruyi#0110** for making this guide.
 
 Used distro: **Arch Linux**. The dollar sign represents the start of the command line, don't include that.
 
-### Install python39
+## Install python39
 
 `$sudo pacman -Sy python39` 
 
@@ -17,7 +17,7 @@ Note that `pacman` cannot run without `sudo`. `pacman` is the package manager on
 `python39` is the package name itself (I think on debian it might be called 3.9).
 
 
-### Install the requirements
+## Install the requirements
 
 `$sudo pacman -Sy python-pip python-virtualenv git`
 
@@ -28,7 +28,7 @@ Note that `pacman` cannot run without `sudo`. `pacman` is the package manager on
 
 `git` will help us download `OpenSeeFace`. Again, the package names might be different. Some packages you might already have installed.
 
-### Download/Install OpenSeeFace
+## Download/Install OpenSeeFace
 
 `$git clone https://github.com/emilianavt/OpenSeeFace`
 
@@ -54,7 +54,7 @@ And then, this is where the magic happens!
 
 `$python facetracker.py -c 0 -W 1280 -H 720 --discard-after 0 --scan-every 0 --no-3d-adapt 1 --max-feature-updates 900`
 
-### Start VTube Studio
+## Start VTube Studio
 
 Now you should be able to open up VTube Studio, select `VTubeStudioCam` and enjoy (don't worry if the resolution says 4x4, all we need is the `OpenSeeFace` info from it).
 
