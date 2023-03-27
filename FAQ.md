@@ -214,6 +214,12 @@ If you're trying to load a model in the iOS/Android app and the app just crashes
 
 Not sure why you would ever want to, but yes. If you have both active, webcam tracking will be used as long as the webcam can track you. Once it loses tracking, VTS will automatically use the tracking data received over the network instead.
 
+## Is it possible to use VTube Studio with OpenSeeFace tracking on Linux
+
+Linux isn't officially supported. However, some people have managed to make it work.
+
+You can find more info about that on this page: [[Running VTS on Linux]].
+
 ## I am on MacOS and the webcam tracker is broken. 
 
 Webcam tracking on MacOS is experimental and may not work at all depending on your device. Before purchasing any DLCs, please make sure you are happy with the tracking on MacOS as I cannot guarantee it will work in a stable way. In the worst case, if VTS or any other app can't access your webcam anymore, you may have to reset your SMC like this:
