@@ -191,7 +191,7 @@ This means your device is not supported. You should also have seen a popup telli
 
 ## Are MacOS and Linux supported? What about M1 Macs?
 
-* **Linux:** Not officially supported, but it's possible to run VTube Studio on Linux by using the `Network Tracker` mode and starting OpenSeeFace manually, see [this Trello item](https://trello.com/c/kbZWaoKN/26-variable-ip-for-osf-tracker). If you have questions about that, ask on Discord.
+* **Linux:** Not officially supported, but it's possible to run VTube Studio on Linux by using the `Network Tracker` mode and starting OpenSeeFace manually, see [this Trello item](https://trello.com/c/kbZWaoKN/26-variable-ip-for-osf-tracker). If you have questions about that, ask on Discord. You can also find more information on this page [[Running VTS on Linux]].
 * **MacOS:** Supported experimentally with limitations. Download normally through Steam but please be aware that some functionality may not work, including stable webcam tracking and sound lipsync. Silicon M1 Macs should also work but there may be even more stability issues. I can only offer very limited support for macOS.
 
 ## My audio is skipping/glitching when using the Virtual Webcam or NDI.
