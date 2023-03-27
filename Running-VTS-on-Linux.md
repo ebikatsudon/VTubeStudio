@@ -56,7 +56,7 @@ And then, this is where the magic happens!
 
 # Start VTube Studio
 
-Now you should be able to open up VTube Studio, select `VTubeStudioCam` and enjoy (don't worry if the res says 4x4 all we need is the `OpenSeeFace` info from it).
+Now you should be able to open up VTube Studio, select `VTubeStudioCam` and enjoy (don't worry if the resolution says 4x4, all we need is the `OpenSeeFace` info from it).
 
 Note that you need to start the virtual environment every time you want to use `OpenSeeFace`, using the following three commands:
 
