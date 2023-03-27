@@ -63,3 +63,5 @@ Note that you need to start the virtual environment every time you want to use `
 *  `$cd OpenSeeFace`
 *  `$source env/bin/activate`
 *  `$python facetracker.py -c 0 -W 1280 -H 720 --discard-after 0 --scan-every 0 --no-3d-adapt 1 --max-feature-updates 900`
+
+Note that `-c 0` represents your camera. It usually is `0` but if you have multiple cameras (like the camera from the Valve index) you may need to use a different number here (try `1`, `2`, ...)
