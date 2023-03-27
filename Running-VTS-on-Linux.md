@@ -4,7 +4,7 @@ Thanks to **Ruyi#0110** for making this guide.
 
 # Guide: Running VTube Studio using OpenSeeFace webcam tracking on Linux
 
-Used distro: Arch Linux. The dollar sign represents the start of the command line, don't include that.
+Used distro: **Arch Linux**. The dollar sign represents the start of the command line, don't include that.
 
 ### Install python39
 
