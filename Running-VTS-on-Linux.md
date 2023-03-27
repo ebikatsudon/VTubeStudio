@@ -40,7 +40,7 @@ And create the virtual environment:
 
 `$virtualenv -p python39 env`
 
-Then start the virtual environment
+Then start the virtual environment:
 
 `$source env/bin/activate`
 
