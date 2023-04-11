@@ -14,7 +14,7 @@ Note that `pacman` cannot run without `sudo`. `pacman` is the package manager on
 
 `-Sy` is the argument for `pacman` that tells it to update the mirrors and install the package.
 
-`python39` is the package name itself (I think on debian it might be called `python3.9`).
+`python39` is the package name itself (I think on Ubuntu it might be called `python3.9`).
 
 
 ## Install the requirements
