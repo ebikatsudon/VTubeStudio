@@ -5,7 +5,7 @@
   <img src="https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/vnet/vnet_icon_text_dark.png" width="200" /> 
 </p>
 
-**VNet** is VTube Studio's built-in **online collaboration functionality**, available as **paid DLC** for Windows and macOS.
+**VNet** is VTube Studio's built-in **online collaboration system**, available as **paid DLC** for Windows and macOS.
 
 You can buy it here: https://store.steampowered.com/app/2384550
 
