@@ -122,10 +122,22 @@ If the game uses the steam `"Invite to game"` feature, make sure you start the g
 
 ## Why do I sometimes get disconnected from a collab?
 
-That can happen for 
+That can happen for many reasons. A small hiccup in your internet connection can cause Steam to disconnect you from the collab. If you were the host, that means the collab instantly ends and everyone is disconnected. In that case, you'll have to restart the collab.
 
-mention in guide that antivirus like AVG can disconnect you from steam temporarily
+Other typical causes of Steam connection issues include:
+* VPNs
+* Anti-Virus / Anti-Spyware and other security apps (for example AVG)
+* Firewalls
+* App performance-improvement software
+* P2P filesharing apps that consume a large amount of bandwidth
+* ...
 
-https://help.steampowered.com/en/faqs/view/1F39-DCB4-FF28-5748
+For more info and troubleshooting, check out the official guide on Steam: https://help.steampowered.com/en/faqs/view/1F39-DCB4-FF28-5748
 
+Also, Steam has a **weekly scheduled maintenance**, during which online services (including VTube Studio's VNet) will be unavailable for a short time. The maintenance happens **every Tuesday around 3-4 PM Pacific Time** and typically lasts for **10-30 minutes**. Please plan your collabs accordingly.
 
+You can see current Steam status info on this website: https://steamstat.us/
+
+## How safe is this? Can my models get stolen?
+
+All security details can be found on the page "[[VNet-Security]]".
