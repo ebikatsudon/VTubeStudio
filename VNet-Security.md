@@ -26,11 +26,13 @@ VNet is just one more tool you can use in your collabs. In many cases, using vid
 * If for some reason the host's VTube Studio crashes, it won't be able to delete the files anymore since the random filenames are never stored locally. Any files left on the VNet servers will automatically be wiped after 24 hours (max. session time).
 
 
-Super detailed version (this will also be published): https://denchisoft.com/wp-content/uploads/2023/04/vnet_setup_v1.pdf
+**Super detailed version:**
+
+Link: ["VNet Sequence Diagram and Security Details"](https://denchisoft.com/wp-content/uploads/2023/04/vnet_setup_v1.pdf)
 
 
 
 
 
-[VNet Sequence Diagram and Security Details](https://denchisoft.com/wp-content/uploads/2023/04/vnet_setup_v1.pdf)
+
 
