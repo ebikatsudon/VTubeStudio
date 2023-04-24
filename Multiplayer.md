@@ -51,19 +51,27 @@ In the top right, you can access the general collab settings. This lets you disa
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/vnet/vnet_basic_setup.png]]
 
+You will then be shown a list of all other clients in the collab and can decide whether or not you want to join.
+
+If you decide to join, you are now in the collab session. Any models/items you load will automatically synced to all other participants.
+
+This screen will show the ping for all joined clients and whether or not they're currently uploading/downloading any items/models in the background. A red dot next to their profile picture means they haven't currently joined the collab.
+
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/vnet/vnet_users_list.png|height=430px]]
+
+When people join, their models/items will spawn in automatically and vanish when they leave.
+
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/vnet/vnet_main_scene.png|height=430px]]
+
+## How do I reorder models?
+
+You can drag/scale/resize your own model. You can drag using the left or right mouse button.
+* **[LEFT]:** When you start a left-click drag, your model will be set to the top, above all other participant models. This will happen on your side and for all other participants. They can do the same to set themselves on top.
+* **[RIGHT]:** You can right-click drag to drag your model without changing the model order.
+
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/vnet/vnet_gif_drag.gif]]
 
 
-
-
-
-
-
-
-
-
-
-
-[VNet Sequence Diagram and Security Details](https://denchisoft.com/wp-content/uploads/2023/04/vnet_setup_v1.pdf)
-
+## Why do I sometimes get disconnected from a collab?
 
 https://help.steampowered.com/en/faqs/view/1F39-DCB4-FF28-5748
