@@ -104,9 +104,6 @@ Try turning off `VNet parameter smoothing` for your frame-by-frame Live2D parame
 
 ## Are there any limitations? For example for item/model sizes or Live2D items?
 
-:Blank:
-> :sparkles: **Are there any limitations? For example for item/model sizes or Live2D items?**
-
 Currently, there are a few limitations in place, but you are unlikely to run into them if you use VNet normally.
 * **[1]:** You can load any number of items, Live2D items or models.
 * **[2]:** Any item/model you load can have at most 120 files.
