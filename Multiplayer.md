@@ -113,6 +113,10 @@ Currently, there are a few limitations in place, but you are unlikely to run int
 * **[6]:** Live2D parameter values can't be bigger than 9000 or smaller than -9000.
 * **[7]:** All models/items are kept in memory, so if you load many very big items/models during the session, the VTube Studio RAM usage will grow, so be careful. There is currently no limit in place, so this can potentially crash VTube Studio.
 
+## Can I pin items to other people?`
+
+Currently you can't. I might consider adding that later.
+
 ## Can I modify my model settings during a collab?
 
 It may work for some model settings. In general, I would not recommend it.
@@ -123,6 +127,9 @@ Yes, you can run VTube Studio via Steam and any number of Steam games at the sam
 
 If the game uses the steam `"Invite to game"` feature, make sure you start the game **AFTER** VTube Studio. That marks the game as "currently played game" and all invites you send will be for that game.
 
+## Something broke! What do I do?
+
+Please report any bugs in the VTube Studio Discord: https://discord.gg/VTubeStudio  :heart:
 
 ## Why do I sometimes get disconnected from a collab?
 
