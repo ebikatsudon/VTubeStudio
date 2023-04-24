@@ -6,6 +6,7 @@ In general, if you don't trust the other collab participants you should not use 
 
 **VNet is just one more tool you can use in your collabs.** In many cases, using video-sharing-based tools like [VDO.Ninja](https://vdo.ninja/), [Discord](https://discord.com/), [ping.gg](https://ping.gg/) or [MultiV](https://iv.gg/multiv/login) is the right choice.
 
+General information about what VNet is can be found on the page "[[Multiplayer]]".
 
 **Short version:**
 * People outside the collab will not be able to access your files. They would need to know the random secret file URLs. Even if they had that, all files are strongly encrypted.
