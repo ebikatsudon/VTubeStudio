@@ -141,6 +141,7 @@ Other typical causes of Steam connection issues include:
 * Firewalls
 * App performance-improvement software
 * P2P filesharing apps that consume a large amount of bandwidth
+* Steam servers being temporarily unstable/down
 * ...
 
 For more info and troubleshooting, check out the official guide on Steam: https://help.steampowered.com/en/faqs/view/1F39-DCB4-FF28-5748
