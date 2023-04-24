@@ -39,6 +39,8 @@ VTS Manual
 * [[Live2D-Items]]
 * [[Recoloring Models and Items]]
 * [[Record Animations]]
+* [[Multiplayer]]
+* [[VNet Security]]
 * [[Twitch Interaction]]
 * [[Add Special ArtMesh Functionality]]
 * [Item Scenes & Item Hotkeys](https://github.com/DenchiSoft/VTubeStudio/wiki/Item-Scenes-and-Item-Hotkeys)
