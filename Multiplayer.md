@@ -129,6 +129,8 @@ If the game uses the steam `"Invite to game"` feature, make sure you start the g
 
 ## Something broke! What do I do?
 
+Please remember that this feature is very new. There may be some bugs in the initial version.
+
 Please report any bugs in the VTube Studio Discord: https://discord.gg/VTubeStudio  :heart:
 
 ## Why do I sometimes get disconnected from a collab?
