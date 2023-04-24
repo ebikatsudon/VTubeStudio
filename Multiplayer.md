@@ -2,8 +2,8 @@
 
 
 <p float="left">
-  <img src="https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/vnet/akaridance_anim.gif" width="130" /> 
-  <img src="https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/vnet/vnet_icon_text_dark.png" width="230" /> 
+  <img src="https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/vnet/akaridance_anim.gif" width="110" /> 
+  <img src="https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/vnet/vnet_icon_text_dark.png" width="210" /> 
 </p>
 
 **VNet** is VTube Studio's built-in **online collaboration functionality**, available as paid DLC for Windows and macOS.
