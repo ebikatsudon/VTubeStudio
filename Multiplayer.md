@@ -113,6 +113,10 @@ Currently, there are a few limitations in place, but you are unlikely to run int
 * **[6]:** Live2D parameter values can't be bigger than 9000 or smaller than -9000.
 * **[7]:** All models/items are kept in memory, so if you load many very big items/models during the session, the VTube Studio RAM usage will grow, so be careful. There is currently no limit in place, so this can potentially crash VTube Studio.
 
+## Can I modify my model settings during a collab?
+
+It may work for some model settings. In general, I would not recommend it.
+
 ## Can I use this while playing a Steam game with friends?
 
 Yes, you can run VTube Studio via Steam and any number of Steam games at the same time by normally starting them via Steam.
