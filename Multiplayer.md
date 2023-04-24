@@ -112,6 +112,7 @@ Currently, there are a few limitations in place, but you are unlikely to run int
 * **[5]:** You can load any number of Live2D items, but if the total number of Live2D parameters in your Live2D items is greater than 100, the Live2D item models that pushed the parameter count over 100 will not have their parameter values synced. They will still be loaded for the other participants though and react to physics on their side.
 * **[6]:** Live2D parameter values can't be bigger than 9000 or smaller than -9000.
 * **[7]:** All models/items are kept in memory, so if you load many very big items/models during the session, the VTube Studio RAM usage will grow, so be careful. There is currently no limit in place, so this can potentially crash VTube Studio.
+* **[8]:** The collab time limit is 24 hours. After 24 hours, collabs automatically end and have to be restarted.
 
 ## Can I pin items to other people?
 
