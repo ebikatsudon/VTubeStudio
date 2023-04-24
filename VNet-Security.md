@@ -19,6 +19,7 @@ VNet is just one more tool you can use in your collabs. In many cases, using vid
 * A host has to create a collab session. The host has to manually add up to 3 participants to the session (4 participants can be in a session), selected from their Steam friends. The host also has to set a secure session password.
 * When you join a session and are not on the guest list or have the wrong password, your connection will be rejected. That means that even people who have the password cannot join without being invited by the host.
 * No new participants can be added to the guest list while the session is ongoing.
+* All connections are established using and routed through Steam's relay servers, so all participants are fully authenticated using their Steam IDs and communication is always end-to-end encrypted during a session. 
 * When you join a session with the correct password and you are on the guest list, you will be presented with a list of all other invited participants and can choose whether or not you want to actually enter the session.
 * If you choose to join the session, any items/models you load will be uploaded to the VNet servers. Before the upload, they are encrypted with a 256 bit AES key. The file name for the upload will also be randomized (random 32 byte hex string)
 * The encryption key and random file name are then distributed to all connected session participants. The key and file name are never shown or stored by VTS so you cannot accidentally reveal anything on stream.
