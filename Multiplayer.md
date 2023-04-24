@@ -153,3 +153,7 @@ You can see current Steam status info on this website: https://steamstat.us/
 ## How safe is this? Can my models get stolen?
 
 All security details can be found on the page "[[VNet-Security]]". In general, if you don't trust the other collab participants you should not use this, as they could use specialized software to steal your model during collabs. People outside the collab cannot steal your model.
+
+If you're a security researcher and have found any vulnerabilities, please contact me at **support at denchisoft dot com** :heart:
+
+
