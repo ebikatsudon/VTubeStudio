@@ -61,7 +61,7 @@ This screen will show the ping for all joined clients and whether or not they're
 
 When people join, their models/items will spawn in automatically and vanish when they leave.
 
-[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/vnet/vnet_main_scene.png|height=430px]]
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/vnet/vnet_main_scene.png|height=400px]]
 
 ## How do I reorder models?
 
