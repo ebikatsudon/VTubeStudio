@@ -4,7 +4,7 @@
 
 In general, if you don't trust the other collab participants you should not use this, as they could use specialized software to steal your shared model during collabs (only models/items you load). This is true for VNet and any other collab application that shares your models with other participants. People outside the collab cannot steal your model.
 
-VNet is just one more tool you can use in your collabs. In many cases, using video-sharing-based tools like [VDO.Ninja](https://vdo.ninja/), [Discord](https://discord.com/), [ping.gg](https://ping.gg/) or [MultiV](https://iv.gg/multiv/login) is the right choice.
+**VNet is just one more tool you can use in your collabs.** In many cases, using video-sharing-based tools like [VDO.Ninja](https://vdo.ninja/), [Discord](https://discord.com/), [ping.gg](https://ping.gg/) or [MultiV](https://iv.gg/multiv/login) is the right choice.
 
 
 **Short version:**
