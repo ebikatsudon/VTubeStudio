@@ -32,6 +32,32 @@ There are two new buttons in the main menu:
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/vnet/vnet_main_buttons.png]]
 
+In the `collab setup screen`, you can choose if you want to host or join a session. Then, choose a nickname. This will be used to identify you during the session and will be shown instead of your Steam name or Steam ID since many people may want to keep those private.
+
+Make sure you put in the correct password and all people on the collab use the same version of VTube Studio. Then, to host/join:
+* If you are HOSTING a collab, you can select up to 3 Steam friends to add to the collab. ---> Then press `Host` button.
+* If you are JOINING a collab, you have to select the Steam friend who is hosting the collab you want to join.  ---> Then press `Join` button.
+
+You can also select a `File Server Region`. This determines which VNet server your files will be uploaded to. Choose the nearest region to you so your models/items upload as fast as possible.
+The host can also set the `Data FPS`. This determines how fast movement data is sent between collab participants.
+
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/hint_top.png]]
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/bunny_point.png|alt="Important Point!!"|height=59px|width=189px]]<br/>
+The person with the best internet connection (upload/download speed) should host the session!
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/hint_bottom.png]]
+
+
+In the top right, you can access the general collab settings. This lets you disallow sharing dragged-in items, for example (as a security measure).
+
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/vnet/vnet_basic_setup.png]]
+
+
+
+
+
+
+
+
 
 
 
