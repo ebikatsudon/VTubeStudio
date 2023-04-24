@@ -61,7 +61,7 @@ This screen will show the ping for all joined clients and whether or not they're
 
 When people join, their models/items will spawn in automatically and vanish when they leave.
 
-[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/vnet/vnet_main_scene.png|height=400px]]
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/vnet/vnet_main_scene.png]]
 
 ## How do I reorder models?
 
@@ -70,6 +70,34 @@ You can drag/scale/resize your own model. You can drag using the left or right m
 * **[RIGHT]:** You can right-click drag to drag your model without changing the model order.
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/vnet/vnet_gif_drag.gif]]
+
+## How do I see who has joined the collab?
+
+Open the **"Session Control Screen"**. It's the right button.
+
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/vnet/vnet_control.png|width=670px]]
+
+This screen can safely opened during the session, since it shows no details like Steam ID, etc. It only shows the nicknames the participants have chosen. The host will be marked with a little crown there.
+
+You can also leave the collab session from here. When the host leaves, the session ends and everyone disconnects.
+
+**About the ping:** The ping is the time (in milliseconds) it takes for your movement data to be received by the host and for the host to respond to you. So by definition, the host will always have a 0 ms ping. 
+Your ping will mostly depend on how far away you are from the host and also on whether or not you have a good internet connection. Typically it should be somewhere between 100 and 300 ms.
+
+On this screen, you can do 4 things:
+* **[1]:** Switch the model position control mode per participant (make other participants into Live2D items, explained below).
+* **[2]:** Show/Hide models per participant. This is good for when only one person is streaming since your VTS won't have to render/animate the models from the other participants.
+* **[3]:** Show/Hide items per participant.
+* **[4]:** Set "smoothing" for that participant (might rename this to "movement buffer" since it's not really smoothing). This lets you set a buffer (between 0 and 1 seconds) for movement data. A bigger buffer allows VTS to remove stuttering caused by network lag but will also introduce a delay. Keep this at 0.05 (default) to 0.10 seconds if you don't experience any stuttering, otherwise increase it until the jittering is gone.
+
+## How do I pin other participants to myself?
+
+You can do that by switching on `"You control position"` for a participant. That essentially turns their model into a Live2D item that you can drag around, resize, rotate and even pin to yourself.
+
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/vnet/vnet_gif_pin_to_other.gif]]
+
+
+
 
 
 ## Why do I sometimes get disconnected from a collab?
