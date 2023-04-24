@@ -102,6 +102,14 @@ Try turning off `VNet parameter smoothing` for your frame-by-frame Live2D parame
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/vnet/vnet_param_smoothing.png]]
 
+## How performant is this? Do I need a strong PC and good internet?
+
+Rendering and animating multiple complex Live2D models may require a good CPU. But essentially it’s the same as loading multiple models in one instance of VTube Studio via VTube Studio Live2D Items.
+
+Since all models are stored in memory and never saved on the hard drive of collab partners, loading multiple big models may also require a significant amount of memory: if the downloaded encrypted model files are 50 MB in total, it will increase the VTube Studio memory usage by at least 50 MB when the model is downloaded. Same goes for items.
+
+As for the internet connection, it depends how fast you want to send model animation data to the other collab participants. At 30-60 FPS, you can expect VTube Studio to require about 30-60 kb/s of bandwidth up/down. For the collab host, the required bandwidth might be more in the 100-300 kb/s range. Mainly this depends on the complexity of the used models (amount of Live2D parameters).
+
 ## Are there any limitations? For example for item/model sizes or Live2D items?
 
 Currently, there are a few limitations in place, but you are unlikely to run into them if you use VNet normally.
