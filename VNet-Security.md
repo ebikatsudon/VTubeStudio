@@ -11,7 +11,7 @@ Short version:
 * People outside the collab will not be able to access your files. Even if they could, all files are strongly encrypted.
 * The 4 collab participants could use specialized tools to extract model and item files from memory while the collab is ongoing.
 * Never use this with people you don't trust. Use video-based collab tools in that case.
-* I also do not have access to any of the encryption keys so I can't decrypt any files shared during collabs. I also cannot see who is currently in a collab or any Steam IDs.
+* I (developer) also do not have access to any of the encryption keys so I can't decrypt any files shared during collabs. I also cannot see who is currently in a collab or any Steam IDs.
 
 
 More detailed version:
