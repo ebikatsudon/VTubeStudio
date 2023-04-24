@@ -96,6 +96,28 @@ You can do that by switching on `"You control position"` for a participant. That
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/vnet/vnet_gif_pin_to_other.gif]]
 
+## I have frame-by-frame parameters in my Live2D model and they look broken for the other participants. How to fix that?
+
+Try turning off `VNet parameter smoothing` for your frame-by-frame Live2D parameters. You can do that here:
+
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/vnet/vnet_param_smoothing.png]]
+
+## Are there any limitations? For example for item/model sizes or Live2D items?
+
+:Blank:
+> :sparkles: **Are there any limitations? For example for item/model sizes or Live2D items?**
+
+Currently, there are a few limitations in place, but you are unlikely to run into them if you use VNet normally.
+* **[1]:** You can load any number of items, Live2D items or models.
+* **[2]:** Any item/model you load can have at most 120 files.
+* **[3]:** Any item/model you load can be at most 190 MB in total size (after VNet compression).
+* **[4]:** Items/Models that have at least one file that is larger than 90 MB (compressed) will not work.
+* **[5]:** You can load any number of Live2D items, but if the total number of Live2D parameters in your Live2D items is greater than 100, the Live2D item models that pushed the parameter could over 100 will not have their parameter values synced. They will still be loaded for the other participants though and react to physics on their side.
+* **[6]:** Live2D parameter values can't be bigger than 9000 or smaller than -9000.
+* **[7]:** All models/items are kept in memory, so if you load many very big items/models during the session, the VTube Studio RAM usage will grow, so be careful.
+
+
+
 
 
 
