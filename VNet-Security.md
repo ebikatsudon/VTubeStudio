@@ -6,14 +6,13 @@ In general, if you don't trust the other collab participants you should not use 
 
 VNet is just one more tool you can use in your collabs. In many cases, using video-sharing-based tools like [VDO.Ninja](https://vdo.ninja/), [Discord](https://discord.com/), [ping.gg](https://ping.gg/) or [MultiV](https://iv.gg/multiv/login) is the right choice.
 
-:Blank:
-> :sparkles: **How secure is it?**
 
 Short version:
-      •  People outside the collab will not be able to access your files. Even if they could, all files are strongly encrypted.
-      •  The 4 collab participants could theoretically use specialized tools to extract model and item files from memory while the collab is ongoing.
-      •  Never use this with people you don't trust. Use video-based collab tools in that case.
-      •  I also do not have access to any of the encryption keys so I can't decrypt any files shared during collabs. I also cannot see who is currently in a collab or any Steam IDs.
+* People outside the collab will not be able to access your files. Even if they could, all files are strongly encrypted.
+* The 4 collab participants could theoretically use specialized tools to extract model and item files from memory while the collab is ongoing.
+* Never use this with people you don't trust. Use video-based collab tools in that case.
+* I also do not have access to any of the encryption keys so I can't decrypt any files shared during collabs. I also cannot see who is currently in a collab or any Steam IDs.
+
 
 More detailed version:
 * A host has to create a collab session. The host has to manually add up to 3 participants to the session (4 participants can be in a session), selected from their Steam friends. The host also has to set a secure session password.
