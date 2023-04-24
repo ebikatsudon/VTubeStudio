@@ -113,7 +113,7 @@ Currently, there are a few limitations in place, but you are unlikely to run int
 * **[6]:** Live2D parameter values can't be bigger than 9000 or smaller than -9000.
 * **[7]:** All models/items are kept in memory, so if you load many very big items/models during the session, the VTube Studio RAM usage will grow, so be careful. There is currently no limit in place, so this can potentially crash VTube Studio.
 
-## Can I pin items to other people?`
+## Can I pin items to other people?
 
 Currently you can't. I might consider adding that later.
 
