@@ -1,6 +1,5 @@
 
 
-
 <p float="left">
   <img src="https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/vnet/akaridance_anim.gif" width="110" /> 
   <img src="https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/vnet/vnet_icon_text_dark.png" width="200" /> 
@@ -22,7 +21,20 @@ You can buy it here: https://store.steampowered.com/app/2384550
 **Note:** This page describes what VNet is and how to use it. If you want to learn about security aspects, please check out the page "[[VNet-Security]]".
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/hint_bottom.png]]
 
- test
+
+## How do I host/join a session?
+
+There are two new buttons in the main menu:
+* **[LEFT]: Collab Setup**
+  * Use this for setting up or joining the collab. Will show private details such as Steam names, Steam IDs and Steam profile pictures.
+* **[RIGHT]: Collab Control**
+  * Use this during the collab. Will show who's in the collab but only shows nicknames and no personal info.
+
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/vnet/vnet_main_buttons.png]]
+
+
+
+
 
 
 [VNet Sequence Diagram and Security Details](https://denchisoft.com/wp-content/uploads/2023/04/vnet_setup_v1.pdf)
