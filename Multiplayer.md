@@ -77,7 +77,7 @@ Open the **"Session Control Screen"**. It's the right button.
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/vnet/vnet_control.png|width=670px]]
 
-This screen can safely opened during the session, since it shows no details like Steam ID, etc. It only shows the nicknames the participants have chosen. The host will be marked with a little crown there.
+This screen can safely be opened during the session, since it shows no details like Steam ID, etc. It only shows the nicknames the participants have chosen. The host will be marked with a little crown there.
 
 You can also leave the collab session from here. When the host leaves, the session ends and everyone disconnects.
 
