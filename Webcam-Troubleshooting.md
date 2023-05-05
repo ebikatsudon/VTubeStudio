@@ -69,7 +69,7 @@ Try starting the webcam tracker manually and see it it works outside of VTube St
 
 ## Ask in the VTube Studio Discord
 
-If none of that helped, please ask in the VTube Studio Discord by creating a support thread.
+If none of that helped, please ask in the VTube Studio Discord by creating a support thread. When creating a thread, please post your logs. The logs (.txt files) can be found in the `Logs` folder next to the `Live2DModels` folder.
 
 https://discord.gg/VTubeStudio
 
