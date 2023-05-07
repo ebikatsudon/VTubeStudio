@@ -8,7 +8,7 @@ I am always looking for replacements for that library, so as soon as I find some
 
 # Unsupported Device: Samsung S23 (any type)
 
-When running the app on certain devices, the model textures show up all black, even the supposedly transparent parts.
+<s>When running the app on certain devices, the model textures show up all black, even the supposedly transparent parts.
 
 * Confirmed devices: **Samsung SM-S916B (Galaxy S23+)**
 * Confirmed OS: **Android 13**
@@ -18,6 +18,9 @@ When running the app on certain devices, the model textures show up all black, e
 
 **Possible solution:** This may be happening due to the model using an unsupported texture type. Look into this further and provide sample builds with other texture types to the people experiencing this issue.
 May be related to depth-buffer: https://stackoverflow.com/questions/72587842/rendertexture-in-unity-is-black-on-android-but-works-fine-in-editor
+</s>
+
+**Will be fixed with the next Android app update sometime mid-May.**
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/bugs/broken_textures_s23.jpg]]
 
