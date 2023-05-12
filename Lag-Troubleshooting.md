@@ -27,7 +27,7 @@ Sometimes something will break in VTS and spam the logs with errors every frame,
 
 Apps like `"MSI AfterBurner"` that improve game performance may actually cause performance/framerate issues in some cases. Turn them all off and see if that helps. If it does, check if you can add VTube Studio as an exception to those apps (they usually allow that somehow).
 
-Another app that can cause lag is `"RTSS Rivatuner"`, so please be careful with that one as well. The app "Game Fire" may also cause lag or freezes.
+Another app that can cause lag is `"RTSS Rivatuner"`, so please be careful with that one as well. The app `"Game Fire"` may also cause lag or freezes.
 
 If you have Norton/BullGuard installed, make sure the "Game Optimizer" settings are off.
 
