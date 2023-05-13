@@ -1,5 +1,7 @@
 VTube Studio is only available via Steam and all updates will distributed that way. However, once downloaded, **you can start VTube Studio without Steam**.
 
+**Note:** [Multiplayer (VNet)](https://github.com/DenchiSoft/VTubeStudio/wiki/Multiplayer) functionality will not be available when VTube Studio is started without Steam.
+
 Use the `start_without_steam.bat` file next to the main VTube Studio `.exe`. 
 
 <br/>
