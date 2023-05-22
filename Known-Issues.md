@@ -20,7 +20,7 @@ I am always looking for replacements for that library, so as soon as I find some
 May be related to depth-buffer: https://stackoverflow.com/questions/72587842/rendertexture-in-unity-is-black-on-android-but-works-fine-in-editor
 </s>
 
-**Will be fixed with the next Android app update sometime mid-May.**
+**Will be fixed with the next Android app update sometime around the end of May.**
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/bugs/broken_textures_s23.jpg]]
 
