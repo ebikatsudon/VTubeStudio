@@ -18,6 +18,10 @@ This will let you set multiply and screen overlay colors for every ArtMesh. Thes
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/live2d_item_recolor.png|alt="Recoloring your model ArtMeshes"]]
 
+### Making parts of the model invisible
+
+You can also make ArtMeshes invisible or semi-transparent. Use the `A / Alpha` slider on the `Multiply` setting for the ArtMesh for that.
+
 ## Recoloring your Live2D Items
 
 Doing the same for Live2D items is also easy. For more info on how to do that, check the page on Live2D items: https://github.com/DenchiSoft/VTubeStudio/wiki/Live2D-Items
