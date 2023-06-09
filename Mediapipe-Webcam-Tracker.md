@@ -15,13 +15,11 @@ It is directly included in VTube Studio (Windows only for now), no DLC or furthe
 
 # How do I get the tracker?
 
-The tracker is only available for Windows, but unlike the NVIDIA tracker, no special GPU is required.
-
-TODO: performance
+The Google Mediapipe tracker is only available for Windows, but unlike the NVIDIA tracker, no special GPU is required. The tracker is directly included in VTube Studio, no further download or DLC needed.
 
 # How to use this?
 
-The NVIDIA Broadcast tracker can be started just like the regular OpenSeeFace webcam tracker. Just select **"RTX - NVIDIA Broadcast"** after clicking the **"Tracking Type"** button (see 1). This will only be available if you actually have a RTX-supported GPU.
+The Google Mediapipe tracker can be started just like the regular OpenSeeFace webcam tracker. Just select **"[Google] Mediapipe Tracker"** after clicking the **"Tracking Type"** button (see 1). This will only be available if you actually have a RTX-supported GPU.
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/mediapipe_ui_explanation.png]]
 
