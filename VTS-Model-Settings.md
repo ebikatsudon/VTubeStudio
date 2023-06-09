@@ -71,7 +71,7 @@ If your model doesn't move despite the Live2D parameter clearly moving in the VT
 VTube Studio currently supports the following input parameters that can be mapped to output Live2D parameters. The iOS-only parameters are also marked accordingly in the app.
 
 
-| Parameter Name | Explanation                 | iOS  | Android | Webcam | Webcam NVIDIA | Webcam Mediapipe |
+| Parameter Name | Explanation                 | iOS  | Android | Webcam | [Webcam NVIDIA](https://github.com/DenchiSoft/VTubeStudio/wiki/NVIDIA-Webcam-Tracker) | [Webcam Mediapipe](https://github.com/DenchiSoft/VTubeStudio/wiki/Mediapipe-Webcam-Tracker) |
 | --------------- | -------------------------- | ---- | ------- | ------- | ------- | ------- |
 | **FacePositionX**  | horizontal position of face | ✔️  | ✔️      |    ✔️ |✔️ | ✔️|
 | **FacePositionY** | vertical position of face | ✔️ | ✔️ | ✔️ | ✔️| ✔️|
@@ -81,7 +81,7 @@ VTube Studio currently supports the following input parameters that can be mappe
 | **FaceAngleZ** | face lean rotation | ✔️ | ✔️ | ✔️ | ✔️| ✔️|
 | **MouthSmile** | how much you're smiling | ✔️ | ✔️ | ✔️ | ✔️| ✔️|
 | **MouthOpen** | how open your mouth is | ✔️ | ✔️ | ✔️ | ✔️| ✔️|
-| **Brows** | up/down for both brows combined | ✔️ | ✔️ | ✔️ | | |
+| **Brows** | up/down for both brows combined | ✔️ | ✔️ | ✔️ |✔️ |✔️ |
 | **MousePositionX** | x-pos. of mouse or finger within set range | ✔️ | ✔️ | ✔️ | ✔️| ✔️|
 | **MousePositionY** | y-pos. of mouse or finger within set range | ✔️ | ✔️ | ✔️ | ✔️| ✔️|
 | **TongueOut** | stick out your tongue | ✔️ | ✔️ | ❌ |❌ | ❌|
