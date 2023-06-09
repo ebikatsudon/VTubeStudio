@@ -19,7 +19,9 @@ The Google Mediapipe tracker is only available for Windows, but unlike the NVIDI
 
 # How to use this?
 
-The Google Mediapipe tracker can be started just like the regular OpenSeeFace webcam tracker. Just select **"[Google] Mediapipe Tracker"** after clicking the **"Tracking Type"** button. This will only be available on Windows.
+The Google Mediapipe tracker can be started just like the regular OpenSeeFace webcam tracker.
+
+Just select **"[Google] Mediapipe Tracker"** after clicking the **"Tracking Type"** button. This will only be available on Windows.
 
 After starting the tracker for the first time, make sure to calibrate at least once while making a neutral face and looking straight at the screen. VTube Studio remembers the calibration data so you don't have to do that every time you start the tracker or restart VTube Studio.
 
