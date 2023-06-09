@@ -7,11 +7,11 @@ It is directly included in VTube Studio (Windows only for now), no DLC or furthe
 
 <br/>
 
-[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/nvidia_broadcast_logo_full.png]]
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/mediapipe_A.png]]
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/nvidia_tracker_example.gif" width="800" /> 
+<img src="https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/mediapipe_face_example_A.gif" width="800" /> 
 
 # How do I get the tracker?
 
@@ -23,7 +23,7 @@ TODO: performance
 
 The NVIDIA Broadcast tracker can be started just like the regular OpenSeeFace webcam tracker. Just select **"RTX - NVIDIA Broadcast"** after clicking the **"Tracking Type"** button (see 1). This will only be available if you actually have a RTX-supported GPU.
 
-[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/rtx_ui_explanation.png]]
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/mediapipe_ui_explanation.png]]
 
 1. Click this button to select the new NVIDIA Broadcast tracker. Will not be available if your GPU is not supported.
 2. The tracking type. Only "Face Tracking" will be available here if you use the NVIDIA Broadcast tracker. Hand tracking is currently not supported when using the NVIDIA Broadcast tracker.
