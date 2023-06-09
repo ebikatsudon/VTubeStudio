@@ -1,7 +1,7 @@
 
 <br/>
 
-In addition to tracking using OpenSeeFace and the [NVIDIA RTX webcam tracker](https://github.com/DenchiSoft/VTubeStudio/wiki/NVIDIA-Webcam-Tracker), VTube Studio now supports high-quality webcam tracking using the new **Google Mediapipe Webcam tracker**. The quality is mostly comparable to the NVIDIA tracker but no special hardware is required.
+In addition to tracking using OpenSeeFace and the [NVIDIA RTX webcam tracker](https://github.com/DenchiSoft/VTubeStudio/wiki/NVIDIA-Webcam-Tracker), VTube Studio now supports high-quality webcam tracking using the new **Google Mediapipe Webcam tracker**. The quality is roughly comparable to the NVIDIA tracker but no special hardware is required.
 
 It is directly included in VTube Studio (Windows only for now), no DLC or further download needed.
 
