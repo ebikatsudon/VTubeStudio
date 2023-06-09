@@ -7,7 +7,7 @@ It is directly included in VTube Studio (Windows only for now), no DLC or furthe
 
 <br/>
 
-[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/mediapipe_A.png]]
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/mediapipe_A_small.png]]
 
 <br/>
 
