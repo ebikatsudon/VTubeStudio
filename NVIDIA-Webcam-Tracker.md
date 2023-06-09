@@ -5,6 +5,8 @@ In addition to tracking using OpenSeeFace, VTube Studio now supports high-qualit
 
 Download for free here: https://store.steampowered.com/app/2178540/VTube_Studio__NVIDIA_Broadcast_Tracker
 
+If you do not have an RTX GPU, you might want to check out the [Google Mediapipe Tracker](https://github.com/DenchiSoft/VTubeStudio/wiki/Mediapipe-Webcam-Tracker) instead for comparable tracking quality.
+
 <br/>
 
 
