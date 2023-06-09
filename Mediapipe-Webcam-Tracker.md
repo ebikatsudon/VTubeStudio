@@ -19,42 +19,31 @@ The Google Mediapipe tracker is only available for Windows, but unlike the NVIDI
 
 # How to use this?
 
-The Google Mediapipe tracker can be started just like the regular OpenSeeFace webcam tracker. Just select **"[Google] Mediapipe Tracker"** after clicking the **"Tracking Type"** button (see 1). This will only be available if you actually have a RTX-supported GPU.
+The Google Mediapipe tracker can be started just like the regular OpenSeeFace webcam tracker. Just select **"[Google] Mediapipe Tracker"** after clicking the **"Tracking Type"** button. This will only be available on Windows.
+
+After starting the tracker for the first time, make sure to calibrate at least once while making a neutral face and looking straight at the screen. VTube Studio remembers the calibration data so you don't have to do that every time you start the tracker or restart VTube Studio.
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/mediapipe_ui_explanation.png]]
 
-1. Click this button to select the new NVIDIA Broadcast tracker. Will not be available if your GPU is not supported.
-2. The tracking type. Only "Face Tracking" will be available here if you use the NVIDIA Broadcast tracker. Hand tracking is currently not supported when using the NVIDIA Broadcast tracker.
-3. If you want to limit the tracking FPS, do it using this slider. Since VTube Studio interpolates the tracking data to 60 FPS, running the tracking above 30 FPS does not add much in terms of model movement quality.
-4. Click this once after the tracking has initialized. Click while looking at the camera to set a neutral face pose and neutral blendshapes.
-5. Click this to turn the external tracking preview window with the creepy face on or off (see 6).
-6. The external tracking preview window. Can be useful for checking if the blendshapes are properly calibrated. Rendering the 3D face takes some CPU/GPU resources, so you should have it off most of the time if you don't need it. You can also close this window with the normal **"X button"** to turn it off.
-
-Once the tracker has initialized and tracking has started, you can click the gray gear icon in the tracking preview screen (bottom right) to show the Windows webcam config window.
-
 # FAQ
 
-## Is this free?
+## How does this compare to NVIDIA/iPhone/iPad tracking?
 
-It is free (with the watermark) just like the regular webcam tracking. No additional purchase needed.
+In terms of tracking quality, I would say it is pretty good but not quite as good as the NVIDIA tracking. With further updates, it could definitely get as good, if not better. I will also look into bringing this to the Android version of VTube Studio.
 
-## How does this compare to iPhone/iPad tracking?
+Mouth-tracking is pretty accurate and so is eye-tracking. Blink-tracking works well. Wink-tracking is fine too, but as always, depending on your eye shape/size it may work better or worse. You'll just have to try it out and see for yourself.
 
-In terms of tracking quality, it's very similar. Mouth-tracking is very accurate and so is eye-tracking. Blink-tracking works well. Wink-tracking is fine too, but as always, depending on your eye shape/size it may work better or worse. You'll just have to try it out and see for yourself.
-
-The face rotation range of the NVIDIA tracker is also very big so it's unlikely to lose tracking in most situations, even with fast face movement. I tried shaking my head really fast until I got a headache and never managed to make it lose tracking.
+The face rotation range of the Google Mediapipe tracker is a bit more restrictive than most other trackers. If you look too much down or left/right, it may lose tracking.
 
 It supports the same parameters you have with iOS tracking, including **"Mouth X"** and **individual brow tracking**, but it **DOES NOT** currently support **cheek puff** and **tongue-tracking**. The tracker is in active development, so it is likely that those will be added eventually.
 
 ## What CPU/GPU usage can I expect?
 
-It depends on your CPU/GPU, but it should be fairly minimal, even at high framerates. On my RTX 3080, running the tracker at 60 FPS and at 1920x1080 webcam resolution, both CPU and GPU usage stay below 10%.
-
-A lot of the tracking system (but not all of it) can be executed on the machine-learning-optimized **tensor-cores** of your NVIDIA RTX GPU. They aren't used by most video games, so they don't interfere with your gaming.
+It should be comparable to the OpenSeeFace webcam tracking in terms of CPU/GPU usage.
 
 ## What about hand tracking?
 
-That isn't currently supported with this tracker but NVIDIA are experimenting with various tracking types, so I would not be surprised if it's added eventually. I don't have any info about it though.
+Hand tracking is supported when using the Google Mediapipe tracker.
 
 ## Does this work with glasses?
 
