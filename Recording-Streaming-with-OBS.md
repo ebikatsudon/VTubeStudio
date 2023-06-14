@@ -86,3 +86,9 @@ This works similar to NDI. Just **activate the Virtual Webcam in the VTube Studi
 In OBS, you should now see a webcam called **"VTubeStudioCam"**. Add it to your scene with the following settings (except the resolution):
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/obs_virtual_webcam_settings.png]]
+
+## Common issues with OBS
+
+### The Virtual Webcam doesn't show up or shows up in green
+
+Make sure you 
