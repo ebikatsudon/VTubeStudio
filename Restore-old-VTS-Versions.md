@@ -1,4 +1,4 @@
-Starting with **VTube Studio 1.26.11**, you will be able to restore old versions of VTube Studio on Steam (macOS and Windows). This will be possible for versions of VTube Studio released **after June 14th, 2023**.
+Starting with updates after **VTube Studio 1.26.11**, you will be able to restore old versions of VTube Studio on Steam (macOS and Windows). This will be possible for versions of VTube Studio released **after June 14th, 2023**.
 
 In general, I would recommend always staying on the newest version and reporting any bugs you find in the [VTube Studio Discord](https://discord.gg/VTubeStudio) so they can be fixed as soon as possible. But in some emergency situations, it can make sense to do a temporary rollback to an old version that worked better for you.
 
