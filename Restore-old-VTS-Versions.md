@@ -16,7 +16,7 @@ There is also no guarantee that these old Steam versions will stay compatible wi
 
 Old versions are available as **Steam beta branches**.
 
-In your Steam game library, right-click ``VTube Studio` and select `Properties...` → `Betas`. There, you will find a dropdown list showing old versions.
+In your Steam game library, right-click `VTube Studio` and select `Properties...` → `Betas`. There, you will find a dropdown list showing old versions.
 
 You can change back to the normal branch at any time by selecting `None` as beta.
 
