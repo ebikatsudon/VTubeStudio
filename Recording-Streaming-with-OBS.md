@@ -101,7 +101,7 @@ Also, if you are on a laptop (or multi-GPU-PC) and Game-Captures or Spout2-Captu
 
 How to do that is explained here in detail: https://obsproject.com/kb/gpu-selection-guide
 
-[[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/obs_virtual_webcam_settings.png]]](https://obsproject.com/kb/gpu-selection-guide)
+[[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/gpu_selection_obs.png]]](https://obsproject.com/kb/gpu-selection-guide)
 
 
 
