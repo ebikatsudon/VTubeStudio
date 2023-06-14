@@ -8,7 +8,7 @@ If you are on an **old version** branch of VTube Studio, **Steam will no longer 
 
 There is also no guarantee that these old Steam versions will stay compatible with **VNet** and the **iOS** and **Android** apps forever.
 
-<<IMAGE 1>>
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/steam_vts_old_versions_1.png]]
 
 ## How do I restore old versions?
 
@@ -22,4 +22,4 @@ You can change back to the normal branch at any time by selecting `None` as beta
 
 And again, please make sure to have safety copies of all your assets BEFORE attempting to switch to old versions of VTube Studio.
 
-<<IMAGE 2>>
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/steam_vts_old_versions_2.png]]
