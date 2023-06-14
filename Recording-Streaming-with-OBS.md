@@ -89,6 +89,20 @@ In OBS, you should now see a webcam called **"VTubeStudioCam"**. Add it to your 
 
 ## Common issues with OBS
 
-### The Virtual Webcam doesn't show up or shows up in green
+### The Virtual Webcam doesn't show up or shows up in green!
 
-Make sure you 
+Make sure you have actually turned on the Virtual Webcam in VTube Studio. Go to the camera settings in VTube Studio and check if `"Activate Virtual Webcam"` is on.
+
+### My Game-Capture or Spout2 Capture doesn't work!
+
+Make sure OBS is running as admin.
+
+Also, if you are on a laptop (or multi-GPU-PC) and Game-Captures or Spout2-Captures just show up as black/invisible, it's possible that VTube Studio and OBS are running on different GPUs. Many laptops will have one `integrated GPU` (included in the CPU) and one `dedicated GPU`. Make sure both OBS and VTS are running on the `dedicated GPU`.
+
+How to do that is explained here in detail: https://obsproject.com/kb/gpu-selection-guide
+
+[[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/obs_virtual_webcam_settings.png]]](https://obsproject.com/kb/gpu-selection-guide)
+
+
+
+
