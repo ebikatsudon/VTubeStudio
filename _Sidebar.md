@@ -29,6 +29,7 @@ VTS Manual
 * [[Recording/Streaming with OBS]]
 * [[Starting without Steam]]
 * [[Starting as Admin]]
+* [[Restore old VTS Versions]]
 * [NVIDIA Broadcast Face Tracker](https://github.com/DenchiSoft/VTubeStudio/wiki/NVIDIA-Webcam-Tracker)
 * [Google Mediapipe Face Tracker](https://github.com/DenchiSoft/VTubeStudio/wiki/Mediapipe-Webcam-Tracker)
 * [[Tobii Eye-Tracker]]
