@@ -8,5 +8,8 @@ If you are on an **old version** branch of VTube Studio, **Steam will no longer 
 
 ## How do I restore old versions?
 
-## a
+...todo
 
+## Currently available old versions
+
+...todo
