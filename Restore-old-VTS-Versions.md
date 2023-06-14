@@ -12,7 +12,7 @@ There is also no guarantee that these old Steam versions will stay compatible wi
 
 ## How do I restore old versions?
 
-⚠️ **Important:** Before switching to an old version, make safety copies of all your models, items and backgrounds!! That means make copies of your `Live2DModels`, `Items` and `Backgrounds` folders somewhere outside of the VTube Studio Steam folder. Switching versions will not delete any files, but it's best to be on the safe side!! ⚠️ 
+⚠️ **Important:** Before switching to an old version, make safety copies of all your models, items and backgrounds!! That means make copies of your `Live2DModels`, `Items` and `Backgrounds` folders somewhere outside of the VTube Studio Steam folder. Switching versions will not delete any files, but it's best to be on the safe side since there HAVE been reports of Steam updates randomly deleting model files!! ⚠️ 
 
 Old versions are available as **Steam beta branches**.
 
