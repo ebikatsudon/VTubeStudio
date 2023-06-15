@@ -6,7 +6,7 @@ Keep in mind that for [VNet Multiplayer](https://github.com/DenchiSoft/VTubeStud
 
 If you are on an **old version** branch of VTube Studio, **Steam will no longer automatically update VTube Studio** and you will **not receive any further updates and bugfixes** until you switch back to the normal public version.
 
-There is also no guarantee that these old Steam versions will stay compatible with **VNet** and the **iOS** and **Android** apps forever.
+There is also no guarantee that these old Steam versions will stay compatible with **VNet** and the **iOS** and **Android** apps forever, so only roll back if there is no other option for you.
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/steam_vts_old_versions_1.png]]
 
