@@ -15,6 +15,14 @@ If it's a USB webcam, try plugging it into a different USB port. That sometimes 
 
 Go to the webcam settings and select the webcam again. Then start the tracking.
 
+## Make sure VTube Studio is allowed to access the webcam
+
+Webcam access can be turned on/off for individual apps in the Windows settings. Some anti-malware apps also block apps from accessing webcams. Make sure VTube Studio is allowed to access the webcam and not blocked.
+
+## Check any antivirus/security apps
+
+Some antivirus- and other security-apps can block webcam access. Some do so by default. If you use any 3rd party antivirus-apps, check if they have webcam security settings. Some apps that have settings like that are `"ESET Antivirus"`, `"AVAST"` and `"IObit Malware Fighter"`.
+
 ## Install the Visual C++ Redistributable
 
 This should happen automatically when you get VTube Studio on Steam, but sometimes it doesn't seem to work. Make sure you have it installed, otherwise the webcam tracking won't work and you'll get some error like `"Missing DLL"` in the logs.
@@ -34,10 +42,6 @@ Find the correct version for your Windows version from this page and install: ht
 Usually this will be shown in the VTS logs as `"No data from webcam - Maybe another app is using it?"`.
 
 Often, VTS can't access the webcam because another app is still using it. This could happen if the camera is used in a scene in OBS, even if that scene is not open. Make sure your camera is used NOWHERE ELSE. For troubleshooting, I would also recommend just quitting all other apps/programs running on your PC and see if that helps.
-
-## Make sure VTube Studio is allowed to access the webcam
-
-Webcam access can be turned on/off for individual apps in the Windows settings. Some anti-malware apps also block apps from accessing webcams. Make sure VTube Studio is allowed to access the webcam and not blocked.
 
 ## If you have a VPN, try turning it off
 
