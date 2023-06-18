@@ -23,6 +23,10 @@ Webcam access can be turned on/off for individual apps in the Windows settings. 
 
 Some antivirus- and other security-apps can block webcam access. Some do so by default. If you use any 3rd party antivirus-apps, check if they have webcam security settings. Some apps that have settings like that are `"ESET Antivirus"`, `"AVAST"` and `"IObit Malware Fighter"`.
 
+For `"ESET Antivirus"` in particular, make sure to deactivate `Webcam Protection` like this:
+
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/eset_antivirus_webcam_fix.png]]
+
 ## Install the Visual C++ Redistributable
 
 This should happen automatically when you get VTube Studio on Steam, but sometimes it doesn't seem to work. Make sure you have it installed, otherwise the webcam tracking won't work and you'll get some error like `"Missing DLL"` in the logs.
