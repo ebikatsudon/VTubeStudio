@@ -15,7 +15,7 @@
 
 To be able to use this, you must first install the Spout2 plugin for OBS.
 
-### IMPORTANT: The official Spout2 installation guide (on their website, [LINK REMOVED]) mentions "Resize Output (source size)". IF YOU READ THE OFFICIAL GUIDE, DO NOT FOLLOW THIS STEP AS IT MAY BREAK YOUR OBS SCENES!!!!!
+### ⚠️ IMPORTANT: The official Spout2 installation guide (on their website, [LINK REMOVED]) mentions "Resize Output (source size)". IF YOU READ THE OFFICIAL GUIDE, DO NOT FOLLOW THIS STEP AS IT MAY BREAK YOUR OBS SCENES!!!!! ⚠️
 
 You can download the Spout2 OBS plugin from here: https://github.com/Off-World-Live/obs-spout2-plugin/releases
 
