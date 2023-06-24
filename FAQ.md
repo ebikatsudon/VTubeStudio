@@ -230,7 +230,7 @@ That said, there are quite a few users who use VTube Studio on macOS and do not 
 
 ## I have weird black lines on my model, especially around the mouth when moving it. What is causing this?
 
-Check if they have turned off anisotropic filtering.
+You might have turned off `anisotropic filtering` in your GPU settings. It has to be active for models to render correctly.
 
 Make sure anisotropic filtering is set to either `"application controlled"` or `"8x"` or `"16x"`.
 Here's an example of how to do this for different GPU drivers: https://www.pcgamingwiki.com/wiki/Glossary:Anisotropic_filtering_(AF)
