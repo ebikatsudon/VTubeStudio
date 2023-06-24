@@ -237,6 +237,8 @@ Here's an example of how to do this for different GPU drivers: https://www.pcgam
 
 For NVIDIA GPUs, this can be done in the "NVIDIA Control Panel". Make sure it's **NOT** set to `"Off"`.
 
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/aniso_filter_on.png]]
+
 ## Does VTube Studio store/record any personal data?
 
 **No.**
