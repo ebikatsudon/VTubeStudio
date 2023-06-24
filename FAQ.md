@@ -228,6 +228,15 @@ Webcam tracking on MacOS is experimental and may not work at all depending on yo
 
 That said, there are quite a few users who use VTube Studio on macOS and do not have any problems. iOS/Android tracking with macOS should work fine.
 
+## I have weird black lines on my model, especially around the mouth when moving it. What is causing this?
+
+Check if they have turned off anisotropic filtering.
+
+Make sure anisotropic filtering is set to either `"application controlled"` or `"8x"` or `"16x"`.
+Here's an example of how to do this for different GPU drivers: https://www.pcgamingwiki.com/wiki/Glossary:Anisotropic_filtering_(AF)
+
+For NVIDIA GPUs, this can be done in the "NVIDIA Control Panel". Make sure it's **NOT** set to `"Off"`.
+
 ## Does VTube Studio store/record any personal data?
 
 **No.**
