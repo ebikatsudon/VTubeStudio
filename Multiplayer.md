@@ -63,6 +63,14 @@ When people join, their models/items will spawn in automatically and vanish when
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/vnet/vnet_main_scene.png]]
 
+## When I try to open the collab screen, it says "Cannot connect to Steam servers"
+
+Make sure you're starting VTube Studio normally with Steam. Also, try restarting Steam and make sure both Steam and VTube Studio are up-to-date.
+
+If that still doesn't help, try opening the [Workshop](https://github.com/DenchiSoft/VTubeStudio/wiki/Workshop) in VTube Studio and download an item, then try again.
+
+Finally, make sure your account has a valid profile picture set. Sometimes Steam deletes profile pictures, which causes your account to be unable to connect to the Steam servers.
+
 ## How do I reorder models?
 
 You can drag/scale/resize your own model. You can drag using the left or right mouse button.
