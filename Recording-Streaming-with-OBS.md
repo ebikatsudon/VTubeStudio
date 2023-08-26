@@ -93,6 +93,12 @@ In OBS, you should now see a webcam called **"VTubeStudioCam"**. Add it to your 
 
 Make sure you have actually turned on the Virtual Webcam in VTube Studio. Go to the camera settings in VTube Studio and check if `"Activate Virtual Webcam"` is on.
 
+### OBS cannot capture VTube Studio
+
+Try starting both OBS and VTS as admin. For more info on how to do that check out [this page](https://github.com/DenchiSoft/VTubeStudio/wiki/Starting-as-Admin).
+
+Also, some apps like **"RTSS Rivatuner"** can prevent OBS from capturing certain apps like VTube Studio.
+
 ### My Game-Capture or Spout2 Capture doesn't work!
 
 Make sure OBS is running as admin.
