@@ -100,7 +100,7 @@ VTube Studio currently supports the following input parameters that can be mappe
 | **VoiceFrequency<br/>PlusMouthSmile** | MouthSmile + VoiceFrequency |✔️ | ✔️ | ✔️ | ✔️| ✔️|
 | **VoiceA** | detected phoneme: A | ✔️ | ✔️ | ✔️ | ✔️|✔️ |
 | **VoiceI** | detected phoneme: I | ✔️ | ✔️ | ✔️ | ✔️|✔️ |
-| **VoiceI** | detected phoneme: U | ✔️ | ✔️ | ✔️ | ✔️|✔️ |
+| **VoiceU** | detected phoneme: U | ✔️ | ✔️ | ✔️ | ✔️|✔️ |
 | **VoiceE** | detected phoneme: E | ✔️ | ✔️ | ✔️ | ✔️|✔️ |
 | **VoiceO** | detected phoneme: O | ✔️ | ✔️ | ✔️ | ✔️|✔️ |
 | **VoiceSilence** | detected sound/phoneme: Silence | ✔️ | ✔️ | ✔️ | ✔️|✔️ |
