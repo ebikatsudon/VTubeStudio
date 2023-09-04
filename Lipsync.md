@@ -9,7 +9,7 @@ You can select two lipsync types:
   * Fast and accurate, can be calibrated using your own voice so it can accurately detect A, I, U, E, O phonemes.
   * Available on all platforms (desktop and smartphone).
 
-**Note:** "Simple Lipsync" will not be discussed here. If you're still using it, please consider moving on to "Advanced Lipsync".
+**Note:** "Simple Lipsync" will not be discussed here. If you're still using it, please consider moving on to "Advanced Lipsync". It supports the same parameters _and more_, is more performant and works on all platforms.
 
 ## Using Advanced Lipsync
 
