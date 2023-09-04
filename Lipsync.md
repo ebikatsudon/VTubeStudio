@@ -57,8 +57,17 @@ The lipsync system outputs the following voice tracking parameters:
 * `VoiceSilence`
   * Between 0 and 1
   * 1 when "silence" is detected (based on your calibration) or when volume is very low (near 0).
+* `VoiceVolume` / `VoiceVolumePlusMouthOpen`
+  * Between 0 and 1
+  * How loud the detected volume from microphone is.
+  * Map this to your `ParamMouthOpen` Live2D parameter.
+* `VoiceFrequency` / `VoiceFrequencyPlusMouthSmile`
+  * Between 0 and 1
+  * Calculated based on the detected phonemes. You can set up how the phoneme detection values are multiplied to generate this parameter.
+  * Map this to your `ParamMouthForm` Live2D parameter.
 
-The `VoiceA/I/U/E/O`
+
+The `VoiceA/I/U/E/O` should be mapped to blendshape-Live2D-parameters called `ParamA`, `ParamI`, `ParamU`, `ParamE` and `ParamO` that deform the mouth to the respective shape.
 
 
 
