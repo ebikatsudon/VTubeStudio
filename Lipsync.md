@@ -21,7 +21,26 @@ There are three slider on the main config card:
 * **Volume Cutoff:** Noise gate. Eliminates low-volume noise. It's probably best to keep this low or at 0 and have a noise-gate before audio is fed into VTube Studio instead.
 * **Frequency Gain:** Boost value for `VoiceFrequency` and `VoiceFrequencyPlusMouthSmile`. Those parameters are explained below.
 
+If your microphone lags behind, you can click the "Reload" button to restart the microphone. You can also set up a hotkey for that.
+
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/settings_lipsync.png]]
+
+### Calibration
+
+To calibrate the lipsync system, click each "Calibrate" button while saying the respecting phoneme until the calibration is over. That way, the lipsync system will be calibrated to your voice. If you change your microphone or audio setup, you might want to redo the calibration.
+
+Clicking "Reset" will reset the calibration to default values.
+
+Make sure the calibration is good by saying all phonemes again and checking if the respective phoneme lights up on the UI.
+
+The funny colorful visualizations shown next to the calibration buttons are related to the frequency spectrum recorded in your voice during calibration. If you'd like to learn more about the details, check the [uLipSync](https://github.com/hecomi/uLipSync) repository.
+
+### Parameters and how to use them
+
+The lipsync system outputs the following voice tracking parameters:
+
+* `VoiceA`: asdasd
+* `VoiceI`: asdasd
 
 
 
