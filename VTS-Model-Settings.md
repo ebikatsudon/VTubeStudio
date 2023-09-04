@@ -94,14 +94,19 @@ VTube Studio currently supports the following input parameters that can be mappe
 | **CheekPuff** | detects when you puff out your cheeks | ✔️ | ❌ | ❌ | ❌|❌ |
 | **BrowLeftY** | up/down for left brow | ✔️ | ✔️ | ✔️ | ✔️|✔️ |
 | **BrowRightY** | up/down for right brow | ✔️ | ✔️ | ✔️ | ✔️| ✔️|
-| **VoiceFrequency*** | depends on detected phonemes | ❌ | ❌ | ✔️ |✔️ |✔️ |
-| **VoiceVolume*** | how loud microphone volume is | ❌ | ❌ | ✔️ | ✔️|✔️ |
-| **VoiceVolume<br/>PlusMouthOpen*** | MouthOpen + VoiceVolume | ❌ | ❌ | ✔️ |✔️ |✔️ |
-| **VoiceFrequency<br/>PlusMouthSmile*** | MouthSmile + VoiceFrequency | ❌ | ❌ | ✔️ | ✔️| ✔️|
+| **VoiceFrequency** | depends on detected phonemes | ✔️ | ✔️ | ✔️ |✔️ |✔️ |
+| **VoiceVolume** | how loud microphone volume is | ✔️ | ✔️ | ✔️ | ✔️|✔️ |
+| **VoiceVolume<br/>PlusMouthOpen** | MouthOpen + VoiceVolume | ✔️ | ✔️ | ✔️ |✔️ |✔️ |
+| **VoiceFrequency<br/>PlusMouthSmile** | MouthSmile + VoiceFrequency |✔️ | ✔️ | ✔️ | ✔️| ✔️|
+| **VoiceA** | detected phoneme: A | ✔️ | ✔️ | ✔️ | ✔️|✔️ |
+| **VoiceI** | detected phoneme: I | ✔️ | ✔️ | ✔️ | ✔️|✔️ |
+| **VoiceU** | detected phoneme: U | ✔️ | ✔️ | ✔️ | ✔️|✔️ |
+| **VoiceE** | detected phoneme: E | ✔️ | ✔️ | ✔️ | ✔️|✔️ |
+| **VoiceO** | detected phoneme: O | ✔️ | ✔️ | ✔️ | ✔️|✔️ |
+| **VoiceSilence** | detected sound/phoneme: Silence | ✔️ | ✔️ | ✔️ | ✔️|✔️ |
 | **MouthX** | Mouth X position (shift mouth left/right) | ✔️ | ✔️ | ❌ |✔️ |✔️ |
 | **FaceAngry** | detects angry face<br/>(EXPERIMENTAL, not recommended) | ✔️ | ❌ | ❌  |❌  |❌  |
 
-_\* these parameters cannot be used directly on iOS/Android but will work on PC/Mac when using a smartphone for tracking. Parameters like VoiceVolumePlusMouthOpen will default to using the value from MouthOpen when the model is loaded on the smartphone._
 
 The webcam-version of VTube Studio also supports hand-tracking. The hand-tracking parameter list can be found here: https://github.com/DenchiSoft/VTubeStudio/wiki/Hand-Tracking
 

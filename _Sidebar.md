@@ -34,6 +34,7 @@ VTS Manual
 * [Google Mediapipe Face Tracker](https://github.com/DenchiSoft/VTubeStudio/wiki/Mediapipe-Webcam-Tracker)
 * [[Tobii Eye-Tracker]]
 * [[Hand-Tracking]]
+* [[Lipsync]]
 * [[Controlling multiple models with one Webcam or iPhone/Android device]]
 * [Connection Issues & Troubleshooting](https://github.com/DenchiSoft/VTubeStudio/wiki/Connection-Issues-&-Troubleshooting)
 * [[Taking/Sharing Screenshots]]
