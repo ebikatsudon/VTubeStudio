@@ -39,8 +39,32 @@ The funny colorful visualizations shown next to the calibration buttons are rela
 
 The lipsync system outputs the following voice tracking parameters:
 
-* `VoiceA`: asdasd
-* `VoiceI`: asdasd
+* `VoiceA`
+  * Between 0 and 1
+  * How much the `A` phoneme is detected. 
+* `VoiceI`
+  * Between 0 and 1
+  * How much the `I` phoneme is detected. 
+* `VoiceU`
+  * Between 0 and 1
+  * How much the `U` phoneme is detected. 
+* `VoiceE`
+  * Between 0 and 1
+  * How much the `E` phoneme is detected. 
+* `VoiceO`
+  * Between 0 and 1
+  * How much the `O` phoneme is detected. 
+* `VoiceSilence`
+  * Between 0 and 1
+  * 1 when "silence" is detected (based on your calibration) or when volume is very low (near 0).
+
+The `VoiceA/I/U/E/O`
+
+
+
+
+
+
 
 
 
