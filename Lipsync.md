@@ -69,7 +69,7 @@ The lipsync system outputs the following voice tracking parameters:
 
 The `VoiceA/I/U/E/O` should be mapped to blendshape-Live2D-parameters called `ParamA`, `ParamI`, `ParamU`, `ParamE` and `ParamO` that deform the mouth to the respective shape.
 
-
+Here's a rough reference for how you could set up your blendshape mouth forms to get the most out of the advanced lipsync setup. Depending on what your model/artstyle looks like, your mouth forms may look different.
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/vowel_ms.png]]
 
