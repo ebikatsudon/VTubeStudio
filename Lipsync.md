@@ -63,6 +63,7 @@ The lipsync system outputs the following voice tracking parameters:
   * Map this to your `ParamMouthOpen` Live2D parameter.
 * `VoiceFrequency` / `VoiceFrequencyPlusMouthSmile`
   * Between 0 and 1
+  * You would **NOT** use these parameters if you're already using the `VoiceA`, `VoiceI`, ... parameters. This is just an alternative for you if your model only has one mouth shape parameters so you can use this to combine the detected vowels into one single parameter.
   * Calculated based on the detected vowels. You can set up how the vowel detection values are multiplied to generate this parameter.
   * Map this to your `ParamMouthForm` Live2D parameter.
 
