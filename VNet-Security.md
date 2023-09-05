@@ -26,7 +26,7 @@ General information about what VNet is can be found on the page "[[Multiplayer]]
 * The encryption key and random file name are then distributed to all connected session participants. The key and file name are never shown or stored by VTS so you cannot accidentally reveal anything on stream.
 * The other participants will download all shared files and decrypt/load them automatically. The files (including Live2D models) will be loaded entirely from memory and are never stored on the other participants' PCs.
 * When the host closes the session, all files that were shared during the session are deleted from the VNet servers.
-* If for some reason the host's VTube Studio crashes, it won't be able to delete the files anymore since the random filenames are never stored locally. Any files left on the VNet servers will automatically be wiped after 24 hours (max. session time).
+* If for some reason the host's VTube Studio crashes, it won't be able to delete the files anymore since the random filenames are never stored locally. Any files left on the VNet servers will automatically be wiped after 48 hours (max. session time).
 
 
 **Super detailed version:**
