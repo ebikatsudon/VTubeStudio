@@ -71,7 +71,7 @@ The `VoiceA/I/U/E/O` should be mapped to blendshape-Live2D-parameters called `Pa
 
 
 
-
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/vowel_ms.png]]
 
 
 
