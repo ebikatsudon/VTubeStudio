@@ -71,6 +71,8 @@ The lipsync system outputs the following voice tracking parameters:
 
 **An example mouth model can be downloaded here:  ["aaa_BlendshapeMouthExample.zip"](https://google.com)**
 
+[[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/zip.png|width=70px]]](https://google.com)
+
 The example model is simplified (and a bit scuffed) but it shows one possible setup that can be used for combining **camera/phone-based** lipsync with **microphone lipsync**.
 
 The general idea is this:
@@ -79,9 +81,19 @@ The general idea is this:
 
 To achieve this, we could have the following parameter setup: (here pictured with regular `MouthOpen`/`MouthForm` setup, but could include **VBridger** mouth forms as well)
 
-IMAGE
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/mouth_lipsync_model_setup.png]]
 
+`ParamMouthOpen` and `ParamMouthForm` are set up just like usual. In addition, set up a `ParamSilence`. This parameter will later be hooked up to `VoiceSilence`, so it will be `1` when the microphone detects no or almost no sound.
 
+Next, add keyforms for `ParamSilence` to make sure `ParamMouthOpen` and `ParamMouthForm` only affect the mouth forms when `ParamSilence` is at `1`. When the parameter is at `0`, moving `ParamMouthOpen` and `ParamMouthForm` should not deform the mouth at all.
+
+Based on that default neutral mouth form, set up the **blendshape** parameters `ParamA`, `ParamI`, `ParamU`, `ParamE` and `ParamO`.
+
+For those 5 blendshape parameters, just imagine what your model's mouth would look like when pronouncing the respective vowels. Just using the typical Japanese pronunciation as reference usually works fine, even for other languages.
+
+Depending on what style your model is drawn in, mouth forms could look drastically different, but here's a reference I made for cute/girly mouth forms. In general, it might be better to make them look less happy and more neutral.
+
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/vowel_ms.png]]
 
 
 
@@ -93,7 +105,7 @@ The `VoiceA/I/U/E/O` should be mapped to blendshape-Live2D-parameters called `Pa
 
 Here's a rough reference for how you could set up your blendshape mouth forms to get the most out of the advanced lipsync setup. Depending on what your model/artstyle looks like, your mouth forms may look different.
 
-[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/vowel_ms.png]]
+
 
 
 
