@@ -125,6 +125,8 @@ When sound is detected, the blendshapes take over, which means webcam/iPhone-bas
 
 There are other parameter setups that could potentially get around this by not using blendshapes at all, but these setups may become very complex for little gain in perceived model quality.
 
+When you just make a noise without opening your mouth (like a "mmmmmmm" kinda noise), the sound-based tracking will take over and open your mouth because it's probably detecting an `A` vowel sound. You could slightly improve that specific situation by calibrating the `Silence` detection using that "mmmm" sound.
+
 ## Tips
 
 If microphone audio lags behind the values shown on the UI, use the "Reload" button to reload the selected microphone. Alternatively, you can use a hotkey to reload the microphone.
