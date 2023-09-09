@@ -42,7 +42,11 @@ The funny colorful visualizations shown next to the calibration buttons are rela
 
 ## Voice Tracking Parameters
 
-The lipsync system outputs the following voice tracking parameters:
+The lipsync system outputs the following voice tracking parameters. You can use them as inputs for **ANY** Live2D parameter, not just the mouth parameters.
+
+For example, you could use them to create "equalizer" effects or other cool audio visualizers and color effects by hooking up the vowel detection parameters to custom parameters in your model.
+
+The following parameters are available:
 
 * `VoiceA`
   * Between 0 and 1
@@ -70,7 +74,7 @@ The lipsync system outputs the following voice tracking parameters:
   * You would **NOT** use these parameters if you're already using the `VoiceA`, `VoiceI`, ... parameters. This is just an alternative for you if your model only has one mouth shape parameters so you can use this to combine the detected vowels into one single parameter.
   * Calculated based on the detected vowels. You can set up how the vowel detection values are multiplied to generate this parameter.
 
-## How to use this in a model
+## How to use this in a model (mouth example)
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/hint_top.png]]
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/bunny_point.png|alt="Important Point!!"|height=59px|width=189px]]<br/>
