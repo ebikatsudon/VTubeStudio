@@ -4,7 +4,7 @@ VTube Studio can use your microphone to analyze your speech and calculate Live2D
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/mouth_vowel_example_video.gif|width=512px]]
 
-You can select two lipsync types:
+You can select between two lipsync types:
 * **Simple Lipsync**
   * Legacy option, Windows-only, based on [Occulus VR Lipsync](https://developer.oculus.com/documentation/unity/audio-ovrlipsync-unity/)
   * NOT RECOMMENDED, use **Advanced Lipsync** instead.
