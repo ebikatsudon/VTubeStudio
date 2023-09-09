@@ -107,6 +107,8 @@ For those 5 blendshape parameters, just imagine what your model's mouth would lo
 
 Depending on what style your model is drawn in, mouth forms could look drastically different, but here's a reference I made for cute/girly mouth forms. In general, it might be better to make them look less happy and more neutral.
 
+I would not recommend using this as a "template". It's only supposed to be a reference to get the idea across.
+
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/vowel_ms.png]]
 
 Keep in mind that the blendshapes won't look good (and don't have to look good) if multiple are at `1` at the same time. VTube Studio will make sure that the lipsync parameters that will control these Live2D blendshape parameters (`VoiceA`, `VoiceI`, `VoiceU`, `VoiceE`, `VoiceO`) are never `1` at the same time and they only mix at smaller parameter values. 
