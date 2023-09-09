@@ -27,7 +27,7 @@ If your microphone lags behind, you can click the "Reload" button to restart the
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/settings_lipsync.png]]
 
-### Calibration
+## Calibration
 
 To calibrate the lipsync system, click each "Calibrate" button while saying the respecting vowel until the calibration is over. That way, the lipsync system will be calibrated to your voice. If you change your microphone or audio setup, you might want to redo the calibration.
 
@@ -37,13 +37,13 @@ Make sure the calibration is good by saying all vowels again and checking if the
 
 The funny colorful visualizations shown next to the calibration buttons are related to the frequency spectrum recorded in your voice during calibration. If you'd like to learn more about the details, check the [uLipSync](https://github.com/hecomi/uLipSync) repository.
 
-### Parameters and how to use them
+### Voice Tracking Parameters
 
 The lipsync system outputs the following voice tracking parameters:
 
 * `VoiceA`
   * Between 0 and 1
-  * How much the `A` vowel is detected. 
+  * How much the `A` vowel is detected.
 * `VoiceI`
   * Between 0 and 1
   * How much the `I` vowel is detected. 
@@ -62,13 +62,12 @@ The lipsync system outputs the following voice tracking parameters:
 * `VoiceVolume` / `VoiceVolumePlusMouthOpen`
   * Between 0 and 1
   * How loud the detected volume from microphone is.
-  * Map this to your `ParamMouthOpen` Live2D parameter.
 * `VoiceFrequency` / `VoiceFrequencyPlusMouthSmile`
   * Between 0 and 1
   * You would **NOT** use these parameters if you're already using the `VoiceA`, `VoiceI`, ... parameters. This is just an alternative for you if your model only has one mouth shape parameters so you can use this to combine the detected vowels into one single parameter.
   * Calculated based on the detected vowels. You can set up how the vowel detection values are multiplied to generate this parameter.
-  * Map this to your `ParamMouthForm` Live2D parameter.
 
+### How to use this in a model
 
 The `VoiceA/I/U/E/O` should be mapped to blendshape-Live2D-parameters called `ParamA`, `ParamI`, `ParamU`, `ParamE` and `ParamO` that deform the mouth to the respective shape.
 
@@ -76,7 +75,18 @@ Here's a rough reference for how you could set up your blendshape mouth forms to
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/vowel_ms.png]]
 
-### Tips
+
+
+
+
+
+
+
+
+
+
+
+## Tips
 
 If microphone audio lags behind the values shown on the UI, use the "Reload" button to reload the selected microphone. Alternatively, you can use a hotkey to reload the microphone.
 
