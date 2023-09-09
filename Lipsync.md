@@ -19,9 +19,9 @@ To use **Advanced Lipsync** select it using the "Lipsync Type" button. Then sele
 
 There are three slider on the main config card:
 
-* **Volume Gain:** Boost volume from microphone. Will have an effect on the `VoiceVolume` and `VoiceVolumePlusMouthOpen` parameters.
+* **Volume Gain:** Boost volume from microphone. Will have an effect on the `VoiceVolume` and `VoiceVolumePlusMouthOpen` parameters as well as all `VoiceA/I/U/E/O` parameters.
 * **Volume Cutoff:** Noise gate. Eliminates low-volume noise. It's probably best to keep this low or at 0 and have a noise-gate before audio is fed into VTube Studio instead.
-* **Frequency Gain:** Boost value for `VoiceFrequency` and `VoiceFrequencyPlusMouthSmile`. Those parameters are explained below.
+* **Frequency Gain:** Boost value for `VoiceFrequency` and `VoiceFrequencyPlusMouthSmile` as well as all `VoiceA/I/U/E/O` parameters. 
 
 If your microphone lags behind, you can click the "Reload" button to restart the microphone. You can also set up a hotkey for that.
 
