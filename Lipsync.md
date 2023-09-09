@@ -1,13 +1,15 @@
 # **⚠️ CURRENTLY BETA ONLY ⚠️ **
 
-VTube Studio can use your microphone to analyze your speech and calculate Live2D model mouth forms based on it.
+VTube Studio can use your microphone to analyze your speech and calculate Live2D model mouth forms based on it. Depending on your model setup, this can also be combined with camera/phone-based tracking.
+
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/mouth_vowel_example_video.gif|width=512px]]
 
 You can select two lipsync types:
 * **Simple Lipsync**
   * Legacy option, Windows-only, based on [Occulus VR Lipsync](https://developer.oculus.com/documentation/unity/audio-ovrlipsync-unity/)
   * NOT RECOMMENDED, use **Advanced Lipsync** instead.
 * **Advanced Lipsync:**
-  * Based on [uLipSync](https://github.com/hecomi/uLipSync)
+  * Based on [uLipSync](https://github.com/hecomi/uLipSync) by [hecomi](https://github.com/hecomi/)
   * Fast and accurate, can be calibrated using your own voice so it can accurately detect A, I, U, E, O phonemes.
   * Available on all platforms (desktop and smartphone).
 
@@ -71,9 +73,9 @@ The lipsync system outputs the following voice tracking parameters:
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/hint_top.png]]
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/bunny_point.png|alt="Important Point!!"|height=59px|width=189px]]<br/>
-**An example mouth model can be downloaded here:  ["aaa_BlendshapeMouthExample.zip"](https://google.com)**
+**An example mouth model can be downloaded here:  ["aaa_BlendshapeMouthExample.zip"](https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/data/aaa_BlendshapeMouthExample.zip)**
 
-[[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/zip.png|width=70px]]](https://google.com)
+[[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/zip.png|width=70px]]](https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/data/aaa_BlendshapeMouthExample.zip)
 
 The example model is simplified (and a bit scuffed) but it shows one possible setup that can be used for combining **camera/phone-based** lipsync with **microphone lipsync**.
 
