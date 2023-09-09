@@ -142,7 +142,7 @@ When you just make a noise without opening your mouth (like a "mmmmmmm" kinda no
 
 If microphone audio lags behind the values shown on the UI, use the "Reload" button to reload the selected microphone. Alternatively, you can use a hotkey to reload the microphone.
 
-The exact parameter and vowel mapping settings strongly depend on your model setup. Just try around a bit and see what works for you. It may take some trial and error, but if set up correctly, this can look really good especially when singing.  ♪ ♫ ♬
+The exact parameter and vowel mapping settings strongly depend on your model setup. Just try around a bit and see what works for you. It may take some trial and error, but if set up correctly, this can look really good especially when singing   ♪ ♫ ♬
 
 <br/>
 <p align="center">
