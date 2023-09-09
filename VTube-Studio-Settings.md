@@ -24,45 +24,9 @@ Finally, there's the "Mouse Input Config". This allows you to use the mouse/fing
 
 ## General Settings (Voice-based Lipsync)
 
-[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/voice_lipsync.jpg]]
+VTube Studio supports voice-based lipsync. This can replace or improve the camera mouth tracking using your voice recorded from your microphone.
 
-The voice-based lipsync options are only available on Windows and MacOS (except M1/Silicon Macs), you cannot use them on smartphones.
-
-Voice-based lipsync enables you to do two things:
-
-* **Open/Close mouth** (or any Live2D parameter) based on current microphone volume.
-* **Change mouth shape** (or any Live2D parameter) based on detected frequencies in voice.
-
-If microphone audio lags behind the values shown on the UI, use the "Reload" button to reload the selected microphone. Alternatively, you can use a hotkey to reload the microphone.
-
-When enabled ("Use microphone" switch), you will be able to use three additional parameters in your VTube Studio model:
-
-[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/new_params_voice.png]]
-
-* **VoiceVolume:** Parameter between 0 and 1 depending on microphone sound volume.
-  * **Volume Gain Slider** controls how strongly the volume affects this parameter.
-  * **Volume Cutoff Slider** controls the minimum volume to still be picked up by the microphone. You can filter out background noise with this.
-* **VoiceVolumePlusMouthOpen:** Combines **VoiceVolume** parameter with **value from tracking**. With this, you could for example make your mouth open when there's sound and when the face tracking sees the mouth as open. This parameter is also between 0 and 1.
-* **VoiceFrequency:** This parameter is between 0 and 1 and sits at 0.5 per default. It goes up and down depending on the frequencies found in your voice. You can use this to control your mouth form.
-  * **Frequency Gain Slider** controls how strongly the detected frequencies affect this parameter.
-
-### How the VoiceFrequency Parameter is calculated:
-
-When you speak, VTube Studio analyzes your speech and extracts the phonemes (**A, I, U, E, O, Other**) from your speech. You will see the squares at the bottom (see image above) turn dark when a specific phoneme is detected.
-
-You can click each phoneme to turn it **red (-)**, **green (+)** or **neutral**. Depending on that, when this specific phoneme is detected, it will push the **VoiceFrequency** parameter up or down (and with that also your mouth shape, if you use this parameter).
-
-<br/>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/karaoke_saiten.png" width="412"/>
-</p>
-<br/>
-
-[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/hint_top.png]]
-[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/bunny_point.png|alt="Important Point!!"|height=59px|width=189px]]<br/>
-There are no recommendations on how you should set the phonemes up. Just try around a bit and see what works for you. It may take some trial and error, but if set up correctly, this can look really good especially when singing.  ♪ ♫ ♬
-
-[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/hint_bottom.png]]
+This is now available on Windows, macOS, Android and iOS. For more info, see "[[Lipsync]]".
 
 ## Camera Settings (iPhone/Android)
 
