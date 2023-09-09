@@ -69,14 +69,17 @@ The lipsync system outputs the following voice tracking parameters:
 
 ## How to use this in a model
 
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/hint_top.png]]
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/bunny_point.png|alt="Important Point!!"|height=59px|width=189px]]<br/>
 **An example mouth model can be downloaded here:  ["aaa_BlendshapeMouthExample.zip"](https://google.com)**
 
 [[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/zip.png|width=70px]]](https://google.com)
 
 The example model is simplified (and a bit scuffed) but it shows one possible setup that can be used for combining **camera/phone-based** lipsync with **microphone lipsync**.
 
+There's a VOD where Brian Tsui and I went over this model setup, trying to figure out how to make things work. If you're interested, take a look here: [[https://www.youtube.com/watch?v=X2-nHPeF5Q0]]
 
-https://www.youtube.com/watch?v=X2-nHPeF5Q0
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/hint_bottom.png]]
 
 
 The general idea is this:
@@ -112,28 +115,15 @@ This is all the setup you need. Now, import the model into VTube Studio and run 
 * `VoiceE` → `ParamE`
 * `VoiceO` → `ParamO`
 
+Again, the `ParamSilence` parameter will force your mouth form as set by `MouthOpen` and `MouthSmile` to neutral when the sound lipsync detects volume, at which point the blendshapes will take over, which are being driven by the `VoiceA`, `VoiceI`, ... tracking values.
 
+If you want to lower the influence of the blendshapes on the mouth form, you can try decreasing the `Volume Gain` and `Frequency Gain` sliders.
 
 ## Limitations
-unhappy mouth forms when sound
 
+When sound is detected, the blendshapes take over, which means webcam/iPhone-based tracking is largely (or fully) ignored. That unfortunately also means there is no way to have "happy" or "unhappy" versions of the vowel blendshapes.
 
-The `VoiceA/I/U/E/O` should be mapped to blendshape-Live2D-parameters called `ParamA`, `ParamI`, `ParamU`, `ParamE` and `ParamO` that deform the mouth to the respective shape.
-
-Here's a rough reference for how you could set up your blendshape mouth forms to get the most out of the advanced lipsync setup. Depending on what your model/artstyle looks like, your mouth forms may look different.
-
-
-
-
-
-
-
-
-
-
-
-
-
+There are other parameter setups that could potentially get around this by not using blendshapes at all, but these setups may become very complex for little gain in perceived model quality.
 
 ## Tips
 
