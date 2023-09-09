@@ -128,6 +128,8 @@ Again, the `ParamSilence` parameter will force your mouth form as set by `MouthO
 
 If you want to lower the influence of the blendshapes on the mouth form, you can try decreasing the `Volume Gain` and `Frequency Gain` sliders.
 
+Also note that you can turn off the microphone at any time. That will force `ParamSilence` to `1`, which means your mouth is now 100% controlled by the webcam/phone-based tracking until you turn the microphone back on.
+
 ## Limitations
 
 When sound is detected, the blendshapes take over, which means webcam/iPhone-based tracking is largely (or fully) ignored. That unfortunately also means there is no way to have "happy" or "unhappy" versions of the vowel blendshapes.
