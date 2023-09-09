@@ -37,7 +37,7 @@ Make sure the calibration is good by saying all vowels again and checking if the
 
 The funny colorful visualizations shown next to the calibration buttons are related to the frequency spectrum recorded in your voice during calibration. If you'd like to learn more about the details, check the [uLipSync](https://github.com/hecomi/uLipSync) repository.
 
-### Voice Tracking Parameters
+## Voice Tracking Parameters
 
 The lipsync system outputs the following voice tracking parameters:
 
@@ -67,7 +67,9 @@ The lipsync system outputs the following voice tracking parameters:
   * You would **NOT** use these parameters if you're already using the `VoiceA`, `VoiceI`, ... parameters. This is just an alternative for you if your model only has one mouth shape parameters so you can use this to combine the detected vowels into one single parameter.
   * Calculated based on the detected vowels. You can set up how the vowel detection values are multiplied to generate this parameter.
 
-### How to use this in a model
+## How to use this in a model
+
+**An example mouth model can be downloaded here: `[aaa_BlendshapeMouthExample.zip](https://google.com)`**
 
 The `VoiceA/I/U/E/O` should be mapped to blendshape-Live2D-parameters called `ParamA`, `ParamI`, `ParamU`, `ParamE` and `ParamO` that deform the mouth to the respective shape.
 
