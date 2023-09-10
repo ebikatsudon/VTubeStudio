@@ -8,7 +8,7 @@ You can select between two lipsync types:
 * **Simple Lipsync**
   * Legacy option, Windows-only, based on [Occulus VR Lipsync](https://developer.oculus.com/documentation/unity/audio-ovrlipsync-unity/)
   * NOT RECOMMENDED, use **Advanced Lipsync** instead.
-  * Will not be discussed on this page.
+  * Will not be discussed on this page because **Advanced Lipsync** supports the same (and more) parameters and is much more accurate.
 * **Advanced Lipsync:**
   * Based on [uLipSync](https://github.com/hecomi/uLipSync) by [hecomi](https://github.com/hecomi/)
   * Fast and accurate, can be calibrated using your own voice so it can accurately detect A, I, U, E, O phonemes.
