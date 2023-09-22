@@ -1,4 +1,3 @@
-# **⚠️ CURRENTLY BETA ONLY ⚠️ **
 
 VTube Studio can use your microphone to analyze your speech and calculate Live2D model mouth forms based on it. Depending on your model setup, this can also be combined with camera/phone-based tracking.
 
