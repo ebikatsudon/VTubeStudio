@@ -24,6 +24,9 @@ Finally, there's the "Mouse Input Config". This allows you to use the mouse/fing
 
 ## General Settings (Voice-based Lipsync)
 
+
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/mouth_vowel_example_video.gif|width=582px]]
+
 VTube Studio supports voice-based lipsync. This can replace or improve the camera mouth tracking using your voice recorded from your microphone.
 
 This is now available on Windows, macOS, Android and iOS. For more info, see "[[Lipsync]]".
