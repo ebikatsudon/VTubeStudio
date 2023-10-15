@@ -1,6 +1,10 @@
 # How safe is VNet?
 
+
 > :warning: If you're a security researcher and have found any vulnerabilities, please contact me at **support at denchisoft dot com**
+
+
+> :warning: This article is available in Chinese as well: https://jiaoma.tw/2023/10/vnet-security/  ❤️ Thanks to **dd-han** for the translation!!
 
 In general, if you don't trust the other collab participants you should not use this, as they could use specialized software to steal your shared model during collabs (only models/items you load). This is true for VNet and any other collab application that shares your models with other participants. People outside the collab cannot steal your model.
 
