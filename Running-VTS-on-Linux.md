@@ -46,7 +46,7 @@ Then start the virtual environment:
 
 And install all the stuff the facetracker requires to run:
 
-`$pip install onnxruntime opencv-python pillow numpy==1.21.6`
+`$pip install onnxruntime opencv-python pillow numpy==1.26.1`
 
 The reason `numpy` is different is because we need an older version of `numpy`. This specific version is required.
 
