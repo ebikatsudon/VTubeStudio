@@ -23,7 +23,7 @@ Click the orange "Log" button in the main menu in VTube Studio. Are there any er
 
 Sometimes something will break in VTS and spam the logs with errors every frame, causing the app to slow down a lot. If that is the case for you, please bring it up in the [VTube Studio Discord](https://discord.gg/VTubeStudio).
 
-## Turn of all "performance improvement" apps (MSI AfterBurner, Norton, Game Fire, BullGuard, etc.)
+## Turn off all "performance improvement" apps (MSI AfterBurner, Norton, Game Fire, BullGuard, etc.)
 
 Apps like `"MSI AfterBurner"` that improve game performance may actually cause performance/framerate issues in some cases. Turn them all off and see if that helps. If it does, check if you can add VTube Studio as an exception to those apps (they usually allow that somehow).
 
