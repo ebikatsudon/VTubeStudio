@@ -8,18 +8,18 @@ Used distro: **Arch Linux**. The dollar sign represents the start of the command
 
 ## Install python39
 
-`$ sudo pacman -Sy python39` 
+`$ sudo pacman -Syu python39` 
 
 Note that `pacman` cannot run without `sudo`. `pacman` is the package manager on the used Arch install, yours might be different.
 
-`-Sy` is the argument for `pacman` that tells it to update the mirrors and install the package.
+`-Syu` is the argument for `pacman` that tells it to update the mirrors and install the package.
 
 `python39` is the package name itself (I think on Ubuntu it might be called `python3.9`).
 
 
 ## Install the requirements
 
-`$ sudo pacman -Sy python-pip python-virtualenv git`
+`$ sudo pacman -Syu python-pip python-virtualenv git`
 
 
 `python-pip` is the thing we will use to install stuff in our virtual environment.
