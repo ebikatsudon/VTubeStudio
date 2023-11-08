@@ -8,7 +8,7 @@ Used distro: **Arch Linux**. The dollar sign represents the start of the command
 
 ## Install python39
 
-`$sudo pacman -Sy python39` 
+`$ sudo pacman -Sy python39` 
 
 Note that `pacman` cannot run without `sudo`. `pacman` is the package manager on the used Arch install, yours might be different.
 
@@ -19,7 +19,7 @@ Note that `pacman` cannot run without `sudo`. `pacman` is the package manager on
 
 ## Install the requirements
 
-`$sudo pacman -Sy python-pip python-virtualenv git`
+`$ sudo pacman -Sy python-pip python-virtualenv git`
 
 
 `python-pip` is the thing we will use to install stuff in our virtual environment.
@@ -30,29 +30,29 @@ Note that `pacman` cannot run without `sudo`. `pacman` is the package manager on
 
 ## Download/Install OpenSeeFace
 
-`$git clone https://github.com/emilianavt/OpenSeeFace`
+`$ git clone https://github.com/emilianavt/OpenSeeFace`
 
 Then enter its folder:
 
-`$cd OpenSeeFace`
+`$ cd OpenSeeFace`
 
 And create the virtual environment:
 
-`$virtualenv -p python39 env`
+`$ virtualenv -p python39 env`
 
 Then start the virtual environment:
 
-`$source env/bin/activate`
+`$ source env/bin/activate`
 
 And install all the stuff the facetracker requires to run:
 
-`$pip install onnxruntime opencv-python pillow numpy==1.26.1`
+`$ pip install onnxruntime opencv-python pillow numpy==1.26.1`
 
 The reason `numpy` is different is because we need an older version of `numpy`. This specific version is required.
 
 And then, this is where the magic happens!
 
-`$python facetracker.py -c 0 -W 1280 -H 720 --discard-after 0 --scan-every 0 --no-3d-adapt 1 --max-feature-updates 900`
+`$ python facetracker.py -c 0 -W 1280 -H 720 --discard-after 0 --scan-every 0 --no-3d-adapt 1 --max-feature-updates 900`
 
 ## Start VTube Studio
 
@@ -60,8 +60,8 @@ Now you should be able to open up VTube Studio, select `VTubeStudioCam` and enjo
 
 Note that you need to start the virtual environment every time you want to use `OpenSeeFace`, using the following three commands:
 
-*  `$cd OpenSeeFace`
-*  `$source env/bin/activate`
-*  `$python facetracker.py -c 0 -W 1280 -H 720 --discard-after 0 --scan-every 0 --no-3d-adapt 1 --max-feature-updates 900`
+*  `$ cd OpenSeeFace`
+*  `$ source env/bin/activate`
+*  `$ python facetracker.py -c 0 -W 1280 -H 720 --discard-after 0 --scan-every 0 --no-3d-adapt 1 --max-feature-updates 900`
 
 Note that `-c 0` represents your camera. It usually is `0` but if you have multiple cameras (like the camera from the Valve index) you may need to use a different number here (try `1`, `2`, ...)
