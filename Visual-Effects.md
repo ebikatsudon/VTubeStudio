@@ -14,11 +14,11 @@ Some of the more fancy effects might be hard on your GPU and may not work smooth
 
 If you want to use **effects**, make sure you first turn them on globally using this switch. When you turn this **off**, all effects will be **disabled**.
 
-----------!!!!!!!!!!!!!!!!! (image of main menu) !!!!!!!!!!!
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/effects_main_window.png]]
 
 Use the **"Select effects"** button to see a list of all available effects. 
 
-----------!!!!!!!!!!!!!!!!! (image of list, some on some off) !!!!!!!!!!!
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/effects_selection_list_1.png]]
 
 From there, you can choose any effect in the list to turn it on/off and set its config values. The list will also show which effects are currently on.
 
@@ -28,7 +28,7 @@ After turning on and configuring a few effects, you can save that effect system 
 
 Presets are not bound to specific VTube Studio models, but you can set up **hotkeys** in your model to toggle effect presets or switch between them and their saved config values. All effects and effect config values are set up so switching between presets will **smoothly fade between the effects** when hotkeys are used.
 
-----------!!!!!!!!!!!!!!!!! (image of new hotkey, remember to change hotkey page too) !!!!!!!!!!!
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/effects_hotkey_1.png]]
 
 ## Effects and transparent streaming
 
@@ -42,5 +42,5 @@ In addition to that, VTube Studio also supports **[Spout2 Backgrounds](https://g
 
 Some effects distort your view of the model. Item pinning is based on your mouse cursor position, so when the model is distorted, it is not actually where it appears to be and manual pinning will not work as expected. Item scene hotkeys will still work though.
 
-----------!!!!!!!!!!!!!!!!! (image of distorted model) !!!!!!!!!!!
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/effects_wave.png]]
 
