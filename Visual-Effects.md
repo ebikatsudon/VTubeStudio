@@ -54,3 +54,7 @@ Some effects distort your view of the model. Item pinning is based on your mouse
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/effects_wave.png]]
 
+
+## Effects and VNet
+
+Active effects are currently **not** synchronized via [VNet](https://github.com/DenchiSoft/VTubeStudio/wiki/Multiplayer). That means if you activate effects on your side, people on the other side won't see them. They can have their own effects active.
