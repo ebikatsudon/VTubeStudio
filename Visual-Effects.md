@@ -1,5 +1,7 @@
 VTube Studio has built-in post-processing, allowing you to add **"Visual Effects"** directly to the scene. This is available on **Windows** and **macOS**. Some effects work with [transparent streaming](https://github.com/DenchiSoft/VTubeStudio/wiki/Recording-Streaming-with-OBS), others don't.
 
+You can combine effects, save effect presets and load those presets via hotkeys to switch between them.
+
 <p float="left">
   <img src="https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/eff_turn_on.gif" width="290" /> 
   <img src="https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/eff_lens.gif" width="290" /> 
