@@ -1,15 +1,17 @@
 VTube Studio has built-in post-processing, allowing you to add **"Visual Effects"** directly to the scene. This is available on **Windows** and **macOS**. Some effects work with [transparent streaming](https://github.com/DenchiSoft/VTubeStudio/wiki/Recording-Streaming-with-OBS), others don't.
 
+You can combine effects, save effect presets and load those presets via hotkeys to switch between them.
+
 <p float="left">
   <img src="https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/eff_turn_on.gif" width="290" /> 
   <img src="https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/eff_lens.gif" width="290" /> 
-  <img src="https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/eff_eyes.gif" width="290" /> 
+  <img src="https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/eff_outline.gif" width="290" /> 
 </p>
 
 <p float="left">
-  <img src="https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/eff_outline.gif" width="290" /> 
+  <img src="https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/eff_particle.gif" width="290" /> 
   <img src="https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/eff_pixel_various.gif" width="290" /> 
-  <img src="https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/eff_lens_b.gif" width="290" /> 
+  <img src="https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/eff_eyes.gif" width="290" /> 
 </p>
 
 Effects include lens distortion, bloom, particles, overlays, various lighting effects and many more. You can configure and combine these effects however you want and then save your configurations as **VFX presets** that can be loaded at any time using hotkeys.
@@ -54,3 +56,7 @@ Some effects distort your view of the model. Item pinning is based on your mouse
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/effects_wave.png]]
 
+
+## Effects and VNet
+
+Active effects are currently **not** synchronized via [VNet](https://github.com/DenchiSoft/VTubeStudio/wiki/Multiplayer). That means if you activate effects on your side, people on the other side won't see them. They can have their own effects active.
