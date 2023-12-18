@@ -1,6 +1,16 @@
-VTube Studio had built-in post-processing, allowing you to add **"Visual Effects"** directly to the scene. This is available on **Windows** and **macOS**. Some effects work with [transparent streaming](https://github.com/DenchiSoft/VTubeStudio/wiki/Recording-Streaming-with-OBS), others don't.
+VTube Studio has built-in post-processing, allowing you to add **"Visual Effects"** directly to the scene. This is available on **Windows** and **macOS**. Some effects work with [transparent streaming](https://github.com/DenchiSoft/VTubeStudio/wiki/Recording-Streaming-with-OBS), others don't.
 
-----------!!!!!!!!!!!!!!!!! (three small gifs showing effects) !!!!!!!!!!!
+<p float="left">
+  <img src="https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/eff_turn_on.gif" width="290" /> 
+  <img src="https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/eff_lens.gif" width="290" /> 
+  <img src="https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/eff_eyes.gif" width="290" /> 
+</p>
+
+<p float="left">
+  <img src="https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/eff_outline.gif" width="290" /> 
+  <img src="https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/eff_pixel_various.gif" width="290" /> 
+  <img src="https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/eff_lens_b.gif" width="290" /> 
+</p>
 
 Effects include lens distortion, bloom, particles, overlays, various lighting effects and many more. You can configure and combine these effects however you want and then save your configurations as **VFX presets** that can be loaded at any time using hotkeys.
 
