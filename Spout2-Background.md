@@ -11,3 +11,5 @@ Using this, you could for example use OBS (you can start OBS multiple times) to 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/hint_bottom.png]]
 
 Also, be careful about the resolution of the Spout2 source you select. Having a very high resolution may cause lag, so it's recommended to keep streams at **1920x1080** at most.
+
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/spout2_bg_source.jpg]]
