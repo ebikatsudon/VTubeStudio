@@ -6,7 +6,7 @@ Using this, you could for example use OBS (you can start OBS multiple times) to 
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/hint_top.png]]
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/bunny_point.png|alt="Important Point!!"|height=59px|width=189px]]<br/>
-This will show whatever is shown in the Spout2 stream directly in VTube Studio. Like an OBS "screen capture", this can be very dangerous. Be careful with this!!
+⚠️ ⚠️ ⚠️  This will show whatever is shown in the Spout2 stream directly in VTube Studio. Like an OBS "screen capture", this can be very dangerous and potentially show private information. **Be careful with this!!** ⚠️ ⚠️ ⚠️ 
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/hint_bottom.png]]
 
