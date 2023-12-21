@@ -11,7 +11,7 @@ You can combine effects, save effect presets and load those presets via hotkeys 
 <p float="left">
   <img src="https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/eff_particle.gif" width="290" /> 
   <img src="https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/eff_pixel_various.gif" width="290" /> 
-  <img src="https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/eff_eyes.gif" width="290" /> 
+  <img src="https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/eff_eyes_b.gif" width="290" /> 
 </p>
 
 Effects include lens distortion, bloom, particles, overlays, various lighting effects and many more. You can configure and combine these effects however you want and then save your configurations as **VFX presets** that can be loaded at any time using hotkeys.
