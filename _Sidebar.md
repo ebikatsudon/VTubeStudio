@@ -21,6 +21,8 @@ VTS Manual
 * [[Loading your own Backgrounds]]
 * [[VTube Studio Settings]]
 * [[Display Light Overlay]]
+* [[Visual Effects]]
+* [[Spout2 Background]]
 * [[VTS Model Settings]]
 * [Expressions ("Stickers"/"Emotes")](https://github.com/DenchiSoft/VTubeStudio/wiki/Expressions-(a.k.a.-Stickers-or-Emotes))
 * [[Animations]]
