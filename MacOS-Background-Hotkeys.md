@@ -1,6 +1,6 @@
-VTube Studio supports hotkey activation on macOS even when the VTube Studio window is not in focus.
+VTube Studio supports hotkey activation on macOS even when the VTube Studio window is not in focus. However, this requires VTube Studio to read keyboard input in the background which isn't usually allowed for security reasons.
 
-For this to work, you'll have to grant VTube Studio the "accessibility" permission on macOS.
+So, for this to work, you'll have to grant VTube Studio the "accessibility" permission on macOS.
 
 If this permission isn't granted, VTube Studio will show a warning popup and ask you to grant it, which will take you right to the macOS settings page. You can also grant it manually like this:
 
