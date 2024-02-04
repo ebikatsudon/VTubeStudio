@@ -8,18 +8,18 @@ Used distro: **Arch Linux**. The dollar sign represents the start of the command
 
 ## Install python39
 
-`$ sudo pacman -Syu python39` 
+`$ sudo pacman -Sy python39` 
 
 Note that `pacman` cannot run without `sudo`. `pacman` is the package manager on the used Arch install, yours might be different.
 
-`-Syu` is the argument for `pacman` that tells it to update the mirrors and install the package.
+`-Sy` is the argument for `pacman` that tells it to update the mirrors and install the package.
 
 `python39` is the package name itself (I think on Ubuntu it might be called `python3.9`).
 
 
 ## Install the requirements
 
-`$ sudo pacman -Syu python-pip python-virtualenv git`
+`$ sudo pacman -Sy python-pip python-virtualenv git`
 
 
 `python-pip` is the thing we will use to install stuff in our virtual environment.
@@ -50,9 +50,24 @@ And install all the stuff the facetracker requires to run:
 
 The reason `numpy` is different is because we need an older version of `numpy`. This specific version is required.
 
-And then, this is where the magic happens!
+Lastly, before starting the face tracker, we need to make sure VTube Studio can see it. 
 
-`$ python facetracker.py -c 0 -W 1280 -H 720 --discard-after 0 --scan-every 0 --no-3d-adapt 1 --max-feature-updates 900`
+Right click on Vtube Studio in your Steam Library, click on Properties > Installed Files > Browse. 
+
+Go to Vtube Studio_Data > StreamingAssets and open ip.txt (or create it if its not there).
+
+Inside, you need two things to be correct: 
+`ip=0.0.0.0`
+and
+`port=11573`
+
+Make sure to save after you've edited/added them. Now, Vtube Studio will be listening to the right ip and ports for the facetracker.
+
+Now, this is where the magic happens! Go back to your terminal and input:
+
+`$ python facetracker.py  -W 1280 -H 720 --discard-after 0 --scan-every 0 --no-3d-adapt 1 --max-feature-updates 900 -c 0`
+
+Note that `-c 0` represents your camera. It usually is `0` but if you have multiple cameras (like the camera from the Valve index) you may need to use a different number here (try `1`, `2`, ...)
 
 ## Start VTube Studio
 
