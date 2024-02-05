@@ -10,6 +10,8 @@ If this permission isn't granted, VTube Studio will show a warning popup and ask
 
 Macintosh HD > Users > _username_ > Library > Application Support > Steam > steamapps > common > VTube Studio
 
-[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/macos_acc_bg_1.png]]
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/macos_acc_bg_3.png]]
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/macos_acc_bg_2.png]]
+
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/macos_acc_bg_4.png]]
