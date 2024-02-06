@@ -7,13 +7,13 @@ So, for this to work, you'll have to grant TWO permissions to VTube Studio. Both
 
 If those permissions aren't granted, background keypresses cannot be read. Make sure you activate them in the macOS system settings.
 
-### Accessibility permission
+### 1. Add Accessibility permission
 
 * Open macOS system settings.
 * **Privacy & Security**  =>  **Accessibility**  => **Add VTube Studio to list and make sure toggle button is on.**
 * Restart VTube Studio if it was running.
 
-### Input Monitoring permission
+### 2. Add Input Monitoring permission
 
 * Open macOS system settings.
 * **Privacy & Security**  =>  **Input Monitoring**  => **Add VTube Studio to list and make sure toggle button is on.**
