@@ -19,7 +19,7 @@ If those permissions aren't granted, background keypresses cannot be read. Make 
 * **Privacy & Security**  =>  **Input Monitoring**  => **Add VTube Studio to list and make sure toggle button is on.**
 * Restart VTube Studio if it was running.
 
-### How do I add VTube Studio to that list?
+### How do I add VTube Studio to those permission lists?
 
 You'll have to find the VTube Studio executable file in the Steam folder. Typically it is located here:
 
