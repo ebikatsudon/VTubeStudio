@@ -27,6 +27,8 @@ You'll have to find the VTube Studio executable file in the Steam folder. Typica
 
 If you cannot find the `Library` folder in your user folder, make sure to unhide it like this: https://discussions.apple.com/thread/254002152?sortBy=best
 
+⚠️ **Make sure VTube Studio is added to BOTH lists.** ⚠️ 
+
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/macos_acc_bg_3.png]]
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/macos_acc_bg_2.png]]
