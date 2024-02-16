@@ -66,3 +66,14 @@ Some effects distort your view of the model. Item pinning is based on your mouse
 ## Effects and VNet
 
 Active effects are currently **not** synchronized via [VNet](https://github.com/DenchiSoft/VTubeStudio/wiki/Multiplayer). That means if you activate effects on your side, people on the other side won't see them. They can have their own effects active.
+
+
+## Restricted/Experimental effects
+
+Some artists and riggers have voiced concerns about certain visual effects, mostly related to effects that distort the model in any way.
+
+Some experimental effects move individual model layers in ways not intended by artists and riggers and may reveal hidden parts of the model. You should not use those effects without explicit permission from the people who made your model.
+
+These effects are disabled by default and not listed in the effects list. To enable them, turn on **"Use experimental effects"** in the general VFX config like this:
+
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/warning_experimental_effects.jpg]]
