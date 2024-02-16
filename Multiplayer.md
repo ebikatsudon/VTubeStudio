@@ -9,7 +9,7 @@
 
 You can buy it here: https://store.steampowered.com/app/2384550
 
-* It works for **up to 4 people** per collab session.
+* It works for **up to 6 people** per collab session.
 * You HAVE to **start VTube Studio through Steam** to use VNet.
 * Any models and items (including Live2D Items) you load are **automatically synced to other participants**. There are currently no restrictions as to how many you can load.
 * With this, your collab participants will **show up directly in your VTS**, so you no longer have to deal with bad collab video quality.
@@ -117,6 +117,8 @@ Rendering and animating multiple complex Live2D models may require a good CPU. B
 Since all models are stored in memory and never saved on the hard drive of collab partners, loading multiple big models may also require a significant amount of memory: if the downloaded encrypted model files are 50 MB in total, it will increase the VTube Studio memory usage by at least 50 MB when the model is downloaded. Same goes for items.
 
 As for the internet connection, it depends how fast you want to send model animation data to the other collab participants. At 30-60 FPS, you can expect VTube Studio to require about 30-60 kb/s of bandwidth up/down. For the collab host, the required bandwidth might be more in the 100-300 kb/s range. Mainly this depends on the complexity of the used models (amount of Live2D parameters).
+
+You can currently have collabs with up to 6 people, but keep in mind that running 6 complex models on one PC can be hard on your CPU. However, with simple models it should be no problem.
 
 ## Are there any limitations? For example for item/model sizes or Live2D items?
 
