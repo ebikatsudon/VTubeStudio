@@ -2,7 +2,11 @@ VTube Studio has built-in post-processing, allowing you to add **"Visual Effects
 
 You can combine effects, save effect presets and load those presets via hotkeys to switch between them.
 
-:warning: **WARNING!** Some artists and riggers have voiced concerns about certain filters, mostly related to filters that distort the model in any way. Before using these filters, it is recommended to get permission from the people who made your model to prevent any potential disagreements with them in the future. :warning:
+<br/>
+
+:warning: :warning: :warning: **WARNING! Some artists and riggers have voiced concerns about certain filters, mostly related to filters that distort the model in any way. Before using these filters, it is recommended to get permission from the people who made your model to prevent any potential disagreements with them in the future.** :warning: :warning: :warning:
+
+<br/>
 
 <p float="left">
   <img src="https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/eff_turn_on.gif" width="290" /> 
