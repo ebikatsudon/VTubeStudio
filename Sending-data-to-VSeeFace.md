@@ -1,6 +1,6 @@
 You can use VTube Studio on your iPhone/iPad to send blendshape tracking data to [VSeeFace](https://www.vseeface.icu/) running on your PC, taking advantage of the high-quality iPhone tracking for your 3D models. This functionality is included in iOS version of VTube Studio **completely for free**, so you don't have to buy the PRO version if you want to use this feature (any support is of course appreciated regardless).
 
-Want to create your own app that receives tracking data from VTube Studio? Check out [this page](https://github.com/DenchiSoft/VTubeStudioBlendshapeUDPReceiverTest).
+**For developers:** Want to create your own app that receives tracking data from VTube Studio? Check out [this page](https://github.com/DenchiSoft/VTubeStudioBlendshapeUDPReceiverTest) ❤️
 
 ## What's VSeeFace?
 
