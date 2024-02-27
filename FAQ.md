@@ -139,7 +139,7 @@ Not sure what causes this. This has happened to some people in the past. Usually
 
 ## Why does the app lag? Why does it eat so much CPU/GPU?
 
-Lag is almost always caused by network issues. As a first thing to try, restart your router/switches, PC and smartphone. If the issues persist, check the chapter ["Connection Issues & Troubleshooting"](https://github.com/DenchiSoft/VTubeStudio/wiki/Connection-Issues-%26amp%3B-Troubleshooting).
+Lag is almost always caused by network issues. As a first thing to try, restart your router/switches, PC and smartphone. If the issues persist, check the chapter ["Connection Issues & Troubleshooting"](https://github.com/DenchiSoft/VTubeStudio/wiki/Connection-Issues-&-Troubleshooting).
 
 If you are experiencing high CPU/GPU usage: this is not normal. VTube Studio should not require a strong CPU/GPU, so something may be going wrong. Ask in the [VTube Studio Discord](https://discord.gg/VTubeStudio) if you're having performance issues.
 
