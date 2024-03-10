@@ -46,6 +46,8 @@ After turning on and configuring a few effects, you can save that effect system 
 
 Presets are not bound to specific VTube Studio models, but you can set up **hotkeys** in your model to toggle effect presets or switch between them and their saved config values. All effects and effect config values are set up so switching between presets will **smoothly fade between the effects** when hotkeys are used.
 
+Effect preset hotkeys cannot be used while any window/popup related to effect configuration is open in VTube Studio.
+
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/effects_hotkey_1.png]]
 
 ## Effects and transparent streaming
