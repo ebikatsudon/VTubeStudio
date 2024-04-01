@@ -56,6 +56,7 @@ VTS Manual
 * [Steam Workshop](https://github.com/DenchiSoft/VTubeStudio/wiki/Workshop)
 * [How to fix lag issues](https://github.com/DenchiSoft/VTubeStudio/wiki/Lag-Troubleshooting)
 * [How to fix webcam issues](https://github.com/DenchiSoft/VTubeStudio/wiki/Webcam-Troubleshooting)
+* [[Live2D Cubism Editor Communication]]
 * [[FAQ]]
 * [[Privacy Policy, Licensing and Further Terms]]
 
