@@ -22,5 +22,7 @@ Once that is done, start the connection to the Live2D Cubism Editor API in VTube
 
 VTube Studio should now automatically try to connect/re-connect in the background. When it connects for the first time, you have to check the "Permission" checkbox in Live2D Cubism. Now, VTube Studio will have full access to the Live2D Cubism Editor API. VTube Studio will remember its own token so you only have to do this once.
 
+Keep in mind that VTube Studio will send all Live2D parameter values of the currently loaded model to the Live2D Cubism Editor. So syncing model movements between VTube Studio and the Live2D Cubism Editor will only really work properly if models with the same Live2D parameters are loaded in both.
+
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/live2d_api_editor_2.png]]
 
