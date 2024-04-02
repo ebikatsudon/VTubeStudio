@@ -26,3 +26,13 @@ Keep in mind that VTube Studio will send all Live2D parameter values of the curr
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/live2d_api_editor_2.png]]
 
+## Performance
+
+VTube Studio will send all parameter values into the Live2D Cubism Editor every frame. For big models that run at low FPS in the Live2D Cubism Editor, this could freeze the editor entirely.
+
+If that is the case for your model, it's recommended to only use the parameter sync functionality when the physics window is active in Live2D Cubism since the physics window usually runs smoothly.
+
+To make sure VTube Studio only sends parameter data when the physics window is active, activate the `"Physics window only"` toggle.
+
+
+
