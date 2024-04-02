@@ -1,3 +1,5 @@
+⚠️ **This is currently in BETA and may not work as expected (or at all). Use at your own risk and keep backups of your models!!** ⚠️ 
+
 ⚠️ **This functionality is only useful for Live2D riggers!! If you are not a Live2D rigger, ignore this.** ⚠️ 
 
 VTube Studio can connect directly to the Live2D Cubism Editor using the **Live2D Cubism External Application** functionality.
@@ -14,7 +16,7 @@ First, you have to make the Live2D Cubism Editor API is turned on. Select `File`
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/live2d_api_editor_1.png]]
 
-Once that is done, start the connection to the Live2D Cubism Editor API in VTube Studio (first settings tab). If VTube Studio runs on a different PC than Live2D Cubism, you can also connect to the Live2D Cubism Editor API via the local network by turning on `Editor runs on remote PC` and putting in the local IP address of the PC with Live2D Cubism running on it. Make sure firewall exceptions are set up correctly for this to work.
+Once that is done, start the connection to the Live2D Cubism Editor API in VTube Studio (first settings tab). If VTube Studio runs on a different PC than Live2D Cubism, you can also connect to the Live2D Cubism Editor API via the local network by turning on `"Editor runs on remote PC"` and putting in the local IP address of the PC with Live2D Cubism running on it. Make sure firewall exceptions are set up correctly for this to work.
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/live2d_api_editor_vts_1.png]]
 
