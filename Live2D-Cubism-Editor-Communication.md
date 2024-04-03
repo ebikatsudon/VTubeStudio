@@ -30,7 +30,7 @@ Keep in mind that VTube Studio will send all Live2D parameter values of the curr
 
 When working on a model in Live2D Cubism, you might want to start/stop sending parameters from VTS into the Editor on the fly.
 
-To do that, you can set up a hotkey in VTube Studio to toggle sending parameter data on/off. The hotkey type is called `"Live2D Editor API param sync"`;
+To do that, you can set up a hotkey in VTube Studio to toggle sending parameter data on/off. The hotkey type is called `"Live2D Editor API param sync"`.
 
 ## Performance
 
