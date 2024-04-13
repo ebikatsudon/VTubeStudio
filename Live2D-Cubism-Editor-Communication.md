@@ -33,7 +33,7 @@ You can also use this to send tracking data to the Live2D Cubism Editor when the
 There are two buttons in the Live2D Cubism Editor animation window. When VTube Studio isn't connected, these buttons are grayed out and cannot be pressed. When VTube Studio is connected, you can **press and hold** these buttons to receive tracking data from it.
 
 * **Snapshot button:** Press and hold to set currently sent tracking data to currently selected animation frame. Data is sent to the currently selected frame as long as the button is held and will overwrite its parameter values.
-* **Snapshot button:** Press and hold to record tracking data. Time in the animation window will progress and frames will be recorded as long as the button is held.
+* **Record button:** Press and hold to record tracking data. Time in the animation window will progress and frames will be recorded as long as the button is held.
 
 There are a few important points to remember when using this:
 
