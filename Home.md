@@ -8,6 +8,8 @@ Wanna see some examples? Just search ["VTube Studio" on Twitter](https://twitter
 
 This online manual contains information about all features of VTube Studio, as well as a few tutorials. Please scroll down and choose a topic from the main menu.
 
+**This manual is also available in Japanese, translated by 雨瀬 おるこ ([@Amase_Oruko](https://twitter.com/Amase_Oruko)):**  <br> 
+https://victorious-visor-592.notion.site/VTS-Wiki_JP-31c47e39f2964075902ec411160215f2
 
 **This manual is also available in Chinese:**  <br>
 **本手册有由 @Elegetic 与 @genthz 翻译的 [中文版本](https://github.com/Elegetic/VTubeStudio/wiki) 以及由 @Mouwoo 翻译的 [中文版本](https://github.com/Mouwoo/VTubeStudio/wiki) (最新版)**
