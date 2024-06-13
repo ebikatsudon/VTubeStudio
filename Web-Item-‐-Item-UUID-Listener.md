@@ -22,7 +22,7 @@ To get that ID, you can use the following javascript. This will pass you the ite
       <script>
          if (window.vuplex)
          {
-             addMessageListener(q);
+             addMessageListener();
          }
          else
          {
