@@ -52,16 +52,19 @@ local html files, JPGs, videos, etc. has to be turned on manually but be careful
 
 ---------- INSERT IMAGE (local video?)
 
-## Security
-
-as secure as chrome
-be careful to not open random sites from chat
-
 ## Limitations
 
 [vnet](https://github.com/DenchiSoft/VTubeStudio/wiki/Multiplayer)
 
 resolution
+
+shared zoom
+
+## Security
+
+as secure as chrome
+be careful to not open random sites from chat
+plugins cannot load web items. So a plugin couldnt just load a random website. Every website has to be opened by you manually or opened via a previously saved Item Scene. Maybe ,,
 
 ## API access
 
