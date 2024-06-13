@@ -54,6 +54,8 @@ Like OBS browser sources, VTube Studio Web Items support pages with transparent 
 
 local html files, JPGs, videos, etc. has to be turned on manually but be careful!!
 
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/web_items_local.png]]
+
 ---------- INSERT IMAGE (local video?)
 
 ## Limitations
