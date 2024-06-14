@@ -24,7 +24,7 @@ Some basic info:
 
 When you hover over the top right of the Web Item (see image above), a few buttons will be shown. Most should be self-explanatory. Some special buttons:
 
-* `Setting button:` Opens the full settings page. This gives you access to all Web Item settings, such as item cropping, scroll sensitivity and more.
+* `Settings button:` Opens the full settings page. This gives you access to all Web Item settings, such as item cropping, scroll sensitivity and more.
 * `Lock button:` Lets you lock/unlock this Web Item. You should lock Web Items when interacting with their loaded web page, otherwise you'll also scroll/drag the item around.
 * `Interaction button:` Turns web page interaction on/off for this Web Item. When you want to drag/move/scale a Web Item, you should turn interaction off because otherwise you'll also be interacting with the website at the same time.
 
@@ -42,7 +42,9 @@ Also, Web Items also work with ["Item Scenes"](https://github.com/DenchiSoft/VTu
 
 Web Items will be saved in Item Scenes including their URL, resolution, position, mute/unmute state, etc.
 
----------- INSERT GIF
+<p float="left">
+  <img src="https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/web_items_item_scenes.gif" width="490" /> 
+</p>
 
 ## Background transparency
 
@@ -56,7 +58,11 @@ local html files, JPGs, videos, etc. has to be turned on manually but be careful
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/web_items_local.png]]
 
----------- INSERT IMAGE (local video?)
+## Defaults
+
+You can set defaults for some options like whether or not newly spawned Web Items should be muted or unmuted or whether or not new Web Items should be able to load local files.
+
+These defaults can be set in the Web Item settings (scroll down a bit).
 
 ## Limitations
 
