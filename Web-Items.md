@@ -75,7 +75,7 @@ These defaults can be set in the Web Item settings (scroll down a bit in the set
 
 Web Items have various limitations:
 
-* They are *not synced via [VNet Multiplayer](https://github.com/DenchiSoft/VTubeStudio/wiki/Multiplayer)*. Syncing browser contexts would be extremely unsafe.
+* They are *not synced via [VNet Multiplayer](https://github.com/DenchiSoft/VTubeStudio/wiki/Multiplayer)*. Syncing browser contexts would be extremely unsafe. Your Web Items will only show up on your side in collab sessions.
 * Performance isn't optimal when playing high-resolution video in Web Items. It's recommended to keep the resolution of the Web Items at or below 1024 pixels if you experience performance issues or when playing multiple YouTube videos at the same time.
 * Due to limitations imposed by CEF, zoom levels are shared per domain. That means that all Web Items that are on the same domain will have the same zoom level.
 
