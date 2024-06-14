@@ -28,7 +28,7 @@ When you hover over the top right of the Web Item (see image above), a few butto
 * `Lock button:` Lets you lock/unlock this Web Item. You should lock Web Items when interacting with their loaded web page, otherwise you'll also scroll/drag the item around.
 * `Interaction button:` Turns web page interaction on/off for this Web Item. When you want to drag/move/scale a Web Item, you should turn interaction off because otherwise you'll also be interacting with the website at the same time.
 
----------- INSERT SOME GIFS
+[[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/web_items_examples.png]]
 
 ## Hotkeys & Item Scenes
 
