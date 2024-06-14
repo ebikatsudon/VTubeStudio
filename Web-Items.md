@@ -54,7 +54,14 @@ Like OBS browser sources, VTube Studio Web Items support pages with transparent 
 
 ## Loading local files
 
-local html files, JPGs, videos, etc. has to be turned on manually but be careful!!
+Like Google Chrome, you can use Web Items to load local files (text, images, HTML pages, ...) or even browse local folders.
+
+By default, this is turned off, so you have to manually allow your loaded Web Item to be able to load local files. Once you have done that, you can just use a local file path as URL for the Web Item and it will load.
+
+Examples formats:
+* `C:\Downloads\my_video.mp4` Will load the local video on the Web Item and play it.
+* `C:\` Will show the contents of that folder. Be VERY careful with opening local folders. There could be personal information in there.
+* `file://C:` Same as above, just using the `file://` prefix to open local files explicitly instead of implicitly.
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/web_items_local.png]]
 
@@ -62,41 +69,44 @@ local html files, JPGs, videos, etc. has to be turned on manually but be careful
 
 You can set defaults for some options like whether or not newly spawned Web Items should be muted or unmuted or whether or not new Web Items should be able to load local files.
 
-These defaults can be set in the Web Item settings (scroll down a bit).
+These defaults can be set in the Web Item settings (scroll down a bit in the settings list).
 
 ## Limitations
 
-[vnet](https://github.com/DenchiSoft/VTubeStudio/wiki/Multiplayer)
+Web Items have various limitations:
 
-resolution
-
-shared zoom
+* They are *not synced via [VNet Multiplayer](https://github.com/DenchiSoft/VTubeStudio/wiki/Multiplayer)*. Syncing browser contexts would be extremely unsafe.
+* Performance isn't optimal when playing high-resolution video in Web Items. It's recommended to keep the resolution of the Web Items at or below 1024 pixels if you experience performance issues or when playing multiple YouTube videos at the same time.
+* Due to limitations imposed by CEF, zoom levels are shared per domain. That means that all Web Items that are on the same domain will have the same zoom level.
 
 ## Security
 
-as secure as chrome
-be careful to not open random sites from chat
-plugins cannot load web items. So a plugin couldnt just load a random website. Every website has to be opened by you manually or opened via a previously saved Item Scene. Maybe ,,
+Web Items use the [Chromium Embedded Framework (CEF)](https://en.wikipedia.org/wiki/Chromium_Embedded_Framework). That means they are essentially as safe as Google Chrome. 
+
+That means it's relatively safe, but you should never visit any suspicious sites or open random links sent by your chat.
+
+VTube Studio plugins cannot spawn Web Items via the API. Any website shown by Web Items has to be manually opened by the user (or opened via a previously saved Item Scene).
+
+If plugins ever get access to Web Item functionality, it will be hidden behind an additional [permissions](https://github.com/DenchiSoft/VTubeStudio/tree/master/Permissions).
 
 ## API access
 
-may get access to set their own resolution, zoom, etc. if people want, will require special _permission_
+One interesting aspect of Web Items is that they themselves could be VTube Studio plugins:
+1. Load Web Item into the scene with URL `https://website.com/my_vts_plugin_url.html`
+2. That website uses JavaScript to connect to the VTube Studio API.
+3. The website is now an item in VTube Studio and connected to VTube Studio through the API at the same time.
+4. The website can use the VTube Studio API to move, pin, unpin, delete, etc. its own item.
+5. When the item is deleted, the browser process quits and the API connection is automatically disconnected.
 
-[Permissions](https://github.com/DenchiSoft/VTubeStudio/tree/master/Permissions)
+*Note:* If the plugin wants to move, pin, etc. its own items, it needs to know the *item instance UUID*. Websites loaded in VTube Studio Web Items can receive that ID using JavaScript on page load like this: ["Item UUID Listener"](https://github.com/DenchiSoft/VTubeStudio/wiki/Web-Item-%E2%80%90-Item-UUID-Listener).
 
-[LINK](https://github.com/DenchiSoft/VTubeStudio/wiki/Web-Item-%E2%80%90-Item-UUID-Listener)
+In general, API access related to Web Items is very limited:
 
-
-
-
-
-
-
-
+* VTS plugins cannot spawn Web Items.
+* You can use the API to move, pin and delete Web Items like normal items. 
+* In the future, there may be more advanced functionality, such as letting plugins load URLs. If this is ever added, it will require an additional [permission](https://github.com/DenchiSoft/VTubeStudio/tree/master/Permissions) that has to be manually requested by the plugin and granted by the user.
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/web_item_api_1.png|width=587px]]
-
-
 
 
 
