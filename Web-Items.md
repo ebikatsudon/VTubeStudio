@@ -81,11 +81,11 @@ Web Items have various limitations:
 
 ## Special file support (.mp4, .pdf, ...)
 
-Web Items can directly display certain files, such as videos or text files. This works regardless of where those files are (online or locally on your PC).
+Web Items can directly display certain files, such as videos, music files or text files. This works regardless of where those files are stored (online or locally on your PC).
 
 Supported formats include: `.mp4`, `.webm`, `.mp3`, `.bmp`, `.pdf`, `.txt`, `.html`, `.json`
 
-You can also directly drag files of that type into the VTube Studio window. Doing so will load the file in a VTube Studio Web Item. Even when loading a picture file (for example BMP) that way, it is still a regular Web Item that will not be shared via VNet.
+You can also directly drag files of that type into the VTube Studio window. Doing so will load the file in a VTube Studio Web Item. Local file access will be automatically turned on for Web Items that were dragged into VTube Studio. Even when loading a picture file (for example a `.bmp`) that way, it is still a regular Web Item that will not be shared via VNet.
 
 ## Security
 
