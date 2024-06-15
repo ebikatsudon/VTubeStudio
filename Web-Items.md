@@ -79,6 +79,14 @@ Web Items have various limitations:
 * Performance isn't optimal when playing high-resolution video in Web Items. It's recommended to keep the resolution of the Web Items at or below 1024 pixels if you experience performance issues or when playing multiple YouTube videos at the same time.
 * Due to limitations imposed by CEF, zoom levels are shared per domain. That means that all Web Items that are on the same domain will have the same zoom level.
 
+## Special file support (.mp4, .pdf, ...)
+
+Web Items can directly display certain files, such as videos or text files. This works regardless of where those files are (online or locally on your PC).
+
+Supported formats include: `.mp4`, `.webm`, `.mp3`, `.bmp`, `.pdf`, `.txt`, `.html`, `.json`
+
+You can also directly drag files of that type into the VTube Studio window. Doing so will load the file in a VTube Studio Web Item. Even when loading a picture file (for example BMP) that way, it is still a regular Web Item that will not be shared via VNet.
+
 ## Security
 
 Web Items use the [Chromium Embedded Framework (CEF)](https://en.wikipedia.org/wiki/Chromium_Embedded_Framework). That means they are essentially as safe as Google Chrome. 
