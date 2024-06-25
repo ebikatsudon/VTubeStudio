@@ -93,6 +93,8 @@ Web Items use the [Chromium Embedded Framework (CEF)](https://en.wikipedia.org/w
 
 That means Web Items are relatively safe, but you should never visit any suspicious sites or open random links sent by your chat.
 
+Websites opened in Web Items are always blocked from accessing your webcam or microphone. For security reasons, there is no way to allow Web Items to access your webcam/microphone.
+
 VTube Studio plugins cannot spawn Web Items via the API. Any website shown by Web Items has to be manually opened by the user (or opened via a previously saved Item Scene).
 
 If plugins ever get access to Web Item functionality, it will be hidden behind an additional [permission](https://github.com/DenchiSoft/VTubeStudio/tree/master/Permissions).
