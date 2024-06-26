@@ -99,6 +99,10 @@ VTube Studio plugins cannot spawn Web Items via the API. Any website shown by We
 
 If plugins ever get access to Web Item functionality, it will be hidden behind an additional [permission](https://github.com/DenchiSoft/VTubeStudio/tree/master/Permissions).
 
+## Web Items and the Steam Workshop
+
+Web Items cannot be uploaded to the Steam Workshop.
+
 ## API access
 
 One interesting aspect of Web Items is that they themselves could be VTube Studio plugins:
