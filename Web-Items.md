@@ -112,7 +112,7 @@ One interesting aspect of Web Items is that they themselves could be VTube Studi
 4. The website can use the VTube Studio API to move, pin, unpin, delete, etc. its own item.
 5. When the item is deleted, the browser process quits and the API connection is automatically disconnected.
 
-*Note:* If the plugin wants to move, pin, etc. its own items, it needs to know the *item instance UUID*. Websites loaded in VTube Studio Web Items can receive that ID using JavaScript on page load like this: ["Item UUID Listener"](https://github.com/DenchiSoft/VTubeStudio/wiki/Web-Item-%E2%80%90-Item-UUID-Listener).
+*Note:* If the plugin wants to move, pin, etc. its own item, it needs to know the *item instance UUID*. Websites loaded in VTube Studio Web Items can receive that ID using JavaScript on page load like this: ["Item UUID Listener"](https://github.com/DenchiSoft/VTubeStudio/wiki/Web-Item-%E2%80%90-Item-UUID-Listener).
 
 In general, API access related to Web Items is very limited:
 
