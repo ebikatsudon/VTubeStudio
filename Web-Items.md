@@ -1,8 +1,4 @@
-⚠️  **This is currently an unreleased/unannounced feature.** ⚠️ 
-
-<br />
-
-**Web Items** are a new item type available in VTube Studio.
+**Web Items** are a item type available in VTube Studio (Windows/macOS only).
 
 A Web Item is essentially a full web browser, available as an item in VTube Studio. They can be moved, rotated and pinned like normal items but display a website that you can interact with. Under the hood, Web Items use the [Chromium Embedded Framework (CEF)](https://en.wikipedia.org/wiki/Chromium_Embedded_Framework), so they have most of the functionality that Google Chrome has.
 
