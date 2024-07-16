@@ -42,6 +42,8 @@ VTS Manual
 * [[Taking/Sharing Screenshots]]
 * [[Item System]]
 * [[Live2D-Items]]
+* [[Web-Items]]
+* [Web-Item Plugins](https://github.com/DenchiSoft/VTubeStudio/wiki/Web-Item-%E2%80%90-Item-UUID-Listener)
 * [[Recoloring Models and Items]]
 * [[Record Animations]]
 * [[Multiplayer]]
