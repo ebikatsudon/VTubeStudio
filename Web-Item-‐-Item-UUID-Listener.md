@@ -1,6 +1,4 @@
-⚠️  **This is currently an unreleased/unannounced feature.** ⚠️ 
 
-<br />
 
 [**Web Items**](https://github.com/DenchiSoft/VTubeStudio/wiki/Web-Items) are just websites running in a browser, so they themselves could be VTS plugins and interact with VTube Studio directly. To interact with the VTS API (or at least with the item-related endpoints), the Web Item will need to know its own item instance UUID used to identify it inside of VTS.
 
