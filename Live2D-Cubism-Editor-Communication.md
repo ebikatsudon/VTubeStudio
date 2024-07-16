@@ -1,5 +1,3 @@
-⚠️ **This is currently in BETA and may not work as expected (or at all). Use at your own risk and keep backups of your models!!** ⚠️ 
-
 ⚠️ **This functionality is only useful for Live2D riggers!! If you are not a Live2D rigger, ignore this.** ⚠️ 
 
 VTube Studio can connect directly to the Live2D Cubism Editor using the **Live2D Cubism External Application** functionality.
