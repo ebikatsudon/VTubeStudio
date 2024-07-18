@@ -239,6 +239,12 @@ For NVIDIA GPUs, this can be done in the "NVIDIA Control Panel". Make sure it's 
 
 [[https://raw.githubusercontent.com/wiki/DenchiSoft/VTubeStudio/img/aniso_filter_on.png]]
 
+## VTube Studio keeps crashing randomly with error 0xc0000005
+
+Usually this indicates a hardware issue, typically related to your RAM, CPU or motherboard.
+
+In some cases, this can be fixed by modifying BIOS settings. For a full list of things you can try, check [this page](https://github.com/DenchiSoft/VTubeStudio/wiki/VTS-Crash-Issue-0xC0000005).
+
 ## Does VTube Studio store/record any personal data?
 
 **No.**
